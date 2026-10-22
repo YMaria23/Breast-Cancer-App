@@ -1,0 +1,781 @@
+Patient ID,Cancer Type,Cancer Type Detailed,Cellularity,Chemotherapy,Pam50 + Claudin-low subtype,Integrative Cluster,Oncotree Code,3-Gene classifier subtype,PR Status
+MB-0002,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,4ER+,IDC,ER+/HER2- High Prolif,Positive
+MB-0008,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,Yes,LumB,9,MDLC,ER+/HER2- High Prolif,Positive
+MB-0010,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,7,IDC,ER+/HER2- High Prolif,Positive
+MB-0028,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,9,IDC,ER+/HER2- High Prolif,Negative
+MB-0035,Breast Cancer,Breast Invasive Lobular Carcinoma,High,No,Her2,3,ILC,ER+/HER2- High Prolif,Negative
+MB-0036,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-0060,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumB,10,IDC,ER+/HER2- High Prolif,Positive
+MB-0066,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,7,IDC,ER+/HER2- High Prolif,Positive
+MB-0100,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,Yes,Basal,10,IDC,ER-/HER2-,Negative
+MB-0101,Breast Cancer,Breast Invasive Lobular Carcinoma,Moderate,No,Normal,8,ILC,ER+/HER2- Low Prolif,Positive
+MB-0102,Breast Cancer,Breast Invasive Lobular Carcinoma,High,Yes,LumB,3,ILC,ER+/HER2- High Prolif,Positive
+MB-0106,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,LumA,8,IDC,ER+/HER2- Low Prolif,Positive
+MB-0111,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-0112,Breast Cancer,Breast Invasive Lobular Carcinoma,High,No,LumA,3,ILC,ER+/HER2- Low Prolif,Negative
+MB-0114,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,LumA,8,IDC,ER+/HER2- High Prolif,Positive
+MB-0115,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,Basal,10,IDC,ER-/HER2-,Negative
+MB-0116,Breast Cancer,Breast Invasive Lobular Carcinoma,Moderate,Yes,Normal,6,ILC,ER+/HER2- High Prolif,Positive
+MB-0117,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,LumA,1,MDLC,ER+/HER2- Low Prolif,Negative
+MB-0119,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,7,IDC,ER+/HER2- High Prolif,Negative
+MB-0120,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,9,IDC,ER+/HER2- High Prolif,Negative
+MB-0121,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,8,IDC,ER+/HER2- Low Prolif,Negative
+MB-0122,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,8,IDC,ER+/HER2- Low Prolif,Positive
+MB-0123,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,1,IDC,ER+/HER2- High Prolif,Positive
+MB-0124,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Low,Yes,LumA,8,MDLC,ER+/HER2- Low Prolif,Positive
+MB-0125,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Low,No,LumB,8,MDLC,ER+/HER2- Low Prolif,Positive
+MB-0128,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,claudin-low,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-0131,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,LumA,8,IDC,ER+/HER2- High Prolif,Negative
+MB-0133,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,Yes,LumA,8,MDLC,ER+/HER2- Low Prolif,Negative
+MB-0134,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,8,IDC,ER+/HER2- High Prolif,Negative
+MB-0136,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-0138,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-0139,Breast Cancer,Breast Invasive Lobular Carcinoma,Moderate,No,LumA,3,ILC,ER+/HER2- Low Prolif,Positive
+MB-0140,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,8,IDC,ER+/HER2- High Prolif,Negative
+MB-0143,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,9,IDC,ER+/HER2- High Prolif,Negative
+MB-0145,Breast Cancer,Breast Invasive Lobular Carcinoma,Moderate,No,LumA,3,ILC,ER+/HER2- Low Prolif,Positive
+MB-0147,Breast Cancer,Breast Invasive Lobular Carcinoma,High,No,LumA,2,ILC,ER+/HER2- High Prolif,Positive
+MB-0148,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,Her2,5,IDC,HER2+,Negative
+MB-0149,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,Basal,10,IDC,ER-/HER2-,Negative
+MB-0150,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,Basal,4ER+,IDC,ER-/HER2-,Negative
+MB-0151,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,2,IDC,ER+/HER2- High Prolif,Positive
+MB-0152,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,Her2,4ER-,IDC,HER2+,Negative
+MB-0154,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,4ER+,IDC,ER+/HER2- Low Prolif,Negative
+MB-0155,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,claudin-low,4ER+,IDC,ER+/HER2- Low Prolif,Negative
+MB-0157,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,claudin-low,4ER-,IDC,ER-/HER2-,Negative
+MB-0162,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,No,LumA,7,MDLC,ER+/HER2- Low Prolif,Positive
+MB-0164,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,claudin-low,10,IDC,ER-/HER2-,Negative
+MB-0165,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,LumA,5,IDC,HER2+,Negative
+MB-0166,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,LumA,4ER+,IDC,ER+/HER2- Low Prolif,Positive
+MB-0167,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,9,IDC,ER+/HER2- High Prolif,Positive
+MB-0168,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,claudin-low,4ER+,IDC,ER+/HER2- Low Prolif,Negative
+MB-0170,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,LumA,3,IDC,ER+/HER2- Low Prolif,Negative
+MB-0171,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,Normal,4ER+,MDLC,ER+/HER2- Low Prolif,Negative
+MB-0172,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,Yes,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-0173,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,7,IDC,ER+/HER2- High Prolif,Positive
+MB-0174,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,Yes,claudin-low,4ER-,IDC,ER-/HER2-,Negative
+MB-0176,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,LumA,1,IDC,ER+/HER2- High Prolif,Positive
+MB-0177,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Low,No,LumA,6,MDLC,ER+/HER2- Low Prolif,Positive
+MB-0180,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,8,IDC,ER+/HER2- Low Prolif,Positive
+MB-0181,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,7,IDC,ER+/HER2- Low Prolif,Positive
+MB-0184,Breast Cancer,Breast Invasive Mixed Mucinous Carcinoma,Moderate,No,LumA,4ER+,IMMC,ER+/HER2- Low Prolif,Positive
+MB-0189,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,Normal,6,IDC,ER+/HER2- Low Prolif,Negative
+MB-0192,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,claudin-low,4ER+,MDLC,ER+/HER2- Low Prolif,Negative
+MB-0194,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-0195,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,6,IDC,ER+/HER2- High Prolif,Negative
+MB-0197,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumB,9,IDC,ER+/HER2- High Prolif,Positive
+MB-0198,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumB,8,IDC,ER+/HER2- High Prolif,Positive
+MB-0199,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,No,LumA,3,MDLC,ER+/HER2- Low Prolif,Positive
+MB-0201,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,Basal,5,IDC,HER2+,Negative
+MB-0202,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumA,4ER+,IDC,ER+/HER2- High Prolif,Positive
+MB-0203,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumA,7,IDC,ER+/HER2- High Prolif,Positive
+MB-0204,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,3,IDC,ER+/HER2- Low Prolif,Negative
+MB-0205,Breast Cancer,Breast Invasive Lobular Carcinoma,Low,No,Normal,3,ILC,ER+/HER2- Low Prolif,Negative
+MB-0206,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,claudin-low,10,IDC,ER-/HER2-,Negative
+MB-0214,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Basal,10,IDC,ER-/HER2-,Negative
+MB-0215,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,No,LumB,3,MDLC,ER+/HER2- High Prolif,Positive
+MB-0218,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumB,1,IDC,ER+/HER2- High Prolif,Positive
+MB-0220,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,claudin-low,4ER+,IDC,HER2+,Negative
+MB-0221,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,Her2,4ER-,IDC,ER+/HER2- High Prolif,Negative
+MB-0223,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumA,4ER+,IDC,ER+/HER2- Low Prolif,Negative
+MB-0226,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,LumA,8,IDC,ER+/HER2- Low Prolif,Positive
+MB-0228,Breast Cancer,Breast Invasive Lobular Carcinoma,Low,No,Normal,4ER+,ILC,ER+/HER2- Low Prolif,Positive
+MB-0229,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,No,LumA,7,MDLC,ER+/HER2- Low Prolif,Positive
+MB-0232,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,8,IDC,ER+/HER2- Low Prolif,Positive
+MB-0235,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,Yes,LumA,8,IDC,ER+/HER2- Low Prolif,Positive
+MB-0236,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,LumA,5,IDC,HER2+,Positive
+MB-0238,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,claudin-low,10,IDC,ER-/HER2-,Negative
+MB-0239,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,No,LumA,3,MDLC,ER+/HER2- Low Prolif,Positive
+MB-0243,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumB,8,IDC,ER+/HER2- Low Prolif,Positive
+MB-0247,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,4ER+,IDC,ER+/HER2- Low Prolif,Positive
+MB-0249,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,Her2,10,IDC,ER-/HER2-,Negative
+MB-0257,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,LumA,8,IDC,ER+/HER2- High Prolif,Negative
+MB-0258,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,7,IDC,ER+/HER2- High Prolif,Positive
+MB-0261,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,8,IDC,ER+/HER2- High Prolif,Positive
+MB-0265,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,claudin-low,4ER+,IDC,ER-/HER2-,Negative
+MB-0269,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,Yes,claudin-low,4ER-,IDC,ER-/HER2-,Negative
+MB-0270,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,10,IDC,ER+/HER2- High Prolif,Positive
+MB-0272,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,8,IDC,ER+/HER2- High Prolif,Negative
+MB-0273,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,8,IDC,ER+/HER2- Low Prolif,Negative
+MB-0282,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Low,Yes,claudin-low,4ER+,MDLC,ER+/HER2- Low Prolif,Positive
+MB-0288,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,Yes,Normal,1,IDC,ER+/HER2- Low Prolif,Negative
+MB-0291,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,LumB,5,IDC,HER2+,Positive
+MB-0292,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,Her2,9,IDC,ER-/HER2-,Negative
+MB-0294,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,Normal,4ER+,IDC,HER2+,Negative
+MB-0295,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,4ER+,IDC,ER+/HER2- Low Prolif,Positive
+MB-0301,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,7,IDC,ER+/HER2- Low Prolif,Positive
+MB-0302,Breast Cancer,Breast Invasive Lobular Carcinoma,Moderate,No,LumA,3,ILC,ER+/HER2- Low Prolif,Negative
+MB-0303,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,claudin-low,10,IDC,ER-/HER2-,Negative
+MB-0305,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,Yes,Normal,8,IDC,ER+/HER2- Low Prolif,Positive
+MB-0306,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,3,IDC,ER+/HER2- High Prolif,Positive
+MB-0309,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,LumA,8,IDC,ER+/HER2- Low Prolif,Positive
+MB-0310,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-0311,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,8,IDC,ER+/HER2- High Prolif,Negative
+MB-0313,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,10,IDC,ER+/HER2- High Prolif,Positive
+MB-0314,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,Her2,5,IDC,HER2+,Negative
+MB-0315,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,LumA,6,IDC,ER+/HER2- Low Prolif,Negative
+MB-0316,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,Basal,10,IDC,ER-/HER2-,Negative
+MB-0319,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,LumB,2,MDLC,ER+/HER2- High Prolif,Negative
+MB-0320,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,LumA,3,MDLC,ER+/HER2- Low Prolif,Positive
+MB-0321,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumA,8,IDC,ER+/HER2- High Prolif,Positive
+MB-0322,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,8,IDC,ER+/HER2- Low Prolif,Negative
+MB-0325,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,10,IDC,ER+/HER2- High Prolif,Positive
+MB-0336,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,10,IDC,ER+/HER2- High Prolif,Positive
+MB-0340,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,Basal,10,IDC,ER-/HER2-,Negative
+MB-0344,Breast Cancer,Breast Invasive Lobular Carcinoma,Moderate,No,Normal,3,ILC,ER+/HER2- Low Prolif,Positive
+MB-0345,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-0346,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,Her2,5,IDC,HER2+,Negative
+MB-0348,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,8,IDC,ER+/HER2- Low Prolif,Positive
+MB-0349,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,3,IDC,ER+/HER2- High Prolif,Negative
+MB-0352,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,claudin-low,4ER+,IDC,ER-/HER2-,Negative
+MB-0353,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,7,IDC,ER+/HER2- Low Prolif,Negative
+MB-0354,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,claudin-low,4ER-,IDC,ER-/HER2-,Negative
+MB-0356,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,8,IDC,ER+/HER2- High Prolif,Positive
+MB-0358,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,LumA,9,IDC,ER+/HER2- High Prolif,Positive
+MB-0360,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,7,IDC,ER+/HER2- High Prolif,Positive
+MB-0361,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,Her2,5,IDC,HER2+,Negative
+MB-0362,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumA,2,IDC,ER+/HER2- High Prolif,Positive
+MB-0363,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,No,LumB,2,MDLC,ER+/HER2- High Prolif,Negative
+MB-0364,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumA,4ER+,IDC,ER+/HER2- Low Prolif,Negative
+MB-0365,Breast Cancer,Breast Invasive Mixed Mucinous Carcinoma,Low,No,claudin-low,4ER+,IMMC,ER-/HER2-,Negative
+MB-0366,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,LumA,8,MDLC,ER+/HER2- High Prolif,Positive
+MB-0368,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumB,2,IDC,ER+/HER2- High Prolif,Positive
+MB-0370,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,LumB,9,IDC,ER+/HER2- High Prolif,Negative
+MB-0371,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,5,IDC,HER2+,Negative
+MB-0372,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Basal,10,IDC,ER-/HER2-,Negative
+MB-0373,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,5,IDC,HER2+,Positive
+MB-0374,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,1,IDC,ER+/HER2- High Prolif,Negative
+MB-0375,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,Normal,10,IDC,ER-/HER2-,Positive
+MB-0377,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,4ER+,IDC,ER+/HER2- Low Prolif,Positive
+MB-0378,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,Her2,5,IDC,HER2+,Negative
+MB-0379,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumA,7,IDC,ER+/HER2- Low Prolif,Negative
+MB-0380,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,9,IDC,ER+/HER2- High Prolif,Positive
+MB-0381,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Her2,5,IDC,HER2+,Negative
+MB-0382,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,LumA,3,IDC,ER+/HER2- Low Prolif,Negative
+MB-0383,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,1,IDC,ER+/HER2- High Prolif,Negative
+MB-0384,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,8,IDC,ER+/HER2- High Prolif,Positive
+MB-0385,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumB,9,IDC,ER+/HER2- High Prolif,Negative
+MB-0386,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,9,IDC,ER+/HER2- Low Prolif,Positive
+MB-0388,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,Yes,Normal,1,IDC,ER+/HER2- Low Prolif,Negative
+MB-0389,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumB,2,IDC,HER2+,Positive
+MB-0392,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,Normal,1,IDC,ER+/HER2- High Prolif,Positive
+MB-0393,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,Yes,claudin-low,2,IDC,ER+/HER2- High Prolif,Positive
+MB-0394,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,LumA,2,MDLC,ER+/HER2- High Prolif,Positive
+MB-0395,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,Her2,5,IDC,HER2+,Negative
+MB-0396,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Basal,10,IDC,ER-/HER2-,Negative
+MB-0397,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,4ER+,IDC,ER+/HER2- Low Prolif,Positive
+MB-0398,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,6,IDC,ER+/HER2- High Prolif,Negative
+MB-0399,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,Yes,Her2,4ER-,IDC,ER-/HER2-,Negative
+MB-0400,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,claudin-low,10,IDC,ER-/HER2-,Negative
+MB-0401,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,claudin-low,10,IDC,ER-/HER2-,Negative
+MB-0402,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,claudin-low,4ER+,IDC,ER+/HER2- Low Prolif,Positive
+MB-0404,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,8,IDC,ER+/HER2- High Prolif,Positive
+MB-0406,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,LumB,2,IDC,ER+/HER2- High Prolif,Negative
+MB-0410,Breast Cancer,Breast Invasive Lobular Carcinoma,High,No,LumA,3,ILC,ER+/HER2- Low Prolif,Positive
+MB-0411,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,Yes,LumA,6,MDLC,ER+/HER2- Low Prolif,Negative
+MB-0412,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,6,IDC,ER+/HER2- High Prolif,Negative
+MB-0413,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumA,2,IDC,ER+/HER2- High Prolif,Positive
+MB-0414,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,claudin-low,10,IDC,ER-/HER2-,Negative
+MB-0417,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,Her2,7,IDC,ER+/HER2- High Prolif,Positive
+MB-0418,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,Her2,9,IDC,ER+/HER2- High Prolif,Negative
+MB-0419,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,8,IDC,ER+/HER2- Low Prolif,Positive
+MB-0420,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,claudin-low,10,IDC,ER-/HER2-,Negative
+MB-0421,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,Her2,5,IDC,HER2+,Positive
+MB-0422,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,8,IDC,ER+/HER2- Low Prolif,Positive
+MB-0425,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-0426,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,Normal,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-0427,Breast Cancer,Breast Invasive Lobular Carcinoma,Moderate,No,LumA,7,ILC,ER+/HER2- High Prolif,Negative
+MB-0428,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,9,IDC,ER+/HER2- High Prolif,Negative
+MB-0429,Breast Cancer,Breast Invasive Lobular Carcinoma,High,No,LumB,1,ILC,ER+/HER2- High Prolif,Positive
+MB-0431,Breast Cancer,Breast Invasive Lobular Carcinoma,High,No,LumA,3,ILC,ER+/HER2- Low Prolif,Negative
+MB-0434,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumB,5,IDC,HER2+,Negative
+MB-0436,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,Her2,4ER-,IDC,ER-/HER2-,Negative
+MB-0437,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Low,No,LumB,4ER+,MDLC,ER+/HER2- High Prolif,Positive
+MB-0438,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Her2,5,IDC,HER2+,Negative
+MB-0439,Breast Cancer,Breast Invasive Mixed Mucinous Carcinoma,High,No,LumB,8,IMMC,ER+/HER2- High Prolif,Positive
+MB-0440,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumB,1,IDC,ER+/HER2- High Prolif,Negative
+MB-0442,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,claudin-low,4ER+,IDC,ER+/HER2- Low Prolif,Negative
+MB-0443,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,claudin-low,7,IDC,ER+/HER2- Low Prolif,Positive
+MB-0445,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumA,7,IDC,ER+/HER2- High Prolif,Positive
+MB-0446,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,claudin-low,10,IDC,ER-/HER2-,Negative
+MB-0449,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-0451,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,8,IDC,ER+/HER2- Low Prolif,Negative
+MB-0452,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,9,IDC,ER+/HER2- High Prolif,Negative
+MB-0453,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,Her2,2,IDC,ER+/HER2- High Prolif,Negative
+MB-0455,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,10,IDC,ER+/HER2- High Prolif,Positive
+MB-0458,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,Yes,Normal,4ER+,IDC,ER+/HER2- Low Prolif,Positive
+MB-0459,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,LumB,6,IDC,ER+/HER2- High Prolif,Negative
+MB-0462,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,claudin-low,5,IDC,HER2+,Negative
+MB-0463,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,4ER+,IDC,ER+/HER2- Low Prolif,Positive
+MB-0464,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,Yes,Basal,9,IDC,ER-/HER2-,Negative
+MB-0465,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,5,IDC,HER2+,Negative
+MB-0466,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumA,1,IDC,ER+/HER2- High Prolif,Negative
+MB-0467,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Her2,5,IDC,HER2+,Negative
+MB-0469,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,LumB,6,IDC,ER+/HER2- High Prolif,Positive
+MB-0471,Breast Cancer,Breast Invasive Mixed Mucinous Carcinoma,Moderate,No,LumA,1,IMMC,ER+/HER2- High Prolif,Positive
+MB-0474,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumB,9,IDC,ER+/HER2- High Prolif,Positive
+MB-0475,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,9,IDC,ER+/HER2- High Prolif,Positive
+MB-0476,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,claudin-low,4ER-,IDC,ER-/HER2-,Negative
+MB-0478,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,claudin-low,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-0479,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Her2,5,IDC,HER2+,Negative
+MB-0480,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,9,IDC,ER+/HER2- Low Prolif,Negative
+MB-0481,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Basal,10,IDC,ER-/HER2-,Negative
+MB-0482,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,Normal,5,IDC,HER2+,Negative
+MB-0483,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumB,1,IDC,ER+/HER2- High Prolif,Positive
+MB-0484,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Her2,6,IDC,ER+/HER2- High Prolif,Positive
+MB-0485,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,Yes,LumA,9,MDLC,ER+/HER2- High Prolif,Negative
+MB-0486,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-0487,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,Normal,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-0489,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,Yes,claudin-low,4ER-,IDC,ER-/HER2-,Negative
+MB-0490,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,LumA,4ER+,IDC,ER+/HER2- Low Prolif,Positive
+MB-0491,Breast Cancer,Breast Invasive Lobular Carcinoma,High,No,LumA,4ER+,ILC,ER+/HER2- High Prolif,Positive
+MB-0494,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,claudin-low,4ER-,IDC,ER-/HER2-,Negative
+MB-0495,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,Yes,claudin-low,4ER+,IDC,ER-/HER2-,Negative
+MB-0496,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Normal,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-0497,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,4ER+,IDC,ER+/HER2- Low Prolif,Positive
+MB-0500,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Basal,10,IDC,ER-/HER2-,Negative
+MB-0501,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,LumA,8,IDC,ER+/HER2- Low Prolif,Positive
+MB-0503,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,7,IDC,ER+/HER2- Low Prolif,Positive
+MB-0504,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-0505,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,4ER+,IDC,ER+/HER2- Low Prolif,Positive
+MB-0506,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Her2,9,IDC,ER+/HER2- High Prolif,Positive
+MB-0507,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-0509,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,Basal,3,IDC,ER+/HER2- High Prolif,Positive
+MB-0511,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-0513,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,9,IDC,ER+/HER2- Low Prolif,Positive
+MB-0516,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Basal,10,IDC,ER-/HER2-,Negative
+MB-0517,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,9,IDC,ER+/HER2- Low Prolif,Positive
+MB-0519,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,claudin-low,4ER+,IDC,ER+/HER2- Low Prolif,Negative
+MB-0521,Breast Cancer,Breast Invasive Lobular Carcinoma,High,No,LumA,3,ILC,ER+/HER2- Low Prolif,Positive
+MB-0524,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,Normal,4ER+,IDC,ER+/HER2- Low Prolif,Negative
+MB-0525,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Basal,4ER-,IDC,ER-/HER2-,Negative
+MB-0527,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,claudin-low,4ER+,IDC,ER+/HER2- Low Prolif,Positive
+MB-0528,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,LumA,2,IDC,ER+/HER2- Low Prolif,Negative
+MB-0529,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumA,8,IDC,ER+/HER2- High Prolif,Positive
+MB-0532,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumB,9,IDC,ER+/HER2- High Prolif,Positive
+MB-0535,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,LumA,8,IDC,ER+/HER2- Low Prolif,Positive
+MB-0536,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,1,IDC,ER+/HER2- High Prolif,Negative
+MB-0541,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumA,9,IDC,ER+/HER2- High Prolif,Negative
+MB-0542,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,Normal,1,IDC,ER+/HER2- High Prolif,Positive
+MB-0544,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,Yes,LumB,8,IDC,ER+/HER2- Low Prolif,Positive
+MB-0559,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumA,7,IDC,ER+/HER2- High Prolif,Positive
+MB-0568,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,7,IDC,ER+/HER2- Low Prolif,Positive
+MB-0569,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumB,4ER+,IDC,ER+/HER2- High Prolif,Positive
+MB-0570,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,6,IDC,ER+/HER2- High Prolif,Positive
+MB-0571,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,7,IDC,ER+/HER2- High Prolif,Positive
+MB-0574,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,2,IDC,ER+/HER2- High Prolif,Positive
+MB-0575,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumA,4ER+,IDC,ER+/HER2- Low Prolif,Positive
+MB-0576,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,2,IDC,ER+/HER2- High Prolif,Positive
+MB-0577,Breast Cancer,Breast Invasive Mixed Mucinous Carcinoma,Low,No,LumB,7,IMMC,ER+/HER2- High Prolif,Negative
+MB-0578,Breast Cancer,Breast Invasive Lobular Carcinoma,Low,Yes,Normal,4ER+,ILC,ER+/HER2- Low Prolif,Positive
+MB-0579,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,7,IDC,ER+/HER2- Low Prolif,Negative
+MB-0580,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,LumA,4ER+,IDC,ER+/HER2- High Prolif,Positive
+MB-0581,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,Basal,7,IDC,ER-/HER2-,Negative
+MB-0582,Breast Cancer,Breast Invasive Lobular Carcinoma,High,No,Basal,10,ILC,ER-/HER2-,Negative
+MB-0583,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,No,LumA,3,MDLC,ER+/HER2- Low Prolif,Positive
+MB-0584,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,7,IDC,ER+/HER2- High Prolif,Positive
+MB-0585,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,6,IDC,ER+/HER2- High Prolif,Negative
+MB-0586,Breast Cancer,Breast Invasive Lobular Carcinoma,Low,No,LumA,6,ILC,ER+/HER2- Low Prolif,Negative
+MB-0587,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Low,Yes,LumA,9,MDLC,ER+/HER2- High Prolif,Positive
+MB-0588,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,Normal,4ER-,IDC,ER+/HER2- Low Prolif,Negative
+MB-0589,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,LumB,5,MDLC,ER+/HER2- High Prolif,Negative
+MB-0590,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumB,9,IDC,ER+/HER2- High Prolif,Positive
+MB-0591,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,8,IDC,ER+/HER2- High Prolif,Negative
+MB-0593,Breast Cancer,Breast Invasive Lobular Carcinoma,High,Yes,Her2,5,ILC,HER2+,Negative
+MB-0594,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,4ER+,IDC,ER+/HER2- High Prolif,Negative
+MB-0596,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,No,LumA,3,MDLC,ER+/HER2- Low Prolif,Positive
+MB-0597,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Normal,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-0598,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,3,IDC,ER+/HER2- High Prolif,Positive
+MB-0599,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,LumA,4ER+,IDC,ER+/HER2- Low Prolif,Negative
+MB-0600,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,LumA,6,MDLC,ER+/HER2- High Prolif,Negative
+MB-0601,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,LumB,10,IDC,ER+/HER2- High Prolif,Negative
+MB-0603,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,7,IDC,ER+/HER2- Low Prolif,Positive
+MB-0605,Breast Cancer,Breast Invasive Lobular Carcinoma,High,No,LumA,8,ILC,ER+/HER2- Low Prolif,Positive
+MB-0608,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,claudin-low,10,IDC,ER-/HER2-,Negative
+MB-0609,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumA,8,IDC,ER+/HER2- High Prolif,Negative
+MB-0611,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,LumB,9,IDC,ER+/HER2- High Prolif,Positive
+MB-0613,Breast Cancer,Breast,Moderate,Yes,claudin-low,4ER-,BREAST,ER-/HER2-,Negative
+MB-0614,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,LumA,6,IDC,ER+/HER2- High Prolif,Positive
+MB-0616,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,7,IDC,ER+/HER2- High Prolif,Negative
+MB-0618,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-0619,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,Normal,4ER+,IDC,ER+/HER2- High Prolif,Negative
+MB-0621,Breast Cancer,Breast Invasive Lobular Carcinoma,High,No,LumA,4ER+,ILC,ER+/HER2- Low Prolif,Positive
+MB-0624,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,3,IDC,ER+/HER2- Low Prolif,Negative
+MB-0630,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumB,1,IDC,ER+/HER2- High Prolif,Positive
+MB-0631,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,LumA,8,IDC,ER+/HER2- Low Prolif,Positive
+MB-0632,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,4ER+,IDC,ER+/HER2- Low Prolif,Negative
+MB-0636,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,6,IDC,ER+/HER2- High Prolif,Positive
+MB-0637,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,10,IDC,ER+/HER2- High Prolif,Positive
+MB-0640,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,Normal,7,IDC,ER+/HER2- Low Prolif,Positive
+MB-0642,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,8,IDC,ER+/HER2- Low Prolif,Positive
+MB-0643,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,Her2,5,IDC,ER-/HER2-,Negative
+MB-0644,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,claudin-low,4ER+,IDC,ER+/HER2- Low Prolif,Positive
+MB-0649,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,7,IDC,ER+/HER2- Low Prolif,Positive
+MB-0650,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,2,IDC,ER+/HER2- High Prolif,Negative
+MB-0653,Breast Cancer,Breast Invasive Lobular Carcinoma,Moderate,No,Her2,9,ILC,ER+/HER2- High Prolif,Negative
+MB-0654,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,8,IDC,ER+/HER2- Low Prolif,Positive
+MB-0656,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,claudin-low,5,IDC,HER2+,Negative
+MB-0658,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,claudin-low,10,IDC,ER-/HER2-,Negative
+MB-0660,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Her2,10,IDC,ER+/HER2- High Prolif,Negative
+MB-0662,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,Normal,5,IDC,HER2+,Positive
+MB-0664,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Basal,10,IDC,ER-/HER2-,Negative
+MB-0666,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumA,9,IDC,ER+/HER2- High Prolif,Positive
+MB-0869,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Basal,10,IDC,ER-/HER2-,Negative
+MB-0874,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Basal,10,IDC,ER-/HER2-,Negative
+MB-0877,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,6,IDC,ER+/HER2- High Prolif,Positive
+MB-0880,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,7,IDC,ER+/HER2- Low Prolif,Positive
+MB-0882,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,7,IDC,ER+/HER2- High Prolif,Positive
+MB-0884,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,LumB,9,IDC,ER+/HER2- High Prolif,Negative
+MB-0891,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,3,IDC,ER+/HER2- Low Prolif,Negative
+MB-0895,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,5,IDC,HER2+,Positive
+MB-0899,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,LumA,8,IDC,ER+/HER2- High Prolif,Positive
+MB-0904,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-0906,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,No,claudin-low,4ER-,MDLC,ER-/HER2-,Negative
+MB-2513,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,5,IDC,HER2+,Negative
+MB-2517,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,Her2,5,IDC,HER2+,Negative
+MB-2536,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,LumA,3,MDLC,ER+/HER2- Low Prolif,Negative
+MB-2556,Breast Cancer,Breast Invasive Lobular Carcinoma,Moderate,No,claudin-low,4ER+,ILC,ER-/HER2-,Negative
+MB-2564,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,8,IDC,ER+/HER2- Low Prolif,Positive
+MB-2610,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Low,No,LumA,8,MDLC,ER+/HER2- Low Prolif,Positive
+MB-2613,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,1,IDC,ER+/HER2- High Prolif,Positive
+MB-2614,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,Yes,LumA,7,MDLC,ER+/HER2- Low Prolif,Positive
+MB-2616,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,claudin-low,4ER+,MDLC,ER+/HER2- Low Prolif,Positive
+MB-2617,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,4ER+,IDC,ER+/HER2- High Prolif,Negative
+MB-2624,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-2626,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,5,IDC,HER2+,Positive
+MB-2632,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Her2,5,IDC,HER2+,Negative
+MB-2642,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,LumB,1,IDC,ER+/HER2- High Prolif,Positive
+MB-2669,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,6,IDC,ER+/HER2- Low Prolif,Negative
+MB-2686,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,1,IDC,ER+/HER2- High Prolif,Negative
+MB-2705,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,3,IDC,ER+/HER2- High Prolif,Negative
+MB-2708,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,LumB,7,MDLC,ER+/HER2- High Prolif,Positive
+MB-2711,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,7,IDC,ER+/HER2- Low Prolif,Positive
+MB-2725,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,4ER+,IDC,ER+/HER2- Low Prolif,Positive
+MB-2728,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumB,9,IDC,ER+/HER2- High Prolif,Positive
+MB-2730,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,1,IDC,ER+/HER2- High Prolif,Negative
+MB-2735,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumB,6,IDC,HER2+,Negative
+MB-2742,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Her2,5,IDC,HER2+,Negative
+MB-2745,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,No,LumA,8,MDLC,ER+/HER2- High Prolif,Positive
+MB-2747,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,8,IDC,ER+/HER2- Low Prolif,Positive
+MB-2749,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-2750,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,LumA,8,MDLC,ER+/HER2- Low Prolif,Negative
+MB-2752,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,LumA,7,MDLC,ER+/HER2- Low Prolif,Positive
+MB-2753,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Basal,10,IDC,ER-/HER2-,Negative
+MB-2754,Breast Cancer,Breast Invasive Lobular Carcinoma,Moderate,No,Normal,3,ILC,ER+/HER2- Low Prolif,Negative
+MB-2758,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,Yes,claudin-low,4ER-,IDC,HER2+,Negative
+MB-2760,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,7,IDC,ER+/HER2- Low Prolif,Positive
+MB-2763,Breast Cancer,Breast Invasive Mixed Mucinous Carcinoma,Moderate,No,LumB,4ER+,IMMC,ER+/HER2- High Prolif,Positive
+MB-2765,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,claudin-low,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-2767,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,2,IDC,ER+/HER2- High Prolif,Positive
+MB-2769,Breast Cancer,Breast Invasive Lobular Carcinoma,High,No,LumB,7,ILC,ER+/HER2- High Prolif,Positive
+MB-2772,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,LumB,6,MDLC,ER+/HER2- High Prolif,Positive
+MB-2774,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,7,IDC,ER+/HER2- High Prolif,Positive
+MB-2778,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,NC,3,IDC,ER+/HER2- High Prolif,Positive
+MB-2779,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,10,IDC,ER+/HER2- High Prolif,Positive
+MB-2781,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,1,IDC,ER+/HER2- High Prolif,Positive
+MB-2786,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,5,IDC,HER2+,Negative
+MB-2790,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,LumA,8,MDLC,ER+/HER2- High Prolif,Positive
+MB-2791,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-2792,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,Her2,9,IDC,ER+/HER2- High Prolif,Positive
+MB-2793,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,8,IDC,ER+/HER2- High Prolif,Positive
+MB-2795,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,claudin-low,1,IDC,ER+/HER2- Low Prolif,Negative
+MB-2797,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,LumA,6,MDLC,ER+/HER2- High Prolif,Positive
+MB-2801,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,2,IDC,ER+/HER2- High Prolif,Positive
+MB-2803,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,8,IDC,ER+/HER2- High Prolif,Negative
+MB-2814,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,3,IDC,ER+/HER2- High Prolif,Positive
+MB-2815,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Low,No,Normal,3,MDLC,ER+/HER2- Low Prolif,Positive
+MB-2819,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,No,LumA,7,MDLC,ER+/HER2- Low Prolif,Positive
+MB-2827,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,Basal,10,IDC,ER-/HER2-,Negative
+MB-2834,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,Her2,3,IDC,ER-/HER2-,Negative
+MB-2835,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-2838,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,8,IDC,ER+/HER2- High Prolif,Positive
+MB-2840,Breast Cancer,Breast Invasive Lobular Carcinoma,Moderate,No,LumA,3,ILC,ER+/HER2- Low Prolif,Negative
+MB-2842,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Basal,9,IDC,ER-/HER2-,Negative
+MB-2843,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,2,IDC,ER+/HER2- Low Prolif,Negative
+MB-2844,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,9,IDC,HER2+,Negative
+MB-2845,Breast Cancer,Breast Invasive Lobular Carcinoma,Moderate,No,claudin-low,4ER+,ILC,ER+/HER2- Low Prolif,Negative
+MB-2847,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,Her2,5,IDC,HER2+,Negative
+MB-2848,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-2849,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,Basal,9,IDC,ER-/HER2-,Negative
+MB-2851,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,No,LumA,4ER+,MDLC,ER+/HER2- Low Prolif,Positive
+MB-2853,Breast Cancer,Breast Invasive Mixed Mucinous Carcinoma,Moderate,No,LumB,6,IMMC,ER+/HER2- High Prolif,Negative
+MB-2854,Breast Cancer,Breast Invasive Lobular Carcinoma,High,No,LumA,7,ILC,ER+/HER2- Low Prolif,Negative
+MB-2857,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,claudin-low,10,IDC,ER-/HER2-,Negative
+MB-2858,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,LumB,1,MDLC,ER+/HER2- High Prolif,Positive
+MB-2863,Breast Cancer,Breast Invasive Mixed Mucinous Carcinoma,Moderate,No,LumA,4ER+,IMMC,ER+/HER2- Low Prolif,Negative
+MB-2867,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,4ER+,IDC,ER+/HER2- Low Prolif,Positive
+MB-2895,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,claudin-low,5,IDC,HER2+,Negative
+MB-2896,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,claudin-low,4ER+,IDC,ER+/HER2- Low Prolif,Negative
+MB-2900,Breast Cancer,Breast Invasive Lobular Carcinoma,Low,No,Normal,4ER+,ILC,ER+/HER2- Low Prolif,Positive
+MB-2912,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Basal,10,IDC,ER-/HER2-,Negative
+MB-2916,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-2917,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Basal,10,IDC,ER-/HER2-,Negative
+MB-2919,Breast Cancer,Breast Invasive Mixed Mucinous Carcinoma,Low,No,LumB,8,IMMC,ER+/HER2- Low Prolif,Positive
+MB-2922,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Her2,1,IDC,ER+/HER2- High Prolif,Negative
+MB-2933,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-2947,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,4ER+,IDC,ER+/HER2- Low Prolif,Positive
+MB-2951,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,1,IDC,ER+/HER2- High Prolif,Positive
+MB-2953,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,10,IDC,ER+/HER2- High Prolif,Positive
+MB-2954,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,8,IDC,ER+/HER2- High Prolif,Positive
+MB-2957,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,claudin-low,10,IDC,ER-/HER2-,Negative
+MB-2960,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,6,IDC,ER+/HER2- Low Prolif,Negative
+MB-2963,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,claudin-low,4ER+,MDLC,ER-/HER2-,Negative
+MB-2964,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,Her2,5,IDC,HER2+,Negative
+MB-2966,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,8,IDC,ER+/HER2- High Prolif,Positive
+MB-2969,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-2970,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,No,LumA,4ER+,MDLC,ER+/HER2- Low Prolif,Positive
+MB-2971,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-2977,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,7,IDC,ER+/HER2- Low Prolif,Positive
+MB-2983,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,5,IDC,HER2+,Positive
+MB-2984,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,9,IDC,HER2+,Negative
+MB-2990,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Low,No,LumA,8,MDLC,ER+/HER2- Low Prolif,Positive
+MB-2993,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,claudin-low,10,IDC,ER-/HER2-,Negative
+MB-2994,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,5,IDC,HER2+,Positive
+MB-2996,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,7,IDC,ER+/HER2- Low Prolif,Positive
+MB-2999,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,7,IDC,ER+/HER2- High Prolif,Negative
+MB-3002,Breast Cancer,Breast Invasive Lobular Carcinoma,High,No,LumA,3,ILC,ER+/HER2- High Prolif,Negative
+MB-3005,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,8,IDC,ER+/HER2- Low Prolif,Positive
+MB-3006,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,claudin-low,4ER+,IDC,ER-/HER2-,Negative
+MB-3007,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,2,IDC,ER+/HER2- High Prolif,Positive
+MB-3008,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,LumA,8,MDLC,ER+/HER2- Low Prolif,Positive
+MB-3013,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,claudin-low,4ER+,IDC,ER+/HER2- Low Prolif,Negative
+MB-3014,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Basal,1,IDC,ER-/HER2-,Negative
+MB-3016,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,2,IDC,ER+/HER2- High Prolif,Positive
+MB-3021,Breast Cancer,Breast Invasive Lobular Carcinoma,Moderate,No,LumA,8,ILC,ER+/HER2- High Prolif,Positive
+MB-3025,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Her2,5,IDC,HER2+,Negative
+MB-3026,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,6,IDC,ER+/HER2- High Prolif,Negative
+MB-3031,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Her2,5,IDC,ER+/HER2- High Prolif,Negative
+MB-3032,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-3033,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-3035,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,7,IDC,ER+/HER2- Low Prolif,Negative
+MB-3037,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,No,LumA,3,MDLC,ER+/HER2- Low Prolif,Positive
+MB-3046,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,Basal,10,IDC,ER-/HER2-,Negative
+MB-3049,Breast Cancer,Breast Invasive Lobular Carcinoma,Moderate,No,LumA,7,ILC,ER+/HER2- Low Prolif,Positive
+MB-3050,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,2,IDC,ER+/HER2- High Prolif,Negative
+MB-3057,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Basal,10,IDC,ER-/HER2-,Negative
+MB-3058,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,Basal,4ER-,IDC,ER-/HER2-,Negative
+MB-3060,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,6,IDC,ER+/HER2- High Prolif,Negative
+MB-3063,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Basal,10,IDC,ER-/HER2-,Negative
+MB-3064,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,No,LumA,4ER+,MDLC,ER+/HER2- Low Prolif,Positive
+MB-3067,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,claudin-low,9,IDC,ER-/HER2-,Negative
+MB-3079,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,No,LumA,8,MDLC,ER+/HER2- Low Prolif,Positive
+MB-3083,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,1,IDC,ER+/HER2- High Prolif,Positive
+MB-3085,Breast Cancer,Breast Invasive Lobular Carcinoma,Moderate,No,Normal,4ER+,ILC,ER+/HER2- Low Prolif,Positive
+MB-3092,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,No,LumB,8,MDLC,ER+/HER2- High Prolif,Positive
+MB-3102,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,9,IDC,ER+/HER2- High Prolif,Positive
+MB-3103,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,5,IDC,HER2+,Negative
+MB-3104,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,5,IDC,ER+/HER2- High Prolif,Negative
+MB-3105,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-3110,Breast Cancer,Breast Invasive Lobular Carcinoma,High,No,LumA,3,ILC,ER+/HER2- Low Prolif,Negative
+MB-3121,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-3122,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,Her2,9,IDC,HER2+,Negative
+MB-3123,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,Basal,9,IDC,ER-/HER2-,Negative
+MB-3165,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,Basal,1,IDC,ER-/HER2-,Negative
+MB-3167,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,8,IDC,ER+/HER2- High Prolif,Positive
+MB-3171,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,7,IDC,ER+/HER2- Low Prolif,Positive
+MB-3211,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,Basal,10,IDC,ER-/HER2-,Negative
+MB-3222,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,LumA,7,MDLC,ER+/HER2- Low Prolif,Positive
+MB-3228,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,No,LumA,4ER+,MDLC,ER+/HER2- Low Prolif,Positive
+MB-3235,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,5,IDC,ER+/HER2- High Prolif,Positive
+MB-3253,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,9,IDC,ER+/HER2- High Prolif,Positive
+MB-3254,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-3266,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Low,No,LumB,1,MDLC,ER+/HER2- High Prolif,Positive
+MB-3271,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,claudin-low,10,IDC,ER-/HER2-,Negative
+MB-3272,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,5,IDC,HER2+,Positive
+MB-3275,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,1,IDC,ER+/HER2- High Prolif,Positive
+MB-3277,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Basal,1,IDC,ER-/HER2-,Negative
+MB-3292,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,claudin-low,10,IDC,ER-/HER2-,Negative
+MB-3295,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,Normal,4ER+,IDC,ER+/HER2- Low Prolif,Positive
+MB-3297,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,Yes,Basal,10,IDC,ER-/HER2-,Negative
+MB-3298,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-3300,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,7,IDC,ER+/HER2- High Prolif,Negative
+MB-3303,Breast Cancer,Breast,High,No,LumB,4ER+,BREAST,ER+/HER2- High Prolif,Positive
+MB-3328,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,7,IDC,ER+/HER2- Low Prolif,Negative
+MB-3329,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,Her2,5,IDC,HER2+,Negative
+MB-3341,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,8,IDC,ER+/HER2- High Prolif,Positive
+MB-3350,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,LumB,3,MDLC,ER+/HER2- High Prolif,Positive
+MB-3351,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-3355,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Her2,5,IDC,HER2+,Negative
+MB-3357,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,No,LumB,9,MDLC,ER+/HER2- High Prolif,Positive
+MB-3360,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,5,IDC,HER2+,Positive
+MB-3361,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,5,IDC,HER2+,Negative
+MB-3363,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,Basal,10,IDC,ER-/HER2-,Negative
+MB-3365,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,7,IDC,ER+/HER2- Low Prolif,Positive
+MB-3367,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,claudin-low,10,IDC,ER-/HER2-,Negative
+MB-3371,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,8,IDC,ER+/HER2- High Prolif,Negative
+MB-3378,Breast Cancer,Breast Invasive Lobular Carcinoma,High,No,LumA,4ER+,ILC,ER+/HER2- Low Prolif,Positive
+MB-3379,Breast Cancer,Breast Invasive Lobular Carcinoma,Moderate,No,LumA,5,ILC,HER2+,Positive
+MB-3381,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,LumA,7,IDC,ER+/HER2- Low Prolif,Positive
+MB-3386,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Her2,1,IDC,HER2+,Negative
+MB-3388,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,8,IDC,ER+/HER2- High Prolif,Positive
+MB-3389,Breast Cancer,Breast Invasive Lobular Carcinoma,High,No,LumB,6,ILC,ER+/HER2- High Prolif,Negative
+MB-3395,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,claudin-low,10,IDC,ER-/HER2-,Negative
+MB-3396,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Basal,3,IDC,ER-/HER2-,Negative
+MB-3402,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,LumB,1,IDC,ER+/HER2- High Prolif,Positive
+MB-3403,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-3412,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,8,IDC,ER+/HER2- Low Prolif,Negative
+MB-3429,Breast Cancer,Breast Invasive Lobular Carcinoma,Moderate,No,Normal,4ER+,ILC,ER+/HER2- Low Prolif,Negative
+MB-3430,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,3,IDC,ER+/HER2- High Prolif,Positive
+MB-3435,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Her2,5,IDC,HER2+,Negative
+MB-3437,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,4ER+,IDC,ER+/HER2- High Prolif,Positive
+MB-3439,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,LumA,8,MDLC,ER+/HER2- Low Prolif,Positive
+MB-3450,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,8,IDC,ER+/HER2- Low Prolif,Positive
+MB-3452,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,Normal,2,IDC,ER+/HER2- Low Prolif,Negative
+MB-3453,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Basal,10,IDC,ER-/HER2-,Negative
+MB-3459,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,claudin-low,7,IDC,ER+/HER2- High Prolif,Positive
+MB-3462,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-3466,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,Her2,2,IDC,ER+/HER2- High Prolif,Positive
+MB-3467,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,Yes,Her2,5,MDLC,HER2+,Negative
+MB-3476,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,claudin-low,10,IDC,ER-/HER2-,Negative
+MB-3479,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,claudin-low,4ER+,IDC,ER-/HER2-,Positive
+MB-3487,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,1,IDC,ER+/HER2- High Prolif,Negative
+MB-3488,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Her2,5,IDC,HER2+,Negative
+MB-3490,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,3,IDC,ER+/HER2- High Prolif,Positive
+MB-3492,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,1,IDC,ER+/HER2- High Prolif,Positive
+MB-3497,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Her2,5,IDC,HER2+,Negative
+MB-3500,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,Basal,10,IDC,ER-/HER2-,Negative
+MB-3502,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,Basal,10,IDC,ER-/HER2-,Negative
+MB-3506,Breast Cancer,Breast,High,No,LumB,1,BREAST,ER+/HER2- High Prolif,Positive
+MB-3510,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,No,LumA,7,MDLC,ER+/HER2- Low Prolif,Positive
+MB-3525,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,1,IDC,ER+/HER2- High Prolif,Negative
+MB-3526,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,Normal,6,IDC,ER+/HER2- Low Prolif,Negative
+MB-3545,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,7,IDC,ER+/HER2- Low Prolif,Positive
+MB-3548,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,3,IDC,ER+/HER2- High Prolif,Positive
+MB-3556,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Her2,1,IDC,ER+/HER2- High Prolif,Negative
+MB-3567,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,Yes,claudin-low,1,MDLC,ER-/HER2-,Negative
+MB-3576,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,No,Her2,6,MDLC,ER+/HER2- High Prolif,Negative
+MB-3600,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,9,IDC,ER+/HER2- High Prolif,Positive
+MB-3606,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,Her2,5,IDC,HER2+,Negative
+MB-3614,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,1,IDC,ER+/HER2- High Prolif,Positive
+MB-3702,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,claudin-low,10,IDC,ER-/HER2-,Negative
+MB-3706,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,Basal,10,IDC,ER-/HER2-,Negative
+MB-3707,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,claudin-low,4ER+,IDC,ER+/HER2- Low Prolif,Negative
+MB-3711,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-3748,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,4ER+,IDC,ER+/HER2- Low Prolif,Positive
+MB-3752,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,claudin-low,4ER-,IDC,ER-/HER2-,Negative
+MB-3754,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,1,IDC,ER+/HER2- High Prolif,Negative
+MB-3781,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,No,LumA,8,MDLC,ER+/HER2- Low Prolif,Positive
+MB-3824,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,2,IDC,ER+/HER2- High Prolif,Positive
+MB-3838,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,8,IDC,ER+/HER2- High Prolif,Positive
+MB-3840,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,6,IDC,ER+/HER2- High Prolif,Negative
+MB-3842,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,1,IDC,ER+/HER2- High Prolif,Negative
+MB-3850,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,LumA,4ER+,MDLC,ER+/HER2- Low Prolif,Positive
+MB-3852,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,4ER+,IDC,ER+/HER2- High Prolif,Positive
+MB-3854,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,No,LumA,3,MDLC,ER+/HER2- Low Prolif,Positive
+MB-3865,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,claudin-low,3,IDC,ER+/HER2- Low Prolif,Negative
+MB-3866,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,Her2,5,IDC,HER2+,Negative
+MB-3871,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,8,IDC,ER+/HER2- Low Prolif,Positive
+MB-3874,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,7,IDC,ER+/HER2- Low Prolif,Positive
+MB-4000,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,4ER+,IDC,ER+/HER2- Low Prolif,Negative
+MB-4001,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,7,IDC,ER+/HER2- High Prolif,Negative
+MB-4003,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,Her2,6,IDC,ER+/HER2- High Prolif,Positive
+MB-4004,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,9,IDC,ER+/HER2- High Prolif,Positive
+MB-4017,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,No,LumB,6,MDLC,ER+/HER2- High Prolif,Negative
+MB-4046,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,Her2,8,MDLC,ER+/HER2- High Prolif,Positive
+MB-4127,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Her2,5,IDC,HER2+,Negative
+MB-4140,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,8,IDC,ER+/HER2- Low Prolif,Negative
+MB-4146,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,Basal,4ER-,IDC,ER-/HER2-,Negative
+MB-4154,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,4ER+,IDC,ER+/HER2- High Prolif,Positive
+MB-4171,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,No,Her2,9,MDLC,ER+/HER2- High Prolif,Negative
+MB-4173,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,7,IDC,ER+/HER2- Low Prolif,Positive
+MB-4230,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,7,IDC,ER+/HER2- Low Prolif,Negative
+MB-4233,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,9,IDC,ER+/HER2- High Prolif,Negative
+MB-4236,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,Her2,9,IDC,ER+/HER2- High Prolif,Negative
+MB-4266,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,6,IDC,ER+/HER2- High Prolif,Negative
+MB-4274,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,8,IDC,ER+/HER2- High Prolif,Positive
+MB-4276,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,Her2,5,IDC,HER2+,Positive
+MB-4281,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,Her2,9,IDC,ER+/HER2- High Prolif,Negative
+MB-4283,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,8,IDC,ER+/HER2- Low Prolif,Positive
+MB-4289,Breast Cancer,Breast Invasive Lobular Carcinoma,Moderate,No,Her2,2,ILC,ER+/HER2- High Prolif,Negative
+MB-4293,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,LumA,8,MDLC,ER+/HER2- Low Prolif,Negative
+MB-4421,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,7,IDC,ER+/HER2- High Prolif,Positive
+MB-4529,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,LumA,3,IDC,ER+/HER2- Low Prolif,Negative
+MB-4599,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,8,IDC,ER+/HER2- Low Prolif,Positive
+MB-4616,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,8,IDC,ER+/HER2- Low Prolif,Positive
+MB-4618,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,No,LumB,1,MDLC,ER+/HER2- High Prolif,Positive
+MB-4621,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,Yes,Basal,10,IDC,ER-/HER2-,Negative
+MB-4622,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,claudin-low,10,IDC,ER-/HER2-,Negative
+MB-4623,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,No,LumA,3,MDLC,ER+/HER2- High Prolif,Negative
+MB-4627,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,LumA,3,MDLC,ER+/HER2- High Prolif,Positive
+MB-4633,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,LumA,4ER+,MDLC,ER+/HER2- Low Prolif,Positive
+MB-4634,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,LumA,3,MDLC,ER+/HER2- High Prolif,Positive
+MB-4639,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,9,IDC,ER+/HER2- High Prolif,Positive
+MB-4640,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,Her2,7,IDC,ER+/HER2- High Prolif,Negative
+MB-4641,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-4642,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,6,IDC,ER+/HER2- High Prolif,Positive
+MB-4643,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,Her2,5,IDC,HER2+,Negative
+MB-4648,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,1,IDC,ER+/HER2- High Prolif,Positive
+MB-4649,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,3,IDC,ER+/HER2- High Prolif,Negative
+MB-4651,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,6,IDC,ER+/HER2- High Prolif,Negative
+MB-4653,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,Normal,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-4655,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,3,IDC,ER+/HER2- High Prolif,Positive
+MB-4661,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,7,IDC,ER+/HER2- Low Prolif,Positive
+MB-4663,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,Basal,10,IDC,HER2+,Negative
+MB-4665,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,4ER+,IDC,ER+/HER2- Low Prolif,Positive
+MB-4666,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,7,IDC,ER+/HER2- High Prolif,Negative
+MB-4667,Breast Cancer,Breast Invasive Lobular Carcinoma,High,No,Her2,4ER-,ILC,ER-/HER2-,Negative
+MB-4669,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,LumB,6,IDC,ER+/HER2- High Prolif,Negative
+MB-4670,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,7,IDC,ER+/HER2- Low Prolif,Positive
+MB-4671,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,2,IDC,ER+/HER2- High Prolif,Positive
+MB-4673,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,9,IDC,ER+/HER2- High Prolif,Negative
+MB-4674,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,7,IDC,ER+/HER2- Low Prolif,Positive
+MB-4675,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,8,IDC,ER+/HER2- Low Prolif,Positive
+MB-4679,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,Basal,10,IDC,ER-/HER2-,Negative
+MB-4685,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,6,IDC,ER+/HER2- High Prolif,Negative
+MB-4686,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,3,IDC,ER+/HER2- Low Prolif,Negative
+MB-4687,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,4ER+,IDC,ER+/HER2- High Prolif,Negative
+MB-4688,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,5,IDC,HER2+,Positive
+MB-4691,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,7,IDC,ER+/HER2- Low Prolif,Negative
+MB-4694,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,Basal,10,IDC,ER-/HER2-,Negative
+MB-4695,Breast Cancer,Breast Invasive Lobular Carcinoma,Low,No,Normal,4ER+,ILC,ER+/HER2- Low Prolif,Negative
+MB-4698,Breast Cancer,Breast Invasive Lobular Carcinoma,High,No,LumA,3,ILC,ER+/HER2- Low Prolif,Positive
+MB-4701,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,8,IDC,ER+/HER2- Low Prolif,Positive
+MB-4702,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,9,IDC,ER+/HER2- High Prolif,Negative
+MB-4704,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,LumA,4ER+,MDLC,ER+/HER2- Low Prolif,Negative
+MB-4705,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-4706,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-4707,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,Basal,10,IDC,ER-/HER2-,Negative
+MB-4708,Breast Cancer,Breast Invasive Lobular Carcinoma,Moderate,No,LumA,3,ILC,ER+/HER2- Low Prolif,Negative
+MB-4709,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,8,IDC,ER+/HER2- Low Prolif,Positive
+MB-4710,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-4711,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,Yes,claudin-low,5,IDC,ER-/HER2-,Negative
+MB-4712,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,Normal,9,IDC,ER+/HER2- High Prolif,Negative
+MB-4714,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Basal,10,IDC,ER-/HER2-,Negative
+MB-4715,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Basal,8,IDC,ER-/HER2-,Negative
+MB-4716,Breast Cancer,Breast Invasive Lobular Carcinoma,High,No,LumA,3,ILC,ER+/HER2- Low Prolif,Positive
+MB-4717,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,Basal,10,IDC,ER-/HER2-,Negative
+MB-4718,Breast Cancer,Breast Invasive Lobular Carcinoma,Moderate,No,Normal,4ER+,ILC,ER+/HER2- Low Prolif,Positive
+MB-4719,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,8,IDC,ER+/HER2- Low Prolif,Positive
+MB-4721,Breast Cancer,Breast Invasive Lobular Carcinoma,Moderate,No,LumA,8,ILC,ER+/HER2- Low Prolif,Negative
+MB-4723,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,1,IDC,ER+/HER2- High Prolif,Negative
+MB-4724,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,Her2,4ER-,IDC,HER2+,Negative
+MB-4725,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,Her2,5,IDC,HER2+,Positive
+MB-4730,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,No,LumA,8,MDLC,ER+/HER2- Low Prolif,Positive
+MB-4732,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Basal,10,IDC,ER-/HER2-,Negative
+MB-4733,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,claudin-low,4ER-,IDC,ER-/HER2-,Negative
+MB-4735,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,8,IDC,ER+/HER2- Low Prolif,Positive
+MB-4737,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,1,IDC,ER+/HER2- High Prolif,Negative
+MB-4738,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Low,No,Normal,3,MDLC,ER+/HER2- Low Prolif,Positive
+MB-4739,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,No,LumA,3,MDLC,ER+/HER2- Low Prolif,Positive
+MB-4741,Breast Cancer,Breast Invasive Lobular Carcinoma,High,No,LumB,8,ILC,ER+/HER2- Low Prolif,Negative
+MB-4743,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,Normal,4ER+,MDLC,ER+/HER2- Low Prolif,Negative
+MB-4745,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,Her2,5,IDC,HER2+,Negative
+MB-4749,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,LumA,8,MDLC,ER+/HER2- High Prolif,Positive
+MB-4750,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,LumB,8,IDC,ER+/HER2- High Prolif,Positive
+MB-4752,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,6,IDC,ER+/HER2- Low Prolif,Negative
+MB-4762,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,7,IDC,ER+/HER2- Low Prolif,Positive
+MB-4763,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,Her2,5,IDC,HER2+,Negative
+MB-4764,Breast Cancer,Breast Invasive Lobular Carcinoma,Moderate,No,LumA,3,ILC,ER+/HER2- Low Prolif,Positive
+MB-4767,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,9,IDC,ER+/HER2- High Prolif,Positive
+MB-4769,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,Basal,1,IDC,ER-/HER2-,Negative
+MB-4770,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,Her2,10,IDC,ER-/HER2-,Negative
+MB-4771,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,8,IDC,ER+/HER2- Low Prolif,Positive
+MB-4778,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,LumA,4ER+,MDLC,ER+/HER2- Low Prolif,Positive
+MB-4779,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-4785,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,8,IDC,ER+/HER2- Low Prolif,Positive
+MB-4787,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,6,IDC,ER+/HER2- High Prolif,Positive
+MB-4790,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,7,IDC,ER+/HER2- High Prolif,Negative
+MB-4791,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,4ER+,IDC,ER+/HER2- High Prolif,Negative
+MB-4792,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,Yes,Basal,10,IDC,ER-/HER2-,Negative
+MB-4796,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,5,IDC,HER2+,Negative
+MB-4797,Breast Cancer,Breast Invasive Lobular Carcinoma,High,No,LumA,2,ILC,ER+/HER2- High Prolif,Negative
+MB-4800,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,6,IDC,ER+/HER2- High Prolif,Positive
+MB-4801,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,8,IDC,ER+/HER2- High Prolif,Positive
+MB-4805,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,7,IDC,ER+/HER2- High Prolif,Positive
+MB-4806,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-4809,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,Basal,10,IDC,ER-/HER2-,Negative
+MB-4814,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,Normal,4ER+,IDC,ER+/HER2- Low Prolif,Positive
+MB-4818,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,No,LumB,3,MDLC,ER+/HER2- Low Prolif,Negative
+MB-4822,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,LumA,4ER+,MDLC,ER+/HER2- Low Prolif,Positive
+MB-4825,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,8,IDC,ER+/HER2- Low Prolif,Positive
+MB-4827,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,3,IDC,ER+/HER2- Low Prolif,Negative
+MB-4828,Breast Cancer,Breast Invasive Lobular Carcinoma,High,No,LumB,1,ILC,ER-/HER2-,Negative
+MB-4832,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-4846,Breast Cancer,Breast Invasive Lobular Carcinoma,Low,No,LumB,5,ILC,HER2+,Positive
+MB-4849,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,8,IDC,ER+/HER2- High Prolif,Negative
+MB-4851,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,2,IDC,ER+/HER2- High Prolif,Positive
+MB-4859,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,claudin-low,4ER+,IDC,ER-/HER2-,Negative
+MB-4860,Breast Cancer,Breast Invasive Lobular Carcinoma,Low,No,LumA,3,ILC,ER+/HER2- Low Prolif,Positive
+MB-4862,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,1,IDC,ER+/HER2- High Prolif,Positive
+MB-4865,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,claudin-low,10,IDC,ER-/HER2-,Negative
+MB-4866,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,4ER+,IDC,HER2+,Positive
+MB-4867,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-4869,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,8,IDC,ER+/HER2- Low Prolif,Positive
+MB-4870,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-4871,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,Normal,5,IDC,HER2+,Negative
+MB-4876,Breast Cancer,Breast Invasive Lobular Carcinoma,Low,No,claudin-low,4ER+,ILC,ER-/HER2-,Negative
+MB-4878,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,5,IDC,HER2+,Negative
+MB-4886,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,Her2,5,IDC,HER2+,Negative
+MB-4887,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,Normal,4ER+,IDC,ER+/HER2- Low Prolif,Negative
+MB-4888,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,claudin-low,4ER-,IDC,ER-/HER2-,Negative
+MB-4893,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,Yes,claudin-low,10,IDC,ER-/HER2-,Negative
+MB-4894,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,8,IDC,ER+/HER2- High Prolif,Positive
+MB-4896,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,Basal,5,IDC,HER2+,Negative
+MB-4897,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Low,No,Normal,4ER+,MDLC,ER+/HER2- Low Prolif,Positive
+MB-4899,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-4900,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,6,IDC,ER+/HER2- High Prolif,Negative
+MB-4906,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,9,IDC,ER+/HER2- High Prolif,Positive
+MB-4908,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumB,5,IDC,HER2+,Positive
+MB-4911,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Basal,10,IDC,ER-/HER2-,Negative
+MB-4912,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,8,IDC,ER+/HER2- High Prolif,Positive
+MB-4929,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,Her2,5,IDC,HER2+,Negative
+MB-4930,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,9,IDC,HER2+,Negative
+MB-4933,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,4ER+,IDC,ER+/HER2- High Prolif,Negative
+MB-4934,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,7,IDC,ER+/HER2- High Prolif,Positive
+MB-4935,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,Yes,Her2,5,IDC,HER2+,Negative
+MB-4937,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,6,IDC,ER+/HER2- High Prolif,Positive
+MB-4938,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Basal,10,IDC,ER-/HER2-,Negative
+MB-4941,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,4ER+,IDC,ER+/HER2- Low Prolif,Positive
+MB-4942,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,claudin-low,10,IDC,ER-/HER2-,Negative
+MB-4944,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,2,IDC,ER+/HER2- High Prolif,Positive
+MB-4950,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-4952,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,Her2,4ER-,IDC,HER2+,Negative
+MB-4956,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,1,IDC,ER+/HER2- High Prolif,Negative
+MB-4959,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-4961,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,8,IDC,ER+/HER2- Low Prolif,Positive
+MB-4965,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,LumA,4ER+,MDLC,ER+/HER2- High Prolif,Positive
+MB-4966,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,No,LumB,3,MDLC,ER+/HER2- Low Prolif,Positive
+MB-4967,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-4968,Breast Cancer,Breast Invasive Lobular Carcinoma,High,No,LumA,4ER+,ILC,ER+/HER2- Low Prolif,Positive
+MB-4969,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,7,IDC,ER+/HER2- High Prolif,Positive
+MB-4974,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,Basal,10,IDC,ER-/HER2-,Negative
+MB-4986,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,9,IDC,ER+/HER2- High Prolif,Negative
+MB-4987,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,LumA,8,IDC,ER+/HER2- Low Prolif,Negative
+MB-4991,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,6,IDC,ER+/HER2- High Prolif,Negative
+MB-4992,Breast Cancer,Breast Invasive Lobular Carcinoma,High,No,LumA,3,ILC,ER+/HER2- Low Prolif,Negative
+MB-4993,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Her2,4ER-,IDC,ER-/HER2-,Negative
+MB-4994,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,8,IDC,ER+/HER2- High Prolif,Positive
+MB-4996,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,LumA,7,IDC,ER+/HER2- Low Prolif,Positive
+MB-4998,Breast Cancer,Breast Invasive Lobular Carcinoma,High,No,LumB,8,ILC,ER+/HER2- High Prolif,Negative
+MB-4999,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,7,IDC,ER+/HER2- Low Prolif,Positive
+MB-5001,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,4ER+,IDC,ER+/HER2- High Prolif,Negative
+MB-5004,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Her2,4ER-,IDC,ER+/HER2- Low Prolif,Negative
+MB-5008,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Her2,10,IDC,ER-/HER2-,Negative
+MB-5011,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,No,LumA,3,MDLC,ER+/HER2- Low Prolif,Positive
+MB-5013,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,3,IDC,ER+/HER2- Low Prolif,Positive
+MB-5015,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,8,IDC,ER+/HER2- Low Prolif,Positive
+MB-5017,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,claudin-low,4ER+,IDC,ER+/HER2- High Prolif,Negative
+MB-5018,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,8,IDC,ER+/HER2- High Prolif,Positive
+MB-5019,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,Normal,5,IDC,HER2+,Positive
+MB-5020,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,LumA,8,MDLC,ER+/HER2- Low Prolif,Positive
+MB-5027,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,LumA,3,MDLC,ER+/HER2- Low Prolif,Positive
+MB-5033,Breast Cancer,Breast Invasive Mixed Mucinous Carcinoma,Moderate,No,LumB,1,IMMC,ER+/HER2- High Prolif,Negative
+MB-5035,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,No,LumA,3,MDLC,ER+/HER2- High Prolif,Positive
+MB-5039,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,1,IDC,ER+/HER2- High Prolif,Negative
+MB-5040,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,6,IDC,ER+/HER2- High Prolif,Negative
+MB-5041,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,claudin-low,2,IDC,ER-/HER2-,Negative
+MB-5043,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,LumA,8,MDLC,ER+/HER2- Low Prolif,Positive
+MB-5044,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,4ER+,IDC,ER+/HER2- High Prolif,Negative
+MB-5045,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumA,4ER+,IDC,ER+/HER2- High Prolif,Positive
+MB-5048,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,LumA,7,IDC,ER+/HER2- High Prolif,Positive
+MB-5049,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,LumB,8,MDLC,ER+/HER2- High Prolif,Positive
+MB-5050,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,Moderate,No,LumA,3,MDLC,ER+/HER2- Low Prolif,Positive
+MB-5052,Breast Cancer,Breast Invasive Ductal Carcinoma,Moderate,No,claudin-low,4ER+,IDC,ER-/HER2-,Negative
+MB-5054,Breast Cancer,Breast Invasive Ductal Carcinoma,Low,No,Basal,5,IDC,HER2+,Negative
+MB-5057,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,Basal,10,IDC,ER-/HER2-,Negative
+MB-5058,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,Yes,Normal,7,MDLC,ER-/HER2-,Negative
+MB-5059,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,High,No,LumA,8,MDLC,ER+/HER2- Low Prolif,Positive
+MB-5060,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,8,IDC,ER+/HER2- High Prolif,Negative
+MB-5061,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,7,IDC,ER+/HER2- High Prolif,Positive
+MB-5062,Breast Cancer,Breast Invasive Ductal Carcinoma,High,No,LumB,1,IDC,HER2+,Negative
+MB-5063,Breast Cancer,Breast Invasive Ductal Carcinoma,High,Yes,Her2,5,IDC,HER2+,Negative
