@@ -63,12 +63,10 @@ class InteractiveImageViewer(QGraphicsView):
         if self.pixmap_item.pixmap() and not self.pixmap_item.pixmap().isNull():
             current_scale = self.transform().m11()
 
-            # Temporarily reset to find the new minimum zoom for the updated window size
             self.resetTransform()
             self.fitInView(self.sceneRect(), Qt.AspectRatioMode.KeepAspectRatio)
             self.min_zoom = self.transform().m11()
 
-            # If the user was zoomed in further than the new minimum, restore their zoom
             if current_scale > self.min_zoom:
                 self.resetTransform()
                 self.scale(current_scale, current_scale)
@@ -170,7 +168,6 @@ class PACSInterface(QMainWindow):
         main_layout.addWidget(self.image_viewer)
 
     def upload_image(self):
-        # Bypass Windows native shell crashes by using Qt's internal dialog
         options = QFileDialog.Option.DontUseNativeDialog
         file_name, _ = QFileDialog.getOpenFileName(
             self, "Open DICOM File", "", "DICOM Files (*.dcm);;All Files (*)",
@@ -182,11 +179,11 @@ class PACSInterface(QMainWindow):
                 dicom_data = pydicom.dcmread(file_name)
                 pixel_array = dicom_data.pixel_array
 
-                # Handle multi-dimensional or multi-frame arrays safely
+
                 if pixel_array.ndim == 3:
-                    if pixel_array.shape[2] == 3:  # RGB color image
+                    if pixel_array.shape[2] == 3:
                         pixel_array = np.mean(pixel_array, axis=2)
-                    else:  # Multi-frame image, take the first frame
+                    else:
                         pixel_array = pixel_array[0]
                 elif pixel_array.ndim != 2:
                     raise ValueError(f"Unsupported image dimensions: {pixel_array.shape}")
@@ -198,7 +195,6 @@ class PACSInterface(QMainWindow):
                 pixel_array = np.uint8(pixel_array)
                 height, width = pixel_array.shape
 
-                # Safely convert to bytes to prevent C-level segmentation faults
                 image_bytes = pixel_array.tobytes()
                 q_img = QImage(image_bytes, width, height, width, QImage.Format.Format_Grayscale8)
 
