@@ -2,11 +2,11 @@ import sys
 import random
 import numpy as np
 import pydicom
-from PyQt5.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout,
+from PyQt6.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout,
                              QHBoxLayout, QPushButton, QLabel, QFileDialog, QFrame,
                              QMessageBox, QGraphicsView, QGraphicsScene, QGraphicsPixmapItem)
-from PyQt5.QtGui import QPixmap, QImage, QFont
-from PyQt5.QtCore import Qt
+from PyQt6.QtGui import QPixmap, QImage, QFont
+from PyQt6.QtCore import Qt
 
 
 class InteractiveImageViewer(QGraphicsView):
@@ -21,12 +21,12 @@ class InteractiveImageViewer(QGraphicsView):
 
         # PACS-style visual settings
         self.setStyleSheet("background-color: #000000; border: 1px solid #333;")
-        self.setDragMode(QGraphicsView.ScrollHandDrag)
-        self.setTransformationAnchor(QGraphicsView.AnchorUnderMouse)
-        self.setResizeAnchor(QGraphicsView.AnchorUnderMouse)
+        self.setDragMode(QGraphicsView.DragMode.ScrollHandDrag)
+        self.setTransformationAnchor(QGraphicsView.ViewportAnchor.AnchorUnderMouse)
+        self.setResizeAnchor(QGraphicsView.ViewportAnchor.AnchorUnderMouse)
 
-        self.setHorizontalScrollBarPolicy(Qt.ScrollBarAlwaysOff)
-        self.setVerticalScrollBarPolicy(Qt.ScrollBarAlwaysOff)
+        self.setHorizontalScrollBarPolicy(Qt.ScrollBarPolicy.ScrollBarAlwaysOff)
+        self.setVerticalScrollBarPolicy(Qt.ScrollBarPolicy.ScrollBarAlwaysOff)
 
         self.min_zoom = 1.0
 
@@ -36,7 +36,7 @@ class InteractiveImageViewer(QGraphicsView):
 
         # Fit image to view and establish the baseline minimum zoom
         self.resetTransform()
-        self.fitInView(self.sceneRect(), Qt.KeepAspectRatio)
+        self.fitInView(self.sceneRect(), Qt.AspectRatioMode.KeepAspectRatio)
         self.min_zoom = self.transform().m11()
 
     def wheelEvent(self, event):
@@ -65,7 +65,7 @@ class InteractiveImageViewer(QGraphicsView):
 
             # Temporarily reset to find the new minimum zoom for the updated window size
             self.resetTransform()
-            self.fitInView(self.sceneRect(), Qt.KeepAspectRatio)
+            self.fitInView(self.sceneRect(), Qt.AspectRatioMode.KeepAspectRatio)
             self.min_zoom = self.transform().m11()
 
             # If the user was zoomed in further than the new minimum, restore their zoom
@@ -153,7 +153,7 @@ class PACSInterface(QMainWindow):
 
         self.lbl_result = QLabel("Result: Pending...")
         self.lbl_result.setObjectName("result_label")
-        self.lbl_result.setAlignment(Qt.AlignCenter)
+        self.lbl_result.setAlignment(Qt.AlignmentFlag.AlignCenter)
         self.lbl_result.hide()
 
         sidebar_layout.addWidget(title_label)
@@ -170,25 +170,42 @@ class PACSInterface(QMainWindow):
         main_layout.addWidget(self.image_viewer)
 
     def upload_image(self):
-        options = QFileDialog.Options()
-        file_name, _ = QFileDialog.getOpenFileName(self, "Open DICOM File", "", "DICOM Files (*.dcm);;All Files (*)",
-                                                   options=options)
+        # Bypass Windows native shell crashes by using Qt's internal dialog
+        options = QFileDialog.Option.DontUseNativeDialog
+        file_name, _ = QFileDialog.getOpenFileName(
+            self, "Open DICOM File", "", "DICOM Files (*.dcm);;All Files (*)",
+            options=options
+        )
 
         if file_name:
             try:
                 dicom_data = pydicom.dcmread(file_name)
-                pixel_array = dicom_data.pixel_array.astype(float)
+                pixel_array = dicom_data.pixel_array
 
+                # Handle multi-dimensional or multi-frame arrays safely
+                if pixel_array.ndim == 3:
+                    if pixel_array.shape[2] == 3:  # RGB color image
+                        pixel_array = np.mean(pixel_array, axis=2)
+                    else:  # Multi-frame image, take the first frame
+                        pixel_array = pixel_array[0]
+                elif pixel_array.ndim != 2:
+                    raise ValueError(f"Unsupported image dimensions: {pixel_array.shape}")
+
+                pixel_array = pixel_array.astype(float)
                 if pixel_array.max() > 0:
                     pixel_array = (np.maximum(pixel_array, 0) / pixel_array.max()) * 255.0
 
                 pixel_array = np.uint8(pixel_array)
                 height, width = pixel_array.shape
-                bytes_per_line = width
 
-                q_img = QImage(pixel_array.data, width, height, bytes_per_line, QImage.Format_Grayscale8)
+                # Safely convert to bytes to prevent C-level segmentation faults
+                image_bytes = pixel_array.tobytes()
+                q_img = QImage(image_bytes, width, height, width, QImage.Format.Format_Grayscale8)
+
+                if q_img.isNull():
+                    raise ValueError("Failed to generate image buffer from DICOM data.")
+
                 pixmap = QPixmap.fromImage(q_img)
-
                 self.image_viewer.set_image(pixmap)
 
                 self.image_loaded = True
@@ -223,4 +240,4 @@ if __name__ == '__main__':
     app = QApplication(sys.argv)
     window = PACSInterface()
     window.show()
-    sys.exit(app.exec_())
+    sys.exit(app.exec())
