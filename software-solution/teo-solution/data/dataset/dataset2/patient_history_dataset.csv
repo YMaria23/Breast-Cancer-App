@@ -1,0 +1,781 @@
+Patient ID,Age at Diagnosis,Type of Breast Surgery,Cohort,ER status measured by IHC,ER Status,Neoplasm Histologic Grade,HER2 status measured by SNP6,HER2 Status,Tumor Other Histologic Subtype,Hormone Therapy,Inferred Menopausal State,Primary Tumor Laterality,Lymph nodes examined positive,Tumor Size,Tumor Stage,Mutation Count,Nottingham prognostic index,Overall Survival (Months),Overall Survival Status,Relapse Free Status (Months),Relapse Free Status,Sex,Patient's Vital Status,class
+MB-0002,43.19,Breast Conserving,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Pre,Right,0.0,10.0,1.0,2.0,4.02,84.63333333,Living,83.52,Not Recurred,Female,Living,benign
+MB-0008,76.97,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Mixed,Yes,Post,Right,8.0,40.0,2.0,2.0,6.08,41.36666667,Deceased,18.55,Recurred,Female,Died of Disease,benign
+MB-0010,78.77,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,31.0,4.0,4.0,4.062,7.8,Deceased,2.89,Recurred,Female,Died of Disease,benign
+MB-0028,86.41,Breast Conserving,1.0,Positve,Positive,3.0,Gain,Negative,Ductal/NST,Yes,Post,Right,1.0,16.0,2.0,4.0,5.032,36.56666667,Deceased,36.09,Not Recurred,Female,Died of Other Causes,benign
+MB-0035,84.22,Mastectomy,1.0,Negative,Positive,2.0,Loss,Negative,Lobular,No,Post,Left,0.0,28.0,2.0,5.0,3.056,36.26666667,Deceased,35.79,Recurred,Female,Died of Disease,benign
+MB-0036,85.49,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,22.0,4.0,1.0,3.044,132.03333329999998,Deceased,123.32,Recurred,Female,Died of Disease,benign
+MB-0060,45.43,Breast Conserving,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Pre,Right,0.0,23.0,2.0,5.0,4.046,140.8666667,Living,139.01,Not Recurred,Female,Living,benign
+MB-0066,61.49,Breast Conserving,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,1.0,16.0,2.0,3.0,4.032,157.43333330000002,Living,155.36,Not Recurred,Female,Living,benign
+MB-0100,68.68,Mastectomy,1.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Post,Right,0.0,39.0,2.0,1.0,4.078,8.066666667,Deceased,7.83,Recurred,Female,Died of Disease,benign
+MB-0101,46.89,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Lobular,Yes,Pre,Right,0.0,34.0,2.0,3.0,3.068,148.0333333,Living,33.72,Recurred,Female,Living,benign
+MB-0102,51.38,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Lobular,Yes,Post,Right,16.0,40.0,2.0,4.0,5.08,140.7666667,Deceased,100.66,Recurred,Female,Died of Disease,benign
+MB-0106,49.87,Mastectomy,1.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,Yes,Pre,Left,5.0,70.0,3.0,4.0,4.14,85.33333333,Living,84.21,Not Recurred,Female,Living,benign
+MB-0111,54.23,Mastectomy,1.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,0.0,27.0,2.0,4.0,2.0540000000000003,127.1,Living,125.43,Not Recurred,Female,Living,benign
+MB-0112,83.89,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Lobular,Yes,Post,Right,14.0,150.0,3.0,8.0,6.3,39.16666667,Deceased,25.13,Recurred,Female,Died of Disease,benign
+MB-0114,48.59,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Pre,Left,0.0,30.0,2.0,3.0,3.06,13.4,Living,13.22,Not Recurred,Female,Living,benign
+MB-0115,39.84,Mastectomy,1.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Pre,Left,0.0,25.0,2.0,5.0,4.05,66.73333333,Deceased,31.74,Recurred,Female,Died of Disease,benign
+MB-0116,42.55,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Lobular,Yes,Pre,Right,1.0,60.0,3.0,2.0,4.12,122.26666670000002,Living,120.66,Not Recurred,Female,Living,benign
+MB-0117,60.07,Breast Conserving,1.0,Positve,Positive,2.0,Neutral,Negative,Mixed,Yes,Post,Right,1.0,23.0,2.0,2.0,4.046,2.4,Living,2.37,Not Recurred,Female,Living,benign
+MB-0119,82.73,Mastectomy,1.0,Positve,Positive,2.0,Gain,Negative,Ductal/NST,Yes,Post,Left,1.0,23.0,2.0,2.0,4.046,95.86666667,Deceased,94.61,Recurred,Female,Died of Disease,benign
+MB-0120,72.1,Mastectomy,1.0,Positve,Positive,3.0,Gain,Positive,Ductal/NST,Yes,Post,Left,1.0,26.0,2.0,3.0,5.052,29.06666667,Deceased,28.68,Recurred,Female,Died of Disease,benign
+MB-0121,78.73,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,6.0,30.0,2.0,4.0,5.06,152.2,Living,150.2,Not Recurred,Female,Living,benign
+MB-0122,58.95,Breast Conserving,1.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,1.0,20.0,2.0,5.0,3.04,138.9,Living,137.07,Not Recurred,Female,Living,benign
+MB-0123,76.89,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,0.0,25.0,2.0,8.0,4.05,114.23333329999998,Deceased,25.86,Recurred,Female,Died of Other Causes,benign
+MB-0124,43.46,Breast Conserving,1.0,Positve,Positive,2.0,Neutral,Negative,Mixed,Yes,Pre,Left,2.0,50.0,3.0,1.0,4.1,118.2,Living,116.64,Not Recurred,Female,Living,benign
+MB-0125,73.98,Breast Conserving,1.0,Positve,Positive,1.0,Neutral,Negative,Mixed,Yes,Post,Right,0.0,9.0,2.0,3.0,2.018,1.266666667,Living,1.25,Not Recurred,Female,Living,benign
+MB-0128,57.4,Breast Conserving,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,14.0,1.0,4.0,3.028,137.8,Living,135.99,Not Recurred,Female,Living,benign
+MB-0131,69.16,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,39.0,2.0,5.0,4.078,66.63333333,Deceased,63.59,Recurred,Female,Died of Disease,benign
+MB-0133,58.89,Breast Conserving,1.0,Positve,Positive,1.0,Neutral,Negative,Mixed,Yes,Post,Left,1.0,80.0,2.0,3.0,3.16,151.0,Living,149.01,Not Recurred,Female,Living,benign
+MB-0134,73.11,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,3.0,22.0,2.0,1.0,5.044,12.93333333,Deceased,11.71,Recurred,Female,Died of Disease,benign
+MB-0136,72.3,Breast Conserving,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,0.0,13.0,1.0,2.0,3.026,88.2,Living,87.04,Not Recurred,Female,Living,benign
+MB-0138,51.33,Breast Conserving,1.0,Positve,Positive,2.0,Loss,Negative,Ductal/NST,Yes,Post,Left,0.0,18.0,1.0,2.0,3.036,150.56666669999998,Living,148.59,Not Recurred,Female,Living,benign
+MB-0139,47.62,Breast Conserving,1.0,Positve,Positive,2.0,Neutral,Negative,Lobular,Yes,Pre,Right,1.0,30.0,2.0,1.0,4.06,109.2,Living,107.76,Not Recurred,Female,Living,benign
+MB-0140,74.07,Breast Conserving,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,1.0,27.0,2.0,1.0,4.053999999999999,147.93333330000002,Living,145.99,Not Recurred,Female,Living,benign
+MB-0143,85.39,Breast Conserving,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,2.0,22.0,2.0,7.0,5.044,54.33333333,Deceased,53.62,Not Recurred,Female,Died of Other Causes,benign
+MB-0145,62.4,Breast Conserving,1.0,Positve,Positive,2.0,Neutral,Negative,Lobular,Yes,Post,Left,0.0,20.0,1.0,2.0,3.04,147.66666669999998,Living,145.72,Not Recurred,Female,Living,benign
+MB-0147,79.28,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Lobular,Yes,Post,Right,9.0,38.0,2.0,2.0,5.0760000000000005,51.76666667,Deceased,50.59,Recurred,Female,Died of Disease,benign
+MB-0148,53.16,Mastectomy,1.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,No,Post,Left,0.0,19.0,1.0,3.0,4.038,1.766666667,Living,1.74,Not Recurred,Female,Living,benign
+MB-0149,77.13,Breast Conserving,1.0,Negative,Negative,3.0,Loss,Negative,Ductal/NST,No,Post,Right,0.0,39.0,2.0,2.0,4.078,51.7,Deceased,51.02,Not Recurred,Female,Died of Other Causes,benign
+MB-0150,70.22,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,20.0,2.0,11.0,3.04,111.2,Living,109.74,Not Recurred,Female,Living,benign
+MB-0151,67.7,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,6.0,50.0,3.0,1.0,6.1,49.23333333,Deceased,47.99,Recurred,Female,Died of Disease,benign
+MB-0152,63.77,Mastectomy,1.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,No,Post,Right,0.0,12.0,1.0,8.0,4.024,63.03333333,Living,62.2,Not Recurred,Female,Living,benign
+MB-0154,62.46,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,0.0,12.0,1.0,2.0,3.024,114.76666670000002,Living,113.26,Not Recurred,Female,Living,benign
+MB-0155,62.72,Breast Conserving,1.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,9.0,1.0,2.0,2.018,59.8,Living,59.01,Not Recurred,Female,Living,benign
+MB-0157,71.5,Breast Conserving,1.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Post,Left,0.0,30.0,2.0,1.0,4.06,114.76666670000002,Living,113.26,Not Recurred,Female,Living,benign
+MB-0162,57.56,Breast Conserving,1.0,Positve,Positive,2.0,Neutral,Negative,Mixed,Yes,Post,Left,1.0,14.0,2.0,5.0,4.0280000000000005,55.76666667,Living,55.03,Not Recurred,Female,Living,benign
+MB-0164,37.87,Mastectomy,1.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Pre,Left,0.0,16.0,2.0,4.0,4.032,10.83333333,Living,10.69,Not Recurred,Female,Living,benign
+MB-0165,53.75,Mastectomy,1.0,Positve,Positive,3.0,Gain,Positive,Ductal/NST,Yes,Post,Left,22.0,52.0,3.0,2.0,6.104,47.63333333,Deceased,32.14,Recurred,Female,Died of Disease,benign
+MB-0166,44.98,Breast Conserving,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Pre,Right,3.0,24.0,2.0,2.0,5.048,104.4,Living,103.03,Not Recurred,Female,Living,benign
+MB-0167,76.4,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,2.0,38.0,2.0,9.0,5.0760000000000005,43.1,Deceased,40.3,Recurred,Female,Died of Disease,benign
+MB-0168,60.26,Breast Conserving,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,17.0,1.0,1.0,4.034,122.76666670000002,Living,121.15,Not Recurred,Female,Living,benign
+MB-0170,83.35,Mastectomy,1.0,Positve,Positive,1.0,Neutral,Negative,Tubular/ cribriform,Yes,Post,Left,1.0,26.0,2.0,3.0,3.052,93.36666667,Deceased,92.14,Not Recurred,Female,Died of Other Causes,benign
+MB-0171,64.57,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Mixed,Yes,Post,Right,0.0,27.0,2.0,4.0,4.053999999999999,5.433333332999999,Living,5.36,Not Recurred,Female,Living,benign
+MB-0172,48.11,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Pre,Right,1.0,20.0,2.0,7.0,4.04,138.1,Living,136.28,Not Recurred,Female,Living,benign
+MB-0173,83.99,Mastectomy,1.0,Positve,Positive,3.0,Loss,Negative,Ductal/NST,Yes,Post,Right,4.0,44.0,2.0,3.0,6.087999999999999,3.766666667,Living,3.72,Not Recurred,Female,Living,benign
+MB-0174,59.18,Breast Conserving,1.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Post,Left,0.0,24.0,2.0,2.0,4.048,78.76666667,Living,77.73,Not Recurred,Female,Living,benign
+MB-0176,38.78,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Pre,Right,7.0,36.0,2.0,1.0,6.072,113.4333333,Living,77.53,Recurred,Female,Living,benign
+MB-0177,85.94,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Mixed,Yes,Post,Left,2.0,44.0,2.0,3.0,4.088,45.6,Deceased,45.0,Not Recurred,Female,Died of Other Causes,benign
+MB-0180,51.69,Breast Conserving,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,0.0,18.0,1.0,2.0,3.036,62.33333333,Living,61.51,Not Recurred,Female,Living,benign
+MB-0181,68.45,Breast Conserving,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,1.0,21.0,2.0,3.0,4.042,85.96666667,Living,84.84,Not Recurred,Female,Living,benign
+MB-0184,68.41,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Mucinous,Yes,Post,Left,0.0,25.0,2.0,1.0,3.05,109.03333329999998,Living,107.6,Not Recurred,Female,Living,benign
+MB-0189,57.79,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,6.0,48.0,4.0,2.0,6.096,9.066666667,Deceased,1.32,Recurred,Female,Died of Disease,benign
+MB-0192,62.55,Breast Conserving,1.0,Positve,Positive,1.0,Neutral,Negative,Mixed,Yes,Post,Right,0.0,13.0,1.0,2.0,2.026,144.6333333,Living,142.73,Not Recurred,Female,Living,benign
+MB-0194,56.45,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,6.0,21.0,2.0,5.0,5.042,91.6,Living,90.39,Not Recurred,Female,Living,benign
+MB-0195,75.18,Mastectomy,1.0,Positve,Positive,3.0,Gain,Negative,Ductal/NST,Yes,Post,Right,21.0,28.0,2.0,2.0,6.056,146.0,Living,92.43,Recurred,Female,Living,benign
+MB-0197,50.48,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,2.0,24.0,2.0,2.0,5.048,70.73333333,Living,69.8,Not Recurred,Female,Living,benign
+MB-0198,43.37,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Pre,Right,4.0,18.0,2.0,3.0,6.0360000000000005,144.7666667,Living,142.86,Not Recurred,Female,Living,benign
+MB-0199,57.56,Breast Conserving,1.0,Positve,Positive,3.0,Neutral,Negative,Mixed,Yes,Post,Right,1.0,19.0,2.0,1.0,5.038,144.4,Living,142.5,Not Recurred,Female,Living,benign
+MB-0201,49.5,Mastectomy,1.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,No,Pre,Left,0.0,20.0,1.0,4.0,4.04,125.7,Living,124.05,Not Recurred,Female,Living,benign
+MB-0202,46.0,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Pre,Right,1.0,30.0,2.0,3.0,5.06,128.36666670000002,Living,126.68,Not Recurred,Female,Living,benign
+MB-0203,86.24,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,1.0,25.0,2.0,2.0,5.05,58.76666667,Deceased,57.99,Not Recurred,Female,Died of Other Causes,benign
+MB-0204,79.38,Breast Conserving,1.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,0.0,10.0,1.0,3.0,2.02,24.3,Deceased,23.91,Recurred,Female,Died of Disease,benign
+MB-0205,53.56,Breast Conserving,1.0,Positve,Positive,2.0,Neutral,Negative,Lobular,Yes,Post,Left,0.0,26.0,2.0,1.0,3.052,144.4666667,Living,142.57,Not Recurred,Female,Living,benign
+MB-0206,55.02,Mastectomy,1.0,Negative,Negative,3.0,Neutral,Negative,Medullary,No,Post,Left,2.0,35.0,2.0,7.0,5.07,141.16666669999998,Living,139.31,Not Recurred,Female,Living,benign
+MB-0214,41.41,Breast Conserving,1.0,Positve,Negative,3.0,Neutral,Negative,Ductal/NST,No,Pre,Left,0.0,27.0,2.0,4.0,4.053999999999999,146.9,Living,144.97,Not Recurred,Female,Living,benign
+MB-0215,75.63,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Mixed,Yes,Post,Right,0.0,40.0,2.0,11.0,3.08,122.2,Living,120.59,Not Recurred,Female,Living,benign
+MB-0218,43.39,Breast Conserving,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Pre,Left,2.0,20.0,2.0,2.0,5.04,131.0666667,Living,129.34,Not Recurred,Female,Living,benign
+MB-0220,37.24,Mastectomy,1.0,Positve,Negative,3.0,Gain,Negative,Ductal/NST,No,Pre,Right,6.0,20.0,2.0,1.0,6.04,39.83333333,Deceased,39.31,Recurred,Female,Died of Disease,benign
+MB-0221,77.72,Mastectomy,1.0,Negative,Negative,3.0,Gain,Negative,Ductal/NST,No,Post,Left,7.0,20.0,2.0,8.0,6.04,20.2,Deceased,19.93,Recurred,Female,Died of Disease,benign
+MB-0223,50.45,Mastectomy,1.0,Positve,Positive,3.0,Gain,Negative,Ductal/NST,Yes,Post,Right,12.0,20.0,2.0,5.0,6.04,81.33333333,Deceased,43.22,Recurred,Female,Died of Disease,benign
+MB-0226,58.21,Breast Conserving,1.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,1.0,20.0,2.0,4.0,3.04,57.63333333,Living,56.88,Not Recurred,Female,Living,benign
+MB-0228,63.35,Mastectomy,1.0,Positve,Positive,1.0,Neutral,Negative,Lobular,No,Post,Left,1.0,17.0,2.0,1.0,3.034,10.83333333,Deceased,10.69,Recurred,Female,Died of Disease,benign
+MB-0229,45.5,Breast Conserving,1.0,Positve,Positive,2.0,Neutral,Negative,Mixed,Yes,Pre,Right,0.0,19.0,1.0,5.0,3.0380000000000003,71.5,Living,70.56,Not Recurred,Female,Living,benign
+MB-0232,44.73,Breast Conserving,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Pre,Right,0.0,14.0,1.0,3.0,3.028,207.6333333,Living,204.9,Not Recurred,Female,Living,benign
+MB-0235,52.55,Breast Conserving,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,1.0,20.0,2.0,3.0,4.04,142.56666669999998,Deceased,127.89,Recurred,Female,Died of Disease,benign
+MB-0236,43.63,Mastectomy,1.0,Positve,Positive,3.0,Gain,Positive,Ductal/NST,Yes,Pre,Right,0.0,27.0,2.0,1.0,4.053999999999999,205.0333333,Living,202.34,Not Recurred,Female,Living,benign
+MB-0238,52.19,Mastectomy,1.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Post,Right,4.0,35.0,2.0,1.0,6.07,193.1666667,Living,190.63,Not Recurred,Female,Living,benign
+MB-0239,77.85,Breast Conserving,1.0,Positve,Positive,1.0,Neutral,Negative,Mixed,Yes,Post,Right,0.0,46.0,3.0,2.0,2.092,85.56666667,Deceased,84.44,Recurred,Female,Died of Disease,benign
+MB-0243,53.72,Breast Conserving,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,1.0,22.0,2.0,4.0,4.044,149.7666667,Living,147.8,Not Recurred,Female,Living,benign
+MB-0247,66.75,Breast Conserving,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,1.0,15.0,2.0,4.0,4.03,185.6,Living,183.16,Recurred,Female,Living,benign
+MB-0249,53.45,Breast Conserving,1.0,Negative,Negative,3.0,Gain,Negative,Ductal/NST,No,Post,Right,0.0,11.0,1.0,2.0,4.022,188.3333333,Living,185.86,Not Recurred,Female,Living,benign
+MB-0257,57.61,Breast Conserving,1.0,Positve,Positive,2.0,Gain,Negative,Ductal/NST,Yes,Post,Right,0.0,25.0,2.0,1.0,3.05,91.73333333,Deceased,32.11,Recurred,Female,Died of Disease,benign
+MB-0258,62.7,Breast Conserving,1.0,Positve,Positive,3.0,Gain,Negative,Ductal/NST,Yes,Post,Left,0.0,11.0,1.0,7.0,4.022,86.13333333,Living,85.0,Not Recurred,Female,Living,benign
+MB-0261,63.93,Breast Conserving,1.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,6.0,26.0,2.0,3.0,4.052,90.23333333,Deceased,86.64,Recurred,Female,Died of Disease,benign
+MB-0265,46.44,Breast Conserving,1.0,Positve,Negative,2.0,Neutral,Negative,Ductal/NST,Yes,Pre,Right,1.0,21.0,2.0,2.0,4.042,189.1333333,Living,186.64,Not Recurred,Female,Living,benign
+MB-0269,45.39,Mastectomy,1.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Pre,Right,2.0,26.0,2.0,1.0,5.052,22.23333333,Living,21.94,Not Recurred,Female,Living,benign
+MB-0270,29.98,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,No,Pre,Left,0.0,14.0,2.0,4.0,4.0280000000000005,337.03333330000004,Living,139.64,Recurred,Female,Living,benign
+MB-0272,55.36,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,No,Post,Right,8.0,28.0,1.0,5.0,6.056,122.0,Deceased,120.39,Recurred,Female,Died of Disease,benign
+MB-0273,68.66,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,3.0,25.0,2.0,6.0,4.05,186.5333333,Living,184.08,Not Recurred,Female,Living,benign
+MB-0282,51.81,Breast Conserving,1.0,Positve,Positive,3.0,Neutral,Negative,Mixed,Yes,Post,Right,8.0,18.0,2.0,1.0,6.0360000000000005,194.2333333,Living,175.23,Recurred,Female,Living,benign
+MB-0288,55.22,Mastectomy,1.0,Positve,Positive,2.0,Gain,Positive,Ductal/NST,Yes,Post,Left,25.0,30.0,2.0,2.0,5.06,63.8,Deceased,62.96,Recurred,Female,Died of Disease,benign
+MB-0291,51.19,Breast Conserving,1.0,Positve,Positive,3.0,Gain,Positive,Ductal/NST,Yes,Post,Right,1.0,26.0,2.0,1.0,5.052,39.2,Deceased,38.68,Recurred,Female,Died of Disease,benign
+MB-0292,80.34,Mastectomy,1.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Post,Left,1.0,55.0,2.0,5.0,5.11,49.43333333,Deceased,48.78,Not Recurred,Female,Died of Other Causes,benign
+MB-0294,46.17,Mastectomy,1.0,Positve,Negative,2.0,Gain,Negative,Ductal/NST,Yes,Pre,Left,0.0,14.0,2.0,2.0,3.028,72.9,Living,71.94,Not Recurred,Female,Living,benign
+MB-0295,47.13,Breast Conserving,1.0,Positve,Positive,1.0,Loss,Negative,Tubular/ cribriform,Yes,Pre,Left,1.0,9.0,2.0,4.0,3.018,164.5,Living,162.34,Not Recurred,Female,Living,benign
+MB-0301,82.46,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,2.0,23.0,2.0,3.0,5.046,122.7,Deceased,121.09,Not Recurred,Female,Died of Other Causes,benign
+MB-0302,81.53,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Lobular,Yes,Post,Right,5.0,29.0,2.0,7.0,6.058,84.2,Deceased,83.09,Recurred,Female,Died of Disease,benign
+MB-0303,47.71,Mastectomy,1.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,Yes,Pre,Left,0.0,11.0,1.0,3.0,4.022,60.13333333,Living,59.34,Not Recurred,Female,Living,benign
+MB-0305,60.62,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,6.0,35.0,2.0,5.0,6.07,63.5,Deceased,62.66,Recurred,Female,Died of Disease,benign
+MB-0306,82.53,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,2.0,35.0,2.0,21.0,5.07,42.96666667,Deceased,37.99,Recurred,Female,Died of Disease,benign
+MB-0309,89.43,Mastectomy,1.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,1.0,21.0,2.0,3.0,3.042,42.33333333,Deceased,41.78,Not Recurred,Female,Died of Other Causes,benign
+MB-0310,67.38,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,1.0,16.0,2.0,5.0,4.032,185.1666667,Living,182.73,Not Recurred,Female,Living,benign
+MB-0311,77.94,Mastectomy,1.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,47.0,2.0,5.0,2.094,151.16666669999998,Deceased,149.18,Not Recurred,Female,Died of Other Causes,benign
+MB-0313,55.52,Breast Conserving,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,1.0,23.0,2.0,3.0,5.046,184.7666667,Living,182.34,Not Recurred,Female,Living,benign
+MB-0314,73.48,Mastectomy,1.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,No,Post,Left,5.0,50.0,2.0,4.0,6.1,4.433333333,Deceased,4.38,Recurred,Female,Died of Disease,benign
+MB-0315,56.32,Mastectomy,1.0,Positve,Positive,2.0,Gain,Negative,Ductal/NST,Yes,Post,Right,3.0,50.0,2.0,5.0,4.1,186.2,Living,183.75,Not Recurred,Female,Living,benign
+MB-0316,50.82,Breast Conserving,1.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Post,Left,0.0,30.0,2.0,4.0,4.06,182.9,Living,180.49,Not Recurred,Female,Living,benign
+MB-0319,92.14,Mastectomy,1.0,Positve,Positive,2.0,Gain,Negative,Mixed,Yes,Post,Left,10.0,32.0,2.0,4.0,5.064,40.7,Deceased,39.18,Recurred,Female,Died of Disease,benign
+MB-0320,50.98,Breast Conserving,1.0,Positve,Positive,1.0,Neutral,Negative,Mixed,Yes,Post,Right,0.0,17.0,1.0,8.0,2.0340000000000003,63.73333333,Living,62.89,Not Recurred,Female,Living,benign
+MB-0321,46.86,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Pre,Left,2.0,30.0,2.0,3.0,5.06,174.6333333,Living,172.34,Not Recurred,Female,Living,benign
+MB-0322,86.28,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,2.0,25.0,2.0,11.0,4.05,50.53333333,Deceased,49.87,Not Recurred,Female,Died of Other Causes,benign
+MB-0325,79.34,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,0.0,45.0,2.0,10.0,4.09,177.5333333,Living,175.2,Not Recurred,Female,Living,benign
+MB-0336,74.76,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,1.0,22.0,2.0,1.0,5.044,170.6333333,Deceased,166.78,Recurred,Female,Died of Disease,benign
+MB-0340,79.97,Mastectomy,1.0,Positve,Negative,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,3.0,16.0,2.0,4.0,5.032,164.7333333,Living,162.57,Not Recurred,Female,Living,benign
+MB-0344,59.75,Breast Conserving,1.0,Positve,Positive,2.0,Neutral,Negative,Lobular,Yes,Post,Right,2.0,29.0,2.0,2.0,4.058,152.93333330000002,Living,150.92,Not Recurred,Female,Living,benign
+MB-0345,37.3,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Pre,Right,1.0,28.0,2.0,6.0,4.056,72.66666667,Living,71.71,Not Recurred,Female,Living,benign
+MB-0346,32.61,Mastectomy,1.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,No,Pre,Left,5.0,16.0,2.0,8.0,6.032,20.43333333,Deceased,20.16,Recurred,Female,Died of Disease,benign
+MB-0348,81.88,Mastectomy,1.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,22.0,2.0,3.0,2.044,122.7,Deceased,121.09,Not Recurred,Female,Died of Other Causes,benign
+MB-0349,72.26,Mastectomy,1.0,Positve,Positive,3.0,Loss,Negative,Ductal/NST,Yes,Post,Right,1.0,30.0,2.0,3.0,5.06,146.0333333,Deceased,144.11,Not Recurred,Female,Died of Other Causes,benign
+MB-0352,61.32,Mastectomy,1.0,Positve,Negative,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,13.0,1.0,5.0,4.026,55.2,Deceased,45.79,Recurred,Female,Died of Disease,benign
+MB-0353,86.26,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,6.0,40.0,2.0,5.0,5.08,41.83333333,Deceased,41.28,Not Recurred,Female,Died of Other Causes,benign
+MB-0354,73.01,Mastectomy,1.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Post,Left,3.0,17.0,2.0,6.0,5.034,11.6,Deceased,11.45,Recurred,Female,Died of Disease,benign
+MB-0356,58.16,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Post,Left,0.0,16.0,2.0,4.0,3.032,213.5,Living,210.69,Not Recurred,Female,Living,benign
+MB-0358,57.87,Mastectomy,1.0,Positve,Positive,3.0,Gain,Negative,Ductal/NST,Yes,Post,Right,2.0,26.0,2.0,14.0,5.052,32.86666667,Living,32.43,Not Recurred,Female,Living,benign
+MB-0360,83.58,Mastectomy,1.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,2.0,50.0,2.0,6.0,3.1,132.5666667,Deceased,130.82,Recurred,Female,Died of Disease,benign
+MB-0361,40.5,Mastectomy,1.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,No,Pre,Right,41.0,24.0,2.0,7.0,6.047999999999999,15.06666667,Deceased,14.87,Not Recurred,Female,Died of Other Causes,benign
+MB-0362,52.79,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,1.0,18.0,2.0,6.0,4.0360000000000005,47.03333333,Deceased,46.41,Recurred,Female,Died of Disease,benign
+MB-0363,73.24,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Mixed,No,Post,Right,7.0,67.0,4.0,22.0,5.134,89.9,Deceased,88.72,Recurred,Female,Died of Disease,benign
+MB-0364,48.67,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Pre,Right,6.0,50.0,3.0,5.0,5.1,176.6,Living,129.8,Recurred,Female,Living,benign
+MB-0365,76.84,Breast Conserving,1.0,Positve,Positive,2.0,Gain,Positive,Mucinous,Yes,Post,Right,0.0,15.0,1.0,6.0,3.03,87.23333333,Deceased,86.09,Recurred,Female,Died of Disease,benign
+MB-0366,51.74,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Mixed,Yes,Post,Left,0.0,22.0,2.0,4.0,3.044,64.23333333,Living,63.39,Not Recurred,Female,Living,benign
+MB-0368,74.79,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,10.0,31.0,2.0,3.0,6.062,61.9,Deceased,31.45,Recurred,Female,Died of Disease,benign
+MB-0370,64.01,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,16.0,47.0,2.0,1.0,6.093999999999999,93.5,Deceased,92.27,Not Recurred,Female,Died of Other Causes,benign
+MB-0371,78.41,Mastectomy,1.0,Positve,Positive,3.0,Gain,Positive,Ductal/NST,Yes,Post,Right,6.0,22.0,2.0,1.0,6.044,131.13333329999998,Living,129.41,Not Recurred,Female,Living,benign
+MB-0372,39.86,Breast Conserving,1.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,Yes,Pre,Right,0.0,18.0,1.0,1.0,4.0360000000000005,62.76666667,Deceased,46.64,Recurred,Female,Died of Disease,benign
+MB-0373,63.31,Breast Conserving,1.0,Positve,Positive,3.0,Gain,Positive,Ductal/NST,Yes,Post,Left,2.0,24.0,2.0,2.0,5.048,27.0,Deceased,26.64,Recurred,Female,Died of Disease,benign
+MB-0374,34.68,Breast Conserving,1.0,Positve,Positive,3.0,Loss,Negative,Ductal/NST,Yes,Pre,Right,15.0,25.0,2.0,2.0,6.05,1.4333333330000002,Living,1.41,Not Recurred,Female,Living,benign
+MB-0375,72.69,Mastectomy,1.0,Negative,Positive,3.0,Neutral,Negative,Ductal/NST,No,Post,Right,1.0,23.0,2.0,3.0,5.046,143.16666669999998,Living,141.28,Not Recurred,Female,Living,benign
+MB-0377,63.25,Breast Conserving,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,0.0,12.0,1.0,2.0,3.024,134.3666667,Living,132.6,Not Recurred,Female,Living,benign
+MB-0378,57.15,Mastectomy,1.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,No,Post,Right,2.0,28.0,2.0,13.0,5.056,97.3,Deceased,96.02,Recurred,Female,Died of Disease,benign
+MB-0379,48.22,Breast Conserving,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Pre,Right,1.0,29.0,2.0,5.0,4.058,135.66666669999998,Living,117.93,Recurred,Female,Living,benign
+MB-0380,83.9,Breast Conserving,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,1.0,25.0,2.0,4.0,5.05,69.33333333,Deceased,68.42,Not Recurred,Female,Died of Other Causes,benign
+MB-0381,33.65,Breast Conserving,1.0,Positve,Positive,3.0,Gain,Positive,Ductal/NST,Yes,Pre,Right,0.0,21.0,2.0,6.0,4.042,130.2,Living,128.49,Not Recurred,Female,Living,benign
+MB-0382,59.05,Breast Conserving,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,2.0,22.0,2.0,3.0,4.044,136.4666667,Living,134.67,Not Recurred,Female,Living,benign
+MB-0383,65.02,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,19.0,1.0,4.0,4.038,85.73333333,Deceased,84.61,Recurred,Female,Died of Disease,benign
+MB-0384,74.58,Mastectomy,1.0,Positve,Positive,3.0,Loss,Negative,Ductal/NST,Yes,Post,Left,13.0,43.0,2.0,6.0,6.086,61.1,Deceased,55.26,Recurred,Female,Died of Disease,benign
+MB-0385,66.58,Breast Conserving,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,11.0,31.0,2.0,1.0,6.062,36.43333333,Deceased,24.57,Recurred,Female,Died of Disease,benign
+MB-0386,66.83,Breast Conserving,1.0,Positve,Positive,3.0,Loss,Negative,Ductal/NST,Yes,Post,Right,8.0,15.0,3.0,5.0,6.03,138.1333333,Living,121.09,Recurred,Female,Living,benign
+MB-0388,46.63,Mastectomy,1.0,Positve,Positive,3.0,Gain,Positive,Ductal/NST,Yes,Pre,Left,3.0,28.0,2.0,3.0,5.056,97.56666667,Living,96.28,Not Recurred,Female,Living,benign
+MB-0389,46.87,Mastectomy,1.0,Positve,Positive,3.0,Gain,Positive,Ductal/NST,Yes,Pre,Right,19.0,50.0,3.0,1.0,6.1,96.96666667,Living,95.69,Not Recurred,Female,Living,benign
+MB-0392,56.28,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,2.0,30.0,4.0,2.0,5.06,38.13333333,Deceased,8.78,Recurred,Female,Died of Disease,benign
+MB-0393,68.74,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,16.0,53.0,3.0,3.0,6.106,20.83333333,Deceased,8.65,Recurred,Female,Died of Disease,benign
+MB-0394,56.48,Breast Conserving,1.0,Positve,Positive,2.0,Neutral,Negative,Mixed,Yes,Post,Left,0.0,20.0,1.0,5.0,3.04,64.23333333,Living,63.39,Not Recurred,Female,Living,benign
+MB-0395,80.38,Mastectomy,1.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,No,Post,Left,2.0,50.0,2.0,11.0,5.1,29.0,Deceased,26.48,Recurred,Female,Died of Disease,benign
+MB-0396,56.45,Breast Conserving,1.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Post,Left,0.0,27.0,2.0,6.0,4.053999999999999,60.66666667,Living,59.87,Not Recurred,Female,Living,benign
+MB-0397,58.56,Breast Conserving,1.0,Positve,Positive,1.0,Neutral,Negative,Tubular/ cribriform,Yes,Post,Right,0.0,11.0,1.0,3.0,2.022,57.23333333,Living,56.48,Not Recurred,Female,Living,benign
+MB-0398,56.41,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,19.0,42.0,3.0,2.0,6.084,43.2,Deceased,37.73,Recurred,Female,Died of Disease,benign
+MB-0399,68.47,Mastectomy,1.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Post,Left,11.0,45.0,3.0,2.0,6.09,137.1,Deceased,66.78,Recurred,Female,Died of Other Causes,benign
+MB-0400,55.28,Breast Conserving,1.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Post,Right,0.0,16.0,1.0,2.0,4.032,22.46666667,Deceased,18.78,Recurred,Female,Died of Disease,benign
+MB-0401,48.58,Breast Conserving,1.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Pre,Right,0.0,20.0,1.0,2.0,4.04,26.26666667,Deceased,20.39,Recurred,Female,Died of Disease,benign
+MB-0402,73.06,Breast Conserving,1.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,11.0,1.0,1.0,2.022,99.73333333,Living,98.42,Not Recurred,Female,Living,benign
+MB-0404,60.71,Breast Conserving,1.0,Positve,Positive,3.0,Loss,Negative,Ductal/NST,Yes,Post,Left,1.0,15.0,2.0,3.0,5.03,63.5,Living,62.66,Not Recurred,Female,Living,benign
+MB-0406,69.32,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,17.0,180.0,3.0,5.0,6.36,96.9,Deceased,31.97,Recurred,Female,Died of Disease,benign
+MB-0410,57.41,Breast Conserving,1.0,Positve,Positive,2.0,Neutral,Negative,Lobular,Yes,Post,Right,0.0,20.0,1.0,3.0,3.04,63.0,Living,62.17,Not Recurred,Female,Living,benign
+MB-0411,54.6,Mastectomy,1.0,Positve,Positive,2.0,Loss,Negative,Mixed,Yes,Post,Left,1.0,18.0,2.0,3.0,4.0360000000000005,139.16666669999998,Living,137.34,Not Recurred,Female,Living,benign
+MB-0412,54.06,Breast Conserving,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,1.0,19.0,2.0,1.0,5.038,136.16666669999998,Living,134.38,Not Recurred,Female,Living,benign
+MB-0413,56.58,Breast Conserving,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,5.0,47.0,2.0,3.0,6.093999999999999,140.06666669999998,Living,126.97,Recurred,Female,Living,benign
+MB-0414,72.16,Breast Conserving,1.0,Negative,Negative,3.0,Loss,Negative,Ductal/NST,No,Post,Left,0.0,21.0,2.0,7.0,4.042,76.63333333,Living,75.63,Not Recurred,Female,Living,benign
+MB-0417,54.22,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,1.0,40.0,2.0,2.0,4.08,6.266666667000001,Deceased,6.18,Recurred,Female,Died of Disease,benign
+MB-0418,58.72,Breast Conserving,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,1.0,31.0,2.0,1.0,5.062,102.0666667,Living,100.72,Not Recurred,Female,Living,benign
+MB-0419,77.92,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,3.0,21.0,2.0,3.0,4.042,104.3,Deceased,102.93,Not Recurred,Female,Died of Other Causes,benign
+MB-0420,34.92,Breast Conserving,1.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Pre,Left,0.0,16.0,1.0,3.0,4.032,76.73333333,Living,75.72,Not Recurred,Female,Living,benign
+MB-0421,73.53,Mastectomy,1.0,Positve,Positive,3.0,Gain,Positive,Ductal/NST,Yes,Post,Left,0.0,24.0,2.0,7.0,4.048,93.0,Deceased,91.78,Not Recurred,Female,Died of Other Causes,benign
+MB-0422,66.72,Breast Conserving,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,7.0,16.0,2.0,3.0,5.032,33.8,Deceased,33.36,Not Recurred,Female,Died of Other Causes,benign
+MB-0425,83.17,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,6.0,22.0,2.0,2.0,5.044,24.4,Deceased,24.08,Not Recurred,Female,Died of Other Causes,benign
+MB-0426,50.48,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,2.0,42.0,2.0,3.0,4.084,131.1,Living,129.38,Not Recurred,Female,Living,benign
+MB-0427,81.89,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Lobular,Yes,Post,Left,15.0,21.0,2.0,1.0,5.042,116.1,Living,114.57,Not Recurred,Female,Living,benign
+MB-0428,85.21,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,4.0,20.0,2.0,2.0,6.04,55.93333333,Living,55.2,Not Recurred,Female,Living,benign
+MB-0429,78.86,Mastectomy,1.0,Positve,Positive,3.0,Gain,Negative,Lobular,Yes,Post,Right,4.0,40.0,2.0,3.0,6.08,74.46666667,Deceased,73.49,Not Recurred,Female,Died of Other Causes,benign
+MB-0431,63.61,Breast Conserving,1.0,Positve,Positive,2.0,Neutral,Negative,Lobular,Yes,Post,Left,2.0,57.0,2.0,3.0,4.114,85.13333333,Living,84.01,Not Recurred,Female,Living,benign
+MB-0434,69.79,Mastectomy,1.0,Positve,Positive,3.0,Gain,Positive,Ductal/NST,Yes,Post,Right,2.0,20.0,2.0,5.0,5.04,45.5,Deceased,23.75,Recurred,Female,Died of Disease,benign
+MB-0436,88.29,Breast Conserving,1.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Post,Left,0.0,13.0,1.0,2.0,4.026,75.5,Deceased,74.51,Not Recurred,Female,Died of Other Causes,benign
+MB-0437,82.17,Breast Conserving,1.0,Positve,Positive,2.0,Loss,Negative,Mixed,Yes,Post,Right,3.0,15.0,2.0,3.0,4.03,90.56666667,Living,89.38,Not Recurred,Female,Living,benign
+MB-0438,57.41,Mastectomy,1.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,No,Post,Left,1.0,25.0,2.0,1.0,5.05,135.16666669999998,Living,133.39,Not Recurred,Female,Living,benign
+MB-0439,50.32,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Mucinous,Yes,Post,Left,0.0,15.0,1.0,1.0,3.03,112.1333333,Living,110.66,Not Recurred,Female,Living,benign
+MB-0440,56.73,Breast Conserving,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,1.0,26.0,2.0,5.0,5.052,100.8333333,Living,99.51,Not Recurred,Female,Living,benign
+MB-0442,71.58,Breast Conserving,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,1.0,17.0,2.0,4.0,4.034,103.4666667,Deceased,102.11,Recurred,Female,Died of Disease,benign
+MB-0443,61.67,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,26.0,2.0,2.0,3.052,45.03333333,Living,44.44,Not Recurred,Female,Living,benign
+MB-0445,40.07,Breast Conserving,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Pre,Left,1.0,23.0,2.0,1.0,4.046,132.53333329999998,Living,130.79,Not Recurred,Female,Living,benign
+MB-0446,56.96,Mastectomy,1.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Post,Right,0.0,24.0,2.0,4.0,4.048,72.26666667,Living,71.32,Not Recurred,Female,Living,benign
+MB-0449,54.38,Mastectomy,1.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,2.0,35.0,2.0,3.0,3.07,112.5666667,Living,111.09,Not Recurred,Female,Living,benign
+MB-0451,63.2,Mastectomy,1.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,0.0,16.0,1.0,5.0,2.032,50.06666667,Living,49.41,Not Recurred,Female,Living,benign
+MB-0452,54.43,Breast Conserving,1.0,Positve,Positive,3.0,Gain,Negative,Ductal/NST,Yes,Post,Left,0.0,23.0,2.0,3.0,4.046,62.8,Living,61.97,Not Recurred,Female,Living,benign
+MB-0453,61.11,Mastectomy,1.0,Positve,Negative,3.0,Loss,Negative,Ductal/NST,Yes,Post,Right,6.0,100.0,3.0,4.0,6.2,43.13333333,Deceased,16.12,Recurred,Female,Died of Disease,benign
+MB-0455,56.84,Breast Conserving,1.0,Positve,Positive,2.0,Loss,Negative,Ductal/NST,Yes,Post,Left,0.0,18.0,1.0,4.0,3.036,99.33333333,Living,98.03,Not Recurred,Female,Living,benign
+MB-0458,49.28,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Pre,Left,2.0,50.0,2.0,1.0,4.1,134.5,Living,64.21,Recurred,Female,Living,benign
+MB-0459,85.09,Mastectomy,1.0,Positve,Positive,3.0,Gain,Negative,Ductal/NST,Yes,Post,Left,2.0,34.0,3.0,5.0,5.0680000000000005,35.6,Deceased,35.13,Not Recurred,Female,Died of Other Causes,benign
+MB-0462,60.5,Mastectomy,1.0,Positve,Negative,3.0,Gain,Positive,Ductal/NST,Yes,Post,Right,0.0,16.0,1.0,1.0,4.032,132.7666667,Living,131.02,Not Recurred,Female,Living,benign
+MB-0463,60.48,Breast Conserving,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,21.0,1.0,10.0,3.042,120.5666667,Deceased,118.98,Recurred,Female,Died of Disease,benign
+MB-0464,58.98,Mastectomy,1.0,Negative,Negative,3.0,Loss,Negative,Ductal/NST,No,Post,Right,17.0,13.0,3.0,2.0,6.026,39.3,Deceased,19.28,Recurred,Female,Died of Disease,benign
+MB-0465,87.18,Mastectomy,1.0,Positve,Positive,3.0,Gain,Positive,Ductal/NST,Yes,Post,Left,2.0,26.0,2.0,1.0,5.052,28.6,Deceased,21.58,Recurred,Female,Died of Disease,benign
+MB-0466,33.97,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Pre,Left,4.0,70.0,2.0,1.0,5.14,43.86666667,Living,43.29,Not Recurred,Female,Living,benign
+MB-0467,58.35,Breast Conserving,1.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,No,Post,Left,0.0,13.0,1.0,3.0,4.026,105.6,Deceased,73.45,Recurred,Female,Died of Disease,benign
+MB-0469,67.94,Mastectomy,1.0,Positve,Positive,3.0,Gain,Negative,Ductal/NST,Yes,Post,Left,3.0,39.0,2.0,1.0,5.078,131.2666667,Living,129.54,Not Recurred,Female,Living,benign
+MB-0471,76.49,Breast Conserving,1.0,Positve,Positive,2.0,Neutral,Negative,Mucinous,Yes,Post,Left,0.0,17.0,1.0,1.0,3.034,107.46666670000002,Living,106.05,Not Recurred,Female,Living,benign
+MB-0474,54.29,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,3.0,80.0,3.0,2.0,5.16,111.1,Deceased,98.88,Recurred,Female,Died of Disease,benign
+MB-0475,54.15,Breast Conserving,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,20.0,1.0,4.0,4.04,130.7,Living,128.98,Not Recurred,Female,Living,benign
+MB-0476,54.62,Mastectomy,1.0,Negative,Positive,3.0,Neutral,Negative,Ductal/NST,No,Post,Left,0.0,25.0,2.0,1.0,4.05,130.4333333,Living,128.72,Not Recurred,Female,Living,benign
+MB-0478,74.02,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,3.0,23.0,2.0,1.0,4.046,132.3,Living,130.56,Not Recurred,Female,Living,benign
+MB-0479,33.83,Mastectomy,1.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,Yes,Pre,Left,0.0,22.0,2.0,1.0,4.044,132.7666667,Living,131.02,Not Recurred,Female,Living,benign
+MB-0480,51.86,Breast Conserving,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,13.0,1.0,4.0,4.026,94.56666667,Living,93.32,Not Recurred,Female,Living,benign
+MB-0481,54.22,Breast Conserving,1.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Post,Left,0.0,19.0,1.0,2.0,4.038,36.4,Deceased,33.42,Recurred,Female,Died of Disease,benign
+MB-0482,39.53,Breast Conserving,1.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,No,Pre,Right,1.0,16.0,2.0,2.0,5.032,24.86666667,Deceased,15.66,Recurred,Female,Died of Disease,benign
+MB-0483,49.61,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Pre,Left,2.0,21.0,2.0,2.0,5.042,74.46666667,Deceased,63.45,Recurred,Female,Died of Disease,benign
+MB-0484,38.72,Breast Conserving,1.0,Positve,Positive,3.0,Gain,Positive,Ductal/NST,Yes,Pre,Left,3.0,22.0,2.0,5.0,5.044,82.63333333,Living,81.55,Not Recurred,Female,Living,benign
+MB-0485,60.78,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Mixed,Yes,Post,Right,7.0,50.0,3.0,4.0,6.1,36.76666667,Deceased,33.85,Recurred,Female,Died of Disease,benign
+MB-0486,57.57,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,32.0,2.0,1.0,4.064,89.96666667,Living,88.78,Not Recurred,Female,Living,benign
+MB-0487,57.36,Breast Conserving,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Post,Right,0.0,15.0,1.0,1.0,3.03,86.9,Living,85.76,Not Recurred,Female,Living,benign
+MB-0489,41.46,Mastectomy,1.0,Negative,Negative,3.0,Gain,Negative,Ductal/NST,Yes,Pre,Right,0.0,10.0,1.0,1.0,4.02,90.56666667,Living,89.38,Not Recurred,Female,Living,benign
+MB-0490,81.9,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,10.0,30.0,3.0,2.0,5.06,101.9666667,Living,100.63,Not Recurred,Female,Living,benign
+MB-0491,43.4,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Lobular,Yes,Pre,Right,0.0,30.0,3.0,2.0,3.06,125.8,Living,124.14,Not Recurred,Female,Living,benign
+MB-0494,77.22,Mastectomy,1.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Post,Left,21.0,40.0,3.0,2.0,6.08,36.63333333,Deceased,19.57,Recurred,Female,Died of Disease,benign
+MB-0495,63.19,Mastectomy,1.0,Positve,Negative,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,7.0,19.0,2.0,2.0,6.037999999999999,71.8,Deceased,44.08,Recurred,Female,Died of Disease,benign
+MB-0496,60.0,Mastectomy,1.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,4.0,26.0,2.0,2.0,4.052,130.9,Living,129.18,Not Recurred,Female,Living,benign
+MB-0497,57.27,Breast Conserving,1.0,Positve,Positive,2.0,Gain,Negative,Ductal/NST,Yes,Post,Right,0.0,29.0,2.0,7.0,3.0580000000000003,73.7,Living,72.73,Not Recurred,Female,Living,benign
+MB-0500,36.56,Breast Conserving,1.0,Positve,Negative,3.0,Neutral,Negative,Ductal/NST,No,Pre,Right,0.0,22.0,2.0,1.0,4.044,67.46666667,Living,66.58,Not Recurred,Female,Living,benign
+MB-0501,48.93,Breast Conserving,1.0,Positve,Positive,3.0,Gain,Negative,Ductal/NST,Yes,Pre,Right,0.0,21.0,2.0,1.0,4.042,71.5,Living,70.56,Not Recurred,Female,Living,benign
+MB-0503,60.77,Breast Conserving,1.0,Positve,Positive,2.0,Gain,Negative,Ductal/NST,Yes,Post,Left,0.0,23.0,2.0,3.0,3.0460000000000003,101.2333333,Living,99.9,Not Recurred,Female,Living,benign
+MB-0504,68.16,Breast Conserving,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,21.0,2.0,4.0,4.042,130.46666670000002,Living,121.45,Recurred,Female,Living,benign
+MB-0505,56.38,Breast Conserving,1.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,1.0,12.0,2.0,6.0,3.024,60.7,Living,59.9,Not Recurred,Female,Living,benign
+MB-0506,60.74,Breast Conserving,1.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Post,Left,1.0,21.0,2.0,2.0,5.042,45.8,Deceased,29.97,Recurred,Female,Died of Disease,benign
+MB-0507,58.71,Breast Conserving,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,0.0,18.0,1.0,1.0,4.0360000000000005,23.8,Living,23.49,Not Recurred,Female,Living,benign
+MB-0509,41.48,Breast Conserving,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Pre,Right,0.0,11.0,1.0,2.0,4.022,115.3,Living,113.78,Not Recurred,Female,Living,benign
+MB-0511,59.84,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,31.0,2.0,3.0,3.062,61.7,Living,60.89,Not Recurred,Female,Living,benign
+MB-0513,73.39,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,1.0,32.0,2.0,3.0,4.064,117.03333329999998,Living,115.49,Not Recurred,Female,Living,benign
+MB-0516,62.81,Breast Conserving,1.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Post,Right,0.0,15.0,1.0,3.0,4.03,114.46666670000002,Living,112.96,Not Recurred,Female,Living,benign
+MB-0517,47.92,Breast Conserving,1.0,Positve,Positive,2.0,Loss,Negative,Ductal/NST,Yes,Pre,Right,0.0,17.0,1.0,2.0,3.034,61.9,Living,61.09,Not Recurred,Female,Living,benign
+MB-0519,61.99,Mastectomy,1.0,Positve,Positive,3.0,Loss,Negative,Ductal/NST,Yes,Post,Right,23.0,65.0,3.0,1.0,6.13,110.96666670000002,Living,109.51,Not Recurred,Female,Living,benign
+MB-0521,52.2,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Lobular,Yes,Post,Right,3.0,30.0,2.0,4.0,4.06,212.2,Living,209.41,Not Recurred,Female,Living,benign
+MB-0524,40.65,Breast Conserving,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Pre,Right,0.0,10.0,2.0,9.0,4.02,80.83333333,Living,79.77,Not Recurred,Female,Living,benign
+MB-0525,48.47,Breast Conserving,1.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Pre,Right,0.0,25.0,2.0,6.0,4.05,65.86666667,Living,65.0,Not Recurred,Female,Living,benign
+MB-0527,73.22,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,2.0,19.0,2.0,1.0,4.038,109.8333333,Deceased,106.81,Recurred,Female,Died of Other Causes,benign
+MB-0528,53.64,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,1.0,26.0,2.0,3.0,5.052,193.9666667,Living,175.03,Recurred,Female,Living,benign
+MB-0529,67.46,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,7.0,25.0,4.0,7.0,5.05,48.53333333,Deceased,47.89,Recurred,Female,Died of Disease,benign
+MB-0532,59.07,Mastectomy,1.0,Negative,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,3.0,35.0,2.0,5.0,5.07,143.1333333,Deceased,64.21,Recurred,Female,Died of Disease,benign
+MB-0535,46.66,Breast Conserving,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Pre,Left,0.0,12.0,1.0,3.0,3.024,199.1333333,Living,159.77,Recurred,Female,Living,benign
+MB-0536,67.88,Breast Conserving,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,0.0,20.0,1.0,2.0,4.04,147.3666667,Deceased,145.43,Not Recurred,Female,Died of Other Causes,benign
+MB-0541,38.86,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Pre,Right,0.0,19.0,1.0,2.0,4.038,174.2666667,Living,171.97,Not Recurred,Female,Living,benign
+MB-0542,39.3,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Pre,Left,5.0,23.0,2.0,4.0,6.046,48.6,Deceased,47.96,Recurred,Female,Died of Disease,benign
+MB-0544,74.46,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,1.0,52.0,3.0,3.0,5.104,79.33333333,Deceased,78.29,Not Recurred,Female,Died of Other Causes,benign
+MB-0559,47.71,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Pre,Left,0.0,25.0,2.0,3.0,4.05,161.7666667,Living,159.64,Not Recurred,Female,Living,benign
+MB-0568,61.28,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,1.0,17.0,2.0,4.0,4.034,181.4666667,Living,179.08,Not Recurred,Female,Living,benign
+MB-0569,74.96,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,14.0,23.0,2.0,3.0,6.046,59.5,Deceased,55.76,Recurred,Female,Died of Disease,benign
+MB-0570,68.99,Breast Conserving,1.0,Positve,Positive,3.0,Gain,Negative,Ductal/NST,Yes,Post,Left,0.0,20.0,2.0,9.0,4.04,272.2,Living,102.89,Recurred,Female,Living,benign
+MB-0571,61.79,Mastectomy,1.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,0.0,20.0,1.0,9.0,2.04,149.8666667,Living,147.89,Not Recurred,Female,Living,benign
+MB-0574,71.21,Breast Conserving,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,1.0,21.0,2.0,5.0,5.042,119.8,Living,9.84,Recurred,Female,Living,benign
+MB-0575,48.1,Mastectomy,1.0,Positve,Positive,2.0,Gain,Negative,Ductal/NST,Yes,Pre,Left,4.0,55.0,3.0,3.0,5.11,128.5666667,Living,77.83,Recurred,Female,Living,benign
+MB-0576,68.47,Breast Conserving,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,5.0,21.0,2.0,5.0,6.042000000000001,31.0,Deceased,19.8,Recurred,Female,Died of Disease,benign
+MB-0577,51.42,Breast Conserving,1.0,Positve,Positive,2.0,Neutral,Negative,Mucinous,Yes,Post,Left,0.0,10.0,1.0,3.0,3.02,65.4,Living,64.54,Not Recurred,Female,Living,benign
+MB-0578,59.64,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Lobular,Yes,Post,Left,6.0,42.0,2.0,2.0,5.084,110.1,Living,108.65,Recurred,Female,Living,benign
+MB-0579,70.53,Breast Conserving,1.0,Positve,Positive,2.0,Gain,Negative,Ductal/NST,Yes,Post,Left,1.0,29.0,2.0,3.0,4.058,92.76666667,Deceased,91.55,Not Recurred,Female,Died of Other Causes,benign
+MB-0580,33.8,Mastectomy,1.0,Positve,Positive,3.0,Gain,Negative,Ductal/NST,Yes,Pre,Left,2.0,40.0,2.0,2.0,5.08,79.36666667,Deceased,58.72,Recurred,Female,Died of Disease,benign
+MB-0581,96.29,Mastectomy,1.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Post,Right,14.0,26.0,2.0,5.0,6.0520000000000005,7.866666667,Deceased,7.5,Recurred,Female,Died of Disease,benign
+MB-0582,84.76,Mastectomy,1.0,Negative,Negative,3.0,Neutral,Negative,Lobular,No,Post,Right,0.0,30.0,2.0,6.0,4.06,15.53333333,Deceased,15.33,Not Recurred,Female,Died of Other Causes,benign
+MB-0583,75.67,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Mixed,Yes,Post,Left,0.0,22.0,2.0,3.0,3.044,62.63333333,Living,61.81,Not Recurred,Female,Living,benign
+MB-0584,41.31,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Pre,Right,0.0,20.0,1.0,1.0,4.04,118.2,Living,116.64,Not Recurred,Female,Living,benign
+MB-0585,76.72,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,1.0,28.0,2.0,3.0,5.056,115.7,Deceased,96.91,Recurred,Female,Died of Disease,benign
+MB-0586,77.99,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Lobular,Yes,Post,Left,1.0,65.0,3.0,4.0,4.13,77.23333333,Deceased,76.22,Not Recurred,Female,Died of Other Causes,benign
+MB-0587,50.41,Mastectomy,1.0,Positve,Positive,2.0,Gain,Negative,Mixed,Yes,Post,Left,1.0,24.0,2.0,5.0,4.048,91.26666667,Living,90.07,Not Recurred,Female,Living,benign
+MB-0588,76.35,Mastectomy,1.0,Negative,Negative,2.0,Neutral,Negative,Ductal/NST,No,Post,Right,0.0,22.0,2.0,2.0,3.044,119.73333329999998,Living,118.16,Not Recurred,Female,Living,benign
+MB-0589,59.96,Mastectomy,1.0,Positve,Positive,2.0,Gain,Positive,Mixed,Yes,Post,Right,25.0,35.0,4.0,4.0,5.07,125.8,Living,2.04,Recurred,Female,Living,benign
+MB-0590,60.27,Mastectomy,1.0,Positve,Positive,3.0,Gain,Negative,Ductal/NST,Yes,Post,Right,15.0,30.0,2.0,1.0,6.06,72.46666667,Deceased,71.51,Not Recurred,Female,Died of Other Causes,benign
+MB-0591,84.0,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,17.0,1.0,2.0,4.034,119.46666670000002,Deceased,116.22,Recurred,Female,Died of Disease,benign
+MB-0593,62.34,Mastectomy,1.0,Negative,Negative,2.0,Gain,Positive,Lobular,No,Post,Left,13.0,90.0,3.0,2.0,5.18,34.66666667,Deceased,25.3,Recurred,Female,Died of Disease,benign
+MB-0594,77.96,Mastectomy,1.0,Positve,Positive,3.0,Loss,Negative,Ductal/NST,Yes,Post,Right,1.0,45.0,3.0,6.0,5.09,44.23333333,Living,43.65,Not Recurred,Female,Living,benign
+MB-0596,77.48,Breast Conserving,1.0,Positve,Positive,2.0,Loss,Negative,Mixed,Yes,Post,Left,0.0,16.0,1.0,5.0,3.032,107.1,Deceased,105.69,Not Recurred,Female,Died of Other Causes,benign
+MB-0597,64.55,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,2.0,17.0,2.0,3.0,4.034,113.2,Deceased,111.71,Not Recurred,Female,Died of Other Causes,benign
+MB-0598,77.48,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,9.0,24.0,2.0,4.0,5.048,89.36666667,Deceased,71.12,Recurred,Female,Died of Disease,benign
+MB-0599,46.85,Breast Conserving,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Pre,Right,1.0,24.0,2.0,3.0,4.048,123.26666670000002,Living,52.07,Recurred,Female,Living,benign
+MB-0600,70.5,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Mixed,Yes,Post,Left,9.0,27.0,2.0,2.0,6.053999999999999,111.0,Living,109.54,Not Recurred,Female,Living,benign
+MB-0601,32.99,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Pre,Right,8.0,25.0,2.0,2.0,6.05,29.66666667,Deceased,14.18,Recurred,Female,Died of Disease,benign
+MB-0603,79.52,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,1.0,21.0,2.0,7.0,4.042,121.96666670000002,Living,120.36,Not Recurred,Female,Living,benign
+MB-0605,58.08,Mastectomy,1.0,Positve,Positive,2.0,Gain,Negative,Lobular,Yes,Post,Right,0.0,18.0,1.0,3.0,3.036,114.6,Living,113.09,Not Recurred,Female,Living,benign
+MB-0608,76.81,Mastectomy,1.0,Negative,Negative,3.0,Neutral,Negative,Medullary,No,Post,Right,5.0,25.0,2.0,10.0,6.05,63.96666667,Deceased,63.13,Not Recurred,Female,Died of Other Causes,benign
+MB-0609,51.15,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,2.0,14.0,2.0,2.0,4.0280000000000005,98.7,Deceased,72.01,Recurred,Female,Died of Disease,benign
+MB-0611,75.65,Mastectomy,1.0,Positve,Positive,3.0,Gain,Negative,Ductal/NST,Yes,Post,Right,0.0,24.0,2.0,3.0,4.048,104.5333333,Living,103.16,Not Recurred,Female,Living,benign
+MB-0613,60.2,Mastectomy,1.0,Negative,Negative,2.0,Neutral,Negative,Other,No,Post,Right,0.0,60.0,3.0,3.0,3.12,48.8,Living,48.16,Not Recurred,Female,Living,benign
+MB-0614,48.99,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Pre,Left,1.0,19.0,2.0,4.0,5.038,119.3333333,Living,117.76,Not Recurred,Female,Living,benign
+MB-0616,75.98,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,3.0,38.0,2.0,5.0,5.0760000000000005,29.03333333,Deceased,28.65,Not Recurred,Female,Died of Other Causes,benign
+MB-0618,63.86,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,0.0,17.0,1.0,3.0,3.034,101.9,Living,100.56,Not Recurred,Female,Living,benign
+MB-0619,38.9,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Pre,Left,1.0,25.0,2.0,1.0,5.05,94.23333333,Living,92.99,Not Recurred,Female,Living,benign
+MB-0621,70.04,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Lobular,Yes,Post,Right,1.0,30.0,2.0,2.0,4.06,33.56666667,Living,33.13,Not Recurred,Female,Living,benign
+MB-0624,64.28,Mastectomy,1.0,Positve,Positive,2.0,Loss,Negative,Ductal/NST,Yes,Post,Left,1.0,16.0,2.0,2.0,4.032,64.03333333,Living,63.19,Not Recurred,Female,Living,benign
+MB-0630,38.35,Breast Conserving,1.0,Positve,Positive,3.0,Gain,Positive,Ductal/NST,Yes,Pre,Right,0.0,20.0,1.0,2.0,4.04,86.8,Living,85.66,Not Recurred,Female,Living,benign
+MB-0631,84.41,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,1.0,25.0,2.0,3.0,4.05,47.43333333,Deceased,25.33,Recurred,Female,Died of Disease,benign
+MB-0632,51.92,Breast Conserving,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,20.0,1.0,4.0,3.04,56.5,Living,55.76,Not Recurred,Female,Living,benign
+MB-0636,26.36,Breast Conserving,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Pre,Right,0.0,12.0,1.0,1.0,4.024,32.63333333,Deceased,32.2,Recurred,Female,Died of Disease,benign
+MB-0637,75.71,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,0.0,31.0,2.0,4.0,4.062,80.66666667,Living,79.61,Not Recurred,Female,Living,benign
+MB-0640,66.09,Breast Conserving,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,0.0,13.0,1.0,3.0,3.026,61.33333333,Living,60.53,Not Recurred,Female,Living,benign
+MB-0642,79.12,Breast Conserving,1.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,No,Post,Left,0.0,20.0,1.0,2.0,2.04,84.2,Deceased,83.09,Not Recurred,Female,Died of Other Causes,benign
+MB-0643,73.46,Mastectomy,1.0,Positve,Negative,3.0,Gain,Positive,Ductal/NST,Yes,Post,Left,12.0,60.0,3.0,3.0,6.12,19.73333333,Deceased,19.47,Not Recurred,Female,Died of Other Causes,benign
+MB-0644,71.06,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,5.0,30.0,3.0,2.0,5.06,93.3,Living,92.07,Not Recurred,Female,Living,benign
+MB-0649,60.62,Breast Conserving,1.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,4.0,8.0,2.0,3.0,4.016,61.43333333,Living,60.63,Not Recurred,Female,Living,benign
+MB-0650,79.48,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,2.0,21.0,2.0,3.0,4.042,25.53333333,Living,25.2,Not Recurred,Female,Living,benign
+MB-0653,69.95,Breast Conserving,1.0,Positve,Negative,3.0,Neutral,Negative,Lobular,Yes,Post,Left,2.0,28.0,2.0,22.0,5.056,24.8,Deceased,24.47,Recurred,Female,Died of Disease,benign
+MB-0654,82.5,Breast Conserving,1.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,0.0,24.0,2.0,2.0,2.048,69.4,Living,68.49,Not Recurred,Female,Living,benign
+MB-0656,35.9,Mastectomy,1.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,No,Pre,Right,0.0,100.0,3.0,4.0,4.2,19.03333333,Deceased,5.16,Recurred,Female,Died of Disease,benign
+MB-0658,60.89,Breast Conserving,1.0,Negative,Negative,3.0,Loss,Negative,Ductal/NST,Yes,Post,Left,2.0,25.0,2.0,3.0,5.05,97.26666667,Living,95.99,Not Recurred,Female,Living,benign
+MB-0660,52.43,Mastectomy,1.0,Positve,Negative,3.0,Gain,Negative,Ductal/NST,Yes,Post,Right,22.0,160.0,1.0,5.0,6.32,18.93333333,Deceased,13.26,Recurred,Female,Died of Disease,benign
+MB-0662,50.94,Breast Conserving,1.0,Positve,Positive,3.0,Gain,Positive,Ductal/NST,Yes,Post,Left,0.0,14.0,1.0,4.0,4.0280000000000005,69.8,Deceased,51.25,Recurred,Female,Died of Disease,benign
+MB-0664,78.27,Mastectomy,1.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Post,Left,10.0,84.0,3.0,7.0,6.167999999999999,11.06666667,Deceased,10.92,Recurred,Female,Died of Disease,benign
+MB-0666,61.31,Breast Conserving,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,9.0,25.0,2.0,1.0,6.05,24.33333333,Deceased,21.12,Recurred,Female,Died of Disease,benign
+MB-0869,58.83,Breast Conserving,1.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,0.0,29.0,2.0,2.0,4.058,112.4,Deceased,110.92,Not Recurred,Female,Died of Other Causes,benign
+MB-0874,59.22,Mastectomy,1.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Post,Left,0.0,39.0,2.0,2.0,4.078,16.6,Deceased,13.75,Recurred,Female,Died of Disease,benign
+MB-0877,79.41,Mastectomy,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,No,Post,Left,4.0,35.0,2.0,4.0,6.07,14.43333333,Deceased,14.24,Recurred,Female,Died of Disease,benign
+MB-0880,73.64,Mastectomy,1.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,No,Post,Right,0.0,30.0,2.0,1.0,2.06,1.233333333,Living,1.22,Not Recurred,Female,Living,benign
+MB-0882,73.39,Breast Conserving,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,47.0,2.0,1.0,4.093999999999999,42.36666667,Deceased,41.81,Recurred,Female,Died of Disease,benign
+MB-0884,56.47,Breast Conserving,1.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,15.0,23.0,2.0,5.0,6.046,93.66666667,Deceased,67.3,Recurred,Female,Died of Disease,benign
+MB-0891,83.68,Mastectomy,1.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,2.0,37.0,2.0,6.0,3.074,149.4,Living,147.43,Not Recurred,Female,Living,benign
+MB-0895,79.61,Mastectomy,1.0,Positve,Positive,3.0,Gain,Positive,Ductal/NST,Yes,Post,Left,1.0,19.0,2.0,1.0,5.038,43.1,Deceased,42.53,Not Recurred,Female,Died of Other Causes,benign
+MB-0899,50.62,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,3.0,25.0,2.0,4.0,4.05,175.8,Living,142.01,Recurred,Female,Living,benign
+MB-0904,83.01,Mastectomy,1.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,1.0,22.0,2.0,3.0,4.044,144.7,Deceased,142.8,Not Recurred,Female,Died of Other Causes,benign
+MB-0906,70.6,Mastectomy,1.0,Negative,Negative,3.0,Neutral,Negative,Mixed,Yes,Post,Right,0.0,28.0,2.0,5.0,4.056,63.86666667,Deceased,47.63,Recurred,Female,Died of Other Causes,benign
+MB-2513,57.96,Breast Conserving,2.0,Negative,Negative,2.0,Gain,Positive,Ductal/NST,No,Post,Left,0.0,20.0,1.0,3.0,3.04,59.7,Deceased,37.43,Recurred,Female,Died of Disease,benign
+MB-2517,60.29,Mastectomy,2.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,Yes,Post,Right,0.0,15.0,1.0,7.0,4.03,268.4333333,Deceased,264.9,Not Recurred,Female,Died of Other Causes,benign
+MB-2536,54.11,Breast Conserving,2.0,Positve,Positive,1.0,Gain,Negative,Mixed,No,Post,Left,0.0,15.0,1.0,6.0,2.03,47.9,Deceased,47.27,Not Recurred,Female,Died of Other Causes,benign
+MB-2556,62.59,Mastectomy,2.0,Positve,Negative,2.0,Neutral,Negative,Lobular,Yes,Post,Left,1.0,20.0,2.0,1.0,4.04,220.9,Deceased,217.99,Not Recurred,Female,Died of Other Causes,benign
+MB-2564,52.98,Breast Conserving,2.0,Positve,Positive,1.0,Neutral,Negative,Tubular/ cribriform,No,Post,Left,0.0,10.0,1.0,10.0,2.02,285.4333333,Living,161.22,Recurred,Female,Living,benign
+MB-2610,58.99,Mastectomy,2.0,Positve,Positive,1.0,Neutral,Negative,Mixed,Yes,Post,Left,1.0,25.0,2.0,6.0,3.05,280.7,Living,277.01,Not Recurred,Female,Living,benign
+MB-2613,59.63,Mastectomy,2.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,20.0,1.0,6.0,4.04,163.4,Living,161.25,Not Recurred,Female,Living,benign
+MB-2614,43.72,Mastectomy,2.0,Negative,Positive,1.0,Neutral,Negative,Mixed,No,Pre,Left,10.0,15.0,3.0,4.0,4.03,64.93333333,Deceased,29.05,Recurred,Female,Died of Disease,benign
+MB-2616,65.07,Breast Conserving,2.0,Positve,Positive,2.0,Neutral,Negative,Mixed,No,Post,Left,0.0,18.0,1.0,3.0,3.036,219.1666667,Deceased,162.76,Recurred,Female,Died of Disease,benign
+MB-2617,63.3,Breast Conserving,2.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,18.0,1.0,11.0,4.0360000000000005,89.1,Deceased,42.2,Recurred,Female,Died of Disease,benign
+MB-2624,53.53,Breast Conserving,2.0,Positve,Positive,1.0,Neutral,Negative,Tubular/ cribriform,Yes,Post,Right,2.0,14.0,2.0,6.0,3.028,128.53333329999998,Living,121.51,Recurred,Female,Living,benign
+MB-2626,62.54,Breast Conserving,2.0,Positve,Positive,3.0,Gain,Positive,Ductal/NST,Yes,Post,Right,0.0,16.0,1.0,3.0,4.032,193.7,Living,165.07,Recurred,Female,Living,benign
+MB-2632,36.52,Mastectomy,2.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,No,Pre,Left,3.0,15.0,2.0,7.0,5.03,19.1,Deceased,12.01,Recurred,Female,Died of Disease,benign
+MB-2642,30.67,Mastectomy,2.0,Negative,Positive,3.0,Loss,Negative,Ductal/NST,No,Pre,Right,3.0,35.0,2.0,5.0,5.07,45.16666667,Deceased,17.11,Recurred,Female,Died of Disease,benign
+MB-2669,62.56,Mastectomy,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,24.0,1.0,6.0,3.048,73.7,Deceased,47.8,Recurred,Female,Died of Disease,benign
+MB-2686,68.76,Breast Conserving,2.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,1.0,17.0,2.0,5.0,5.034,177.2666667,Living,174.93,Not Recurred,Female,Living,benign
+MB-2705,61.78,Breast Conserving,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Post,Left,0.0,15.0,1.0,6.0,3.03,163.7333333,Living,161.58,Not Recurred,Female,Living,benign
+MB-2708,66.36,Mastectomy,2.0,Positve,Positive,2.0,Neutral,Negative,Mixed,Yes,Post,Left,0.0,15.0,1.0,8.0,3.03,133.2333333,Deceased,72.11,Recurred,Female,Died of Disease,benign
+MB-2711,48.07,Mastectomy,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Pre,Left,0.0,15.0,1.0,2.0,3.03,201.4666667,Living,27.53,Recurred,Female,Living,benign
+MB-2725,44.88,Breast Conserving,2.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,Yes,Pre,Right,3.0,15.0,2.0,3.0,3.03,236.9333333,Living,233.82,Not Recurred,Female,Living,benign
+MB-2728,28.62,Mastectomy,2.0,Negative,Positive,3.0,Neutral,Negative,Ductal/NST,No,Pre,Left,11.0,40.0,3.0,7.0,6.08,51.4,Deceased,15.95,Recurred,Female,Died of Disease,benign
+MB-2730,61.99,Mastectomy,2.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,4.0,35.0,3.0,10.0,6.07,133.7333333,Living,131.97,Not Recurred,Female,Living,benign
+MB-2735,49.94,Breast Conserving,2.0,Negative,Positive,3.0,Gain,Negative,Ductal/NST,No,Pre,Left,1.0,12.0,2.0,6.0,5.024,274.5,Living,270.89,Not Recurred,Female,Living,benign
+MB-2742,48.25,Mastectomy,2.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,No,Pre,Left,3.0,15.0,2.0,7.0,5.03,24.9,Deceased,15.3,Recurred,Female,Died of Disease,benign
+MB-2745,46.85,Mastectomy,2.0,Positve,Positive,2.0,Neutral,Negative,Mixed,Yes,Pre,Right,1.0,30.0,2.0,4.0,4.06,168.9666667,Deceased,154.41,Recurred,Female,Died of Disease,benign
+MB-2747,68.23,Mastectomy,2.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,No,Post,Right,0.0,19.0,1.0,4.0,2.0380000000000003,234.3333333,Deceased,231.25,Not Recurred,Female,Died of Other Causes,benign
+MB-2749,60.13,Mastectomy,2.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,No,Post,Right,0.0,13.0,1.0,5.0,2.026,97.76666667,Deceased,96.48,Not Recurred,Female,Died of Other Causes,benign
+MB-2750,47.48,Mastectomy,2.0,Positve,Positive,1.0,Gain,Negative,Mixed,No,Pre,Right,0.0,30.0,1.0,6.0,2.06,145.43333330000002,Deceased,55.26,Recurred,Female,Died of Other Causes,benign
+MB-2752,51.36,Mastectomy,2.0,Positve,Positive,2.0,Neutral,Negative,Mixed,Yes,Post,Right,0.0,35.0,1.0,5.0,3.07,81.93333333,Deceased,80.69,Recurred,Female,Died of Disease,benign
+MB-2753,30.95,Breast Conserving,2.0,Negative,Negative,3.0,Gain,Negative,Ductal/NST,No,Pre,Left,1.0,37.0,2.0,6.0,5.074,274.4,Living,270.79,Not Recurred,Female,Living,benign
+MB-2754,66.11,Mastectomy,2.0,Negative,Negative,2.0,Neutral,Negative,Lobular,Yes,Post,Left,0.0,35.0,1.0,2.0,3.07,203.5333333,Deceased,170.23,Recurred,Female,Died of Disease,benign
+MB-2758,38.16,Mastectomy,2.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,No,Pre,Right,4.0,45.0,3.0,4.0,6.09,35.0,Deceased,32.3,Recurred,Female,Died of Disease,benign
+MB-2760,63.1,Breast Conserving,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,2.0,15.0,2.0,4.0,4.03,118.03333329999998,Deceased,86.05,Recurred,Female,Died of Disease,benign
+MB-2763,70.32,Mastectomy,2.0,Positve,Positive,2.0,Neutral,Negative,Mucinous,Yes,Post,Right,0.0,26.0,1.0,7.0,3.052,275.6,Living,271.97,Not Recurred,Female,Living,benign
+MB-2765,65.79,Breast Conserving,2.0,Positve,Positive,3.0,Gain,Negative,Ductal/NST,Yes,Post,Left,0.0,17.0,1.0,2.0,4.034,227.8666667,Deceased,224.87,Not Recurred,Female,Died of Other Causes,benign
+MB-2767,53.11,Breast Conserving,2.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,1.0,21.0,2.0,3.0,5.042,271.3333333,Living,267.76,Not Recurred,Female,Living,benign
+MB-2769,59.9,Breast Conserving,2.0,Positve,Positive,2.0,Neutral,Negative,Lobular,No,Post,Left,0.0,15.0,1.0,4.0,3.03,160.0,Living,157.89,Not Recurred,Female,Living,benign
+MB-2772,54.4,Breast Conserving,2.0,Positve,Positive,3.0,Loss,Negative,Mixed,Yes,Post,Right,0.0,17.0,1.0,6.0,4.034,150.7333333,Deceased,148.75,Not Recurred,Female,Died of Other Causes,benign
+MB-2774,66.06,Mastectomy,2.0,Positve,Positive,2.0,Loss,Negative,Ductal/NST,Yes,Post,Right,7.0,35.0,3.0,3.0,5.07,131.6666667,Deceased,129.93,Not Recurred,Female,Died of Other Causes,benign
+MB-2778,62.76,Mastectomy,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,1.0,17.0,2.0,6.0,4.034,181.2333333,Deceased,119.11,Recurred,Female,Died of Disease,benign
+MB-2779,36.8,Breast Conserving,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Pre,Left,0.0,20.0,1.0,6.0,3.04,275.2333333,Living,159.34,Recurred,Female,Living,benign
+MB-2781,64.32,Mastectomy,2.0,Positve,Positive,2.0,Gain,Negative,Ductal/NST,Yes,Post,Left,1.0,30.0,2.0,2.0,4.06,40.43333333,Deceased,39.9,Not Recurred,Female,Died of Other Causes,benign
+MB-2786,62.36,Mastectomy,2.0,Positve,Positive,3.0,Gain,Positive,Ductal/NST,Yes,Post,Left,3.0,28.0,2.0,5.0,5.056,68.26666667,Deceased,42.27,Recurred,Female,Died of Disease,benign
+MB-2790,47.03,Mastectomy,2.0,Positve,Positive,2.0,Neutral,Negative,Mixed,No,Pre,Left,0.0,25.0,1.0,8.0,3.05,116.9333333,Living,12.86,Recurred,Female,Living,benign
+MB-2791,40.79,Breast Conserving,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Pre,Left,0.0,17.0,1.0,12.0,3.034,271.9333333,Living,268.36,Not Recurred,Female,Living,benign
+MB-2792,50.38,Mastectomy,2.0,Positve,Positive,2.0,Gain,Negative,Ductal/NST,Yes,Post,Left,1.0,35.0,2.0,2.0,4.07,110.76666670000002,Deceased,86.25,Recurred,Female,Died of Disease,benign
+MB-2793,67.62,Mastectomy,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,0.0,25.0,1.0,3.0,3.05,267.2333333,Living,263.72,Not Recurred,Female,Living,benign
+MB-2795,42.07,Breast Conserving,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Pre,Right,0.0,12.0,1.0,3.0,3.024,272.1,Living,268.52,Not Recurred,Female,Living,benign
+MB-2797,50.07,Mastectomy,2.0,Positve,Positive,1.0,Neutral,Negative,Mixed,No,Post,Left,0.0,15.0,1.0,4.0,2.03,252.9666667,Living,249.64,Not Recurred,Female,Living,benign
+MB-2801,70.35,Breast Conserving,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,1.0,13.0,2.0,8.0,4.026,271.2666667,Living,267.7,Not Recurred,Female,Living,benign
+MB-2803,63.01,Breast Conserving,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Post,Right,0.0,18.0,1.0,4.0,3.036,85.86666667,Deceased,73.09,Recurred,Female,Died of Disease,benign
+MB-2814,65.25,Breast Conserving,2.0,Positve,Positive,2.0,Gain,Negative,Ductal/NST,No,Post,Right,0.0,13.0,1.0,4.0,3.026,231.0333333,Deceased,227.99,Not Recurred,Female,Died of Other Causes,benign
+MB-2815,64.25,Breast Conserving,2.0,Positve,Positive,1.0,Neutral,Negative,Mixed,No,Post,Right,0.0,22.0,1.0,2.0,2.044,257.5666667,Living,254.18,Not Recurred,Female,Living,benign
+MB-2819,61.95,Mastectomy,2.0,Positve,Positive,1.0,Neutral,Negative,Mixed,No,Post,Left,0.0,19.0,1.0,4.0,2.0380000000000003,270.5666667,Living,267.01,Not Recurred,Female,Living,benign
+MB-2827,36.5,Mastectomy,2.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Pre,Right,1.0,11.0,2.0,4.0,5.022,235.6666667,Living,232.57,Not Recurred,Female,Living,benign
+MB-2834,56.85,Breast Conserving,2.0,Positve,Negative,2.0,Neutral,Negative,Ductal/NST,No,Post,Left,1.0,9.0,1.0,8.0,4.018,153.83333330000002,Deceased,151.81,Not Recurred,Female,Died of Other Causes,benign
+MB-2835,59.84,Mastectomy,2.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,0.0,20.0,1.0,6.0,4.04,55.03333333,Deceased,54.31,Not Recurred,Female,Died of Other Causes,benign
+MB-2838,67.12,Mastectomy,2.0,Positve,Positive,2.0,Loss,Negative,Ductal/NST,Yes,Post,Right,0.0,27.0,1.0,12.0,3.054,270.3,Living,266.74,Not Recurred,Female,Living,benign
+MB-2840,60.48,Mastectomy,2.0,Positve,Positive,2.0,Neutral,Negative,Lobular,No,Post,Left,0.0,14.0,1.0,6.0,3.028,269.0,Living,265.46,Not Recurred,Female,Living,benign
+MB-2842,58.48,Mastectomy,2.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Post,Right,1.0,27.0,2.0,11.0,5.053999999999999,19.73333333,Deceased,18.91,Recurred,Female,Died of Disease,benign
+MB-2843,61.08,Breast Conserving,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Post,Right,0.0,13.0,1.0,4.0,3.026,231.5333333,Deceased,228.49,Not Recurred,Female,Died of Other Causes,benign
+MB-2844,60.76,Mastectomy,2.0,Positve,Positive,3.0,Gain,Negative,Ductal/NST,Yes,Post,Right,0.0,19.0,1.0,8.0,4.038,146.7333333,Living,144.8,Not Recurred,Female,Living,benign
+MB-2845,55.8,Mastectomy,2.0,Positve,Positive,2.0,Neutral,Negative,Lobular,No,Post,Right,0.0,14.0,1.0,5.0,3.028,264.7666667,Living,261.28,Not Recurred,Female,Living,benign
+MB-2847,65.04,Mastectomy,2.0,Positve,Negative,3.0,Gain,Positive,Ductal/NST,Yes,Post,Left,18.0,35.0,3.0,9.0,6.07,39.53333333,Deceased,16.05,Recurred,Female,Died of Disease,benign
+MB-2848,60.11,Mastectomy,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,1.0,15.0,2.0,6.0,4.03,227.7333333,Deceased,224.74,Not Recurred,Female,Died of Other Causes,benign
+MB-2849,60.65,Mastectomy,2.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,0.0,26.0,1.0,4.0,4.052,43.2,Deceased,21.02,Recurred,Female,Died of Disease,benign
+MB-2851,58.69,Breast Conserving,2.0,Positve,Positive,3.0,Neutral,Negative,Mixed,Yes,Post,Right,0.0,16.0,1.0,5.0,4.032,159.0,Deceased,91.91,Recurred,Female,Died of Disease,benign
+MB-2853,36.25,Breast Conserving,2.0,Positve,Positive,2.0,Neutral,Negative,Mucinous,No,Pre,Right,0.0,23.0,1.0,7.0,3.0460000000000003,269.6333333,Living,266.09,Not Recurred,Female,Living,benign
+MB-2854,61.53,Mastectomy,2.0,Positve,Positive,2.0,Neutral,Negative,Lobular,Yes,Post,Left,0.0,22.0,1.0,5.0,3.044,270.4333333,Living,266.88,Not Recurred,Female,Living,benign
+MB-2857,45.3,Mastectomy,2.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Pre,Left,1.0,22.0,2.0,5.0,5.044,250.6666667,Living,247.37,Not Recurred,Female,Living,benign
+MB-2858,63.94,Mastectomy,2.0,Positve,Positive,3.0,Neutral,Negative,Mixed,Yes,Post,Right,0.0,26.0,1.0,2.0,4.052,141.56666669999998,Deceased,139.7,Not Recurred,Female,Died of Other Causes,benign
+MB-2863,59.58,Mastectomy,2.0,Positve,Positive,1.0,Neutral,Negative,Mucinous,Yes,Post,Left,1.0,20.0,2.0,6.0,3.04,258.3333333,Living,254.93,Not Recurred,Female,Living,benign
+MB-2867,47.1,Mastectomy,2.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,Yes,Pre,Right,2.0,20.0,2.0,4.0,3.04,269.3333333,Living,117.93,Recurred,Female,Living,benign
+MB-2895,66.84,Mastectomy,2.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,Yes,Post,Left,0.0,15.0,1.0,6.0,4.03,196.5666667,Deceased,184.08,Recurred,Female,Died of Disease,benign
+MB-2896,68.18,Mastectomy,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Post,Right,0.0,13.0,1.0,5.0,3.026,237.3666667,Deceased,234.24,Not Recurred,Female,Died of Other Causes,benign
+MB-2900,59.29,Mastectomy,2.0,Positve,Positive,2.0,Neutral,Negative,Lobular,Yes,Post,Left,9.0,25.0,3.0,4.0,5.05,20.66666667,Deceased,18.98,Recurred,Female,Died of Other Causes,benign
+MB-2912,59.6,Breast Conserving,2.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Post,Right,5.0,20.0,3.0,5.0,6.04,267.4,Living,263.88,Not Recurred,Female,Living,benign
+MB-2916,48.93,Breast Conserving,2.0,Positve,Positive,1.0,Neutral,Negative,Tubular/ cribriform,No,Pre,Left,0.0,16.0,1.0,6.0,2.032,266.9333333,Living,263.42,Not Recurred,Female,Living,benign
+MB-2917,33.9,Mastectomy,2.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Pre,Left,2.0,30.0,2.0,4.0,5.06,31.93333333,Deceased,31.51,Recurred,Female,Died of Disease,benign
+MB-2919,59.13,Mastectomy,2.0,Positve,Positive,1.0,Neutral,Negative,Mucinous,No,Post,Left,0.0,20.0,1.0,5.0,2.04,240.0333333,Deceased,236.88,Not Recurred,Female,Died of Other Causes,benign
+MB-2922,45.74,Mastectomy,2.0,Negative,Negative,3.0,Gain,Negative,Ductal/NST,No,Pre,Right,8.0,25.0,3.0,8.0,6.05,14.4,Deceased,14.01,Recurred,Female,Died of Disease,benign
+MB-2933,44.08,Mastectomy,2.0,Positve,Positive,1.0,Neutral,Negative,Tubular/ cribriform,No,Pre,Left,0.0,15.0,1.0,4.0,2.03,161.93333330000002,Deceased,159.8,Not Recurred,Female,Died of Other Causes,benign
+MB-2947,36.47,Mastectomy,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Pre,Right,0.0,15.0,1.0,3.0,3.03,112.0,Living,110.53,Not Recurred,Female,Living,benign
+MB-2951,39.07,Breast Conserving,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Pre,Right,0.0,15.0,1.0,6.0,3.03,263.3666667,Living,97.76,Recurred,Female,Living,benign
+MB-2953,43.08,Breast Conserving,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Pre,Right,0.0,18.0,1.0,4.0,3.036,30.13333333,Deceased,14.97,Recurred,Female,Died of Disease,benign
+MB-2954,69.79,Mastectomy,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,3.0,30.0,2.0,10.0,4.06,5.5,Deceased,5.23,Recurred,Female,Died of Disease,benign
+MB-2957,31.02,Mastectomy,2.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Pre,Left,2.0,30.0,2.0,4.0,5.06,262.1333333,Living,258.68,Not Recurred,Female,Living,benign
+MB-2960,69.67,Mastectomy,2.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,25.0,1.0,6.0,4.05,222.2,Deceased,219.28,Not Recurred,Female,Died of Other Causes,benign
+MB-2963,53.99,Breast Conserving,2.0,Positve,Negative,2.0,Neutral,Negative,Mixed,Yes,Post,Left,4.0,10.0,3.0,5.0,5.02,227.8333333,Deceased,184.34,Recurred,Female,Died of Disease,benign
+MB-2964,69.48,Mastectomy,2.0,Positve,Positive,3.0,Gain,Negative,Ductal/NST,Yes,Post,Right,7.0,30.0,3.0,8.0,6.06,9.6,Deceased,9.47,Recurred,Female,Died of Disease,benign
+MB-2966,50.3,Mastectomy,2.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,2.0,18.0,2.0,6.0,5.0360000000000005,265.0,Living,261.51,Not Recurred,Female,Living,benign
+MB-2969,66.86,Mastectomy,2.0,Positve,Positive,2.0,Loss,Negative,Ductal/NST,No,Post,Right,0.0,13.0,1.0,8.0,3.026,172.9,Deceased,170.63,Not Recurred,Female,Died of Other Causes,benign
+MB-2970,46.49,Mastectomy,2.0,Positve,Positive,2.0,Neutral,Negative,Mixed,Yes,Pre,Left,2.0,25.0,2.0,9.0,4.05,252.8666667,Deceased,221.97,Recurred,Female,Died of Disease,benign
+MB-2971,69.6,Breast Conserving,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,2.0,15.0,2.0,10.0,4.03,264.2333333,Living,189.08,Recurred,Female,Living,benign
+MB-2977,40.02,Breast Conserving,2.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,No,Pre,Right,0.0,15.0,1.0,6.0,2.03,110.6,Deceased,109.14,Not Recurred,Female,Died of Other Causes,benign
+MB-2983,56.26,Breast Conserving,2.0,Positve,Positive,2.0,Gain,Positive,Ductal/NST,Yes,Post,Left,1.0,15.0,2.0,4.0,4.03,180.8333333,Deceased,178.45,Not Recurred,Female,Died of Other Causes,benign
+MB-2984,64.04,Breast Conserving,2.0,Positve,Positive,3.0,Gain,Positive,Ductal/NST,Yes,Post,Left,0.0,20.0,1.0,5.0,4.04,261.2,Living,257.76,Not Recurred,Female,Living,benign
+MB-2990,48.47,Mastectomy,2.0,Positve,Positive,1.0,Neutral,Negative,Mixed,No,Pre,Right,0.0,15.0,1.0,6.0,2.03,260.0,Living,256.58,Not Recurred,Female,Living,benign
+MB-2993,63.65,Mastectomy,2.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,0.0,20.0,1.0,4.0,4.04,187.0333333,Living,184.57,Not Recurred,Female,Living,benign
+MB-2994,46.7,Breast Conserving,2.0,Positve,Positive,3.0,Gain,Positive,Ductal/NST,Yes,Pre,Left,1.0,18.0,2.0,3.0,5.0360000000000005,254.5,Living,251.15,Not Recurred,Female,Living,benign
+MB-2996,58.1,Breast Conserving,2.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,16.0,1.0,4.0,4.032,191.2333333,Living,188.72,Not Recurred,Female,Living,benign
+MB-2999,61.42,Mastectomy,2.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,0.0,12.0,1.0,8.0,4.024,262.0,Living,258.55,Not Recurred,Female,Living,benign
+MB-3002,62.32,Mastectomy,2.0,Positve,Positive,2.0,Neutral,Negative,Lobular,Yes,Post,Right,1.0,30.0,2.0,5.0,4.06,140.56666669999998,Deceased,138.72,Not Recurred,Female,Died of Other Causes,benign
+MB-3005,45.75,Breast Conserving,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Pre,Left,0.0,23.0,1.0,6.0,3.0460000000000003,253.0666667,Living,249.74,Not Recurred,Female,Living,benign
+MB-3006,60.09,Mastectomy,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,6.0,20.0,3.0,6.0,5.04,15.7,Deceased,9.97,Recurred,Female,Died of Disease,benign
+MB-3007,48.48,Mastectomy,2.0,Positve,Positive,2.0,Gain,Negative,Ductal/NST,No,Pre,Left,0.0,12.0,1.0,2.0,3.024,114.9,Deceased,92.63,Recurred,Female,Died of Disease,malignant
+MB-3008,51.94,Breast Conserving,2.0,Positve,Positive,1.0,Neutral,Negative,Mixed,No,Post,Left,0.0,12.0,1.0,2.0,2.024,149.6,Living,147.63,Not Recurred,Female,Living,malignant
+MB-3013,50.37,Breast Conserving,2.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,1.0,23.0,2.0,3.0,3.0460000000000003,238.3666667,Living,120.53,Recurred,Female,Living,malignant
+MB-3014,39.7,Breast Conserving,2.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Pre,Left,1.0,15.0,2.0,5.0,5.03,262.6333333,Living,259.18,Not Recurred,Female,Living,malignant
+MB-3016,56.83,Mastectomy,2.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,0.0,10.0,1.0,12.0,4.02,258.8666667,Living,255.46,Not Recurred,Female,Living,malignant
+MB-3021,63.08,Breast Conserving,2.0,Positve,Positive,3.0,Neutral,Negative,Lobular,Yes,Post,Right,1.0,22.0,1.0,9.0,5.044,217.5666667,Deceased,214.7,Not Recurred,Female,Died of Other Causes,malignant
+MB-3025,37.89,Breast Conserving,2.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,No,Pre,Left,1.0,13.0,2.0,2.0,5.026,256.0,Living,252.63,Not Recurred,Female,Living,malignant
+MB-3026,49.92,Breast Conserving,2.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Pre,Right,0.0,22.0,2.0,3.0,4.044,261.2,Living,257.76,Not Recurred,Female,Living,malignant
+MB-3031,46.76,Mastectomy,2.0,Negative,Positive,3.0,Gain,Positive,Medullary,No,Pre,Right,2.0,21.0,2.0,4.0,5.042,35.63333333,Deceased,34.28,Recurred,Female,Died of Disease,malignant
+MB-3032,50.01,Breast Conserving,2.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,No,Post,Right,0.0,15.0,1.0,9.0,2.03,250.1333333,Living,246.84,Not Recurred,Female,Living,malignant
+MB-3033,69.07,Mastectomy,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,0.0,19.0,1.0,1.0,3.0380000000000003,70.4,Deceased,65.3,Recurred,Female,Died of Disease,malignant
+MB-3035,54.64,Breast Conserving,2.0,Positve,Positive,2.0,Loss,Negative,Ductal/NST,Yes,Post,Right,0.0,22.0,1.0,8.0,3.044,260.7333333,Living,257.3,Not Recurred,Female,Living,malignant
+MB-3037,53.19,Breast Conserving,2.0,Positve,Positive,2.0,Neutral,Negative,Mixed,No,Post,Left,0.0,13.0,1.0,5.0,3.026,98.83333333,Living,97.53,Not Recurred,Female,Living,malignant
+MB-3046,67.2,Mastectomy,2.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,35.0,1.0,5.0,4.07,73.83333333,Deceased,72.86,Not Recurred,Female,Died of Other Causes,malignant
+MB-3049,57.17,Breast Conserving,2.0,Positve,Positive,2.0,Neutral,Negative,Lobular,No,Post,Right,0.0,16.0,1.0,4.0,3.032,259.9666667,Living,256.55,Not Recurred,Female,Living,malignant
+MB-3050,59.53,Mastectomy,2.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,0.0,30.0,1.0,6.0,4.06,255.1,Deceased,251.74,Not Recurred,Female,Died of Other Causes,malignant
+MB-3057,55.3,Mastectomy,2.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Post,Right,1.0,43.0,2.0,5.0,5.086,32.03333333,Deceased,27.11,Recurred,Female,Died of Disease,malignant
+MB-3058,47.74,Mastectomy,2.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Pre,Right,2.0,40.0,2.0,8.0,5.08,254.2666667,Living,250.92,Not Recurred,Female,Living,malignant
+MB-3060,65.69,Mastectomy,2.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,1.0,36.0,2.0,5.0,5.072,44.6,Deceased,21.84,Recurred,Female,Died of Disease,malignant
+MB-3063,43.51,Breast Conserving,2.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Pre,Right,6.0,20.0,3.0,13.0,6.04,28.56666667,Deceased,20.95,Recurred,Female,Died of Disease,malignant
+MB-3064,46.7,Mastectomy,2.0,Positve,Positive,1.0,Neutral,Negative,Mixed,No,Pre,Left,0.0,20.0,1.0,7.0,2.04,165.16666669999998,Deceased,35.07,Recurred,Female,Died of Disease,malignant
+MB-3067,60.29,Mastectomy,2.0,Negative,Negative,3.0,Neutral,Negative,Medullary,No,Post,Right,2.0,18.0,2.0,5.0,5.0360000000000005,259.53333330000004,Living,256.12,Not Recurred,Female,Living,malignant
+MB-3079,50.54,Mastectomy,2.0,Positve,Positive,2.0,Neutral,Negative,Mixed,No,Post,Right,0.0,15.0,1.0,11.0,3.03,149.6,Living,147.63,Not Recurred,Female,Living,malignant
+MB-3083,68.5,Mastectomy,2.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,2.0,30.0,2.0,2.0,5.06,81.1,Deceased,44.84,Recurred,Female,Died of Disease,malignant
+MB-3085,43.68,Mastectomy,2.0,Positve,Positive,2.0,Neutral,Negative,Lobular,No,Pre,Right,0.0,25.0,1.0,4.0,3.05,210.9666667,Deceased,139.84,Recurred,Female,Died of Disease,malignant
+MB-3092,56.73,Mastectomy,2.0,Positve,Positive,3.0,Neutral,Negative,Mixed,Yes,Post,Left,2.0,38.0,2.0,1.0,5.0760000000000005,152.33333330000002,Deceased,150.33,Not Recurred,Female,Died of Other Causes,malignant
+MB-3102,60.34,Breast Conserving,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,2.0,20.0,2.0,5.0,4.04,258.3333333,Living,254.93,Not Recurred,Female,Living,malignant
+MB-3103,58.55,Breast Conserving,2.0,Positve,Positive,3.0,Gain,Positive,Ductal/NST,Yes,Post,Left,0.0,15.0,1.0,5.0,4.03,28.73333333,Deceased,25.56,Recurred,Female,Died of Disease,malignant
+MB-3104,28.96,Mastectomy,2.0,Positve,Positive,2.0,Gain,Positive,Ductal/NST,No,Pre,Right,0.0,20.0,1.0,9.0,3.04,75.36666667,Deceased,45.03,Recurred,Female,Died of Disease,malignant
+MB-3105,48.34,Mastectomy,2.0,Positve,Positive,1.0,Neutral,Negative,Tubular/ cribriform,Yes,Pre,Left,2.0,27.0,2.0,5.0,3.054,252.3333333,Living,249.01,Not Recurred,Female,Living,malignant
+MB-3110,61.07,Breast Conserving,2.0,Positve,Positive,2.0,Neutral,Negative,Lobular,Yes,Post,Right,2.0,16.0,2.0,7.0,4.032,100.7333333,Living,8.98,Recurred,Female,Living,malignant
+MB-3121,63.06,Breast Conserving,2.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,No,Post,Left,0.0,12.0,1.0,3.0,2.024,131.3333333,Deceased,28.95,Recurred,Female,Died of Other Causes,malignant
+MB-3122,62.39,Mastectomy,2.0,Positve,Positive,3.0,Gain,Negative,Ductal/NST,Yes,Post,Right,0.0,17.0,1.0,6.0,4.034,257.7666667,Living,254.38,Not Recurred,Female,Living,malignant
+MB-3123,50.26,Mastectomy,2.0,Negative,Negative,3.0,Gain,Negative,Ductal/NST,No,Post,Right,4.0,22.0,3.0,5.0,6.044,167.43333330000002,Living,165.23,Not Recurred,Female,Living,malignant
+MB-3165,59.78,Breast Conserving,2.0,Negative,Positive,3.0,Loss,Negative,Ductal/NST,No,Post,Left,1.0,28.0,2.0,4.0,5.056,221.2333333,Living,218.32,Not Recurred,Female,Living,malignant
+MB-3167,66.76,Mastectomy,2.0,Positve,Positive,2.0,Gain,Negative,Ductal/NST,Yes,Post,Left,1.0,16.0,1.0,1.0,4.032,136.93333330000002,Living,135.13,Not Recurred,Female,Living,malignant
+MB-3171,54.95,Mastectomy,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Post,Left,0.0,13.0,1.0,9.0,3.026,219.6666667,Deceased,166.02,Recurred,Female,Died of Disease,malignant
+MB-3211,58.31,Breast Conserving,2.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,0.0,13.0,1.0,9.0,4.026,145.5,Living,143.59,Not Recurred,Female,Living,malignant
+MB-3222,63.03,Mastectomy,2.0,Negative,Positive,1.0,Neutral,Negative,Mixed,No,Post,Right,0.0,17.0,1.0,3.0,2.0340000000000003,23.93333333,Deceased,23.62,Not Recurred,Female,Died of Other Causes,malignant
+MB-3228,58.31,Breast Conserving,2.0,Positve,Positive,2.0,Neutral,Negative,Mixed,No,Post,Left,0.0,17.0,1.0,7.0,3.034,252.0,Living,248.68,Not Recurred,Female,Living,malignant
+MB-3235,50.66,Breast Conserving,2.0,Positve,Positive,3.0,Gain,Positive,Ductal/NST,Yes,Post,Right,0.0,17.0,1.0,2.0,4.034,236.1333333,Living,149.21,Recurred,Female,Living,malignant
+MB-3253,56.81,Breast Conserving,2.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,3.0,26.0,2.0,16.0,5.052,55.83333333,Deceased,35.2,Recurred,Female,Died of Disease,malignant
+MB-3254,50.21,Breast Conserving,2.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,No,Post,Left,0.0,18.0,1.0,9.0,2.036,123.9,Living,122.27,Not Recurred,Female,Living,malignant
+MB-3266,52.91,Mastectomy,2.0,Positve,Positive,3.0,Gain,Negative,Mixed,Yes,Post,Right,1.0,17.0,2.0,2.0,5.034,51.2,Deceased,32.11,Recurred,Female,Died of Disease,malignant
+MB-3271,59.43,Breast Conserving,2.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,20.0,1.0,6.0,4.04,65.46666667,Deceased,30.95,Recurred,Female,Died of Other Causes,malignant
+MB-3272,63.53,Breast Conserving,2.0,Positve,Positive,3.0,Gain,Positive,Ductal/NST,Yes,Post,Right,6.0,20.0,3.0,2.0,6.04,22.66666667,Deceased,14.7,Recurred,Female,Died of Disease,malignant
+MB-3275,45.0,Mastectomy,2.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Pre,Left,0.0,28.0,1.0,6.0,4.056,41.53333333,Deceased,16.78,Recurred,Female,Died of Disease,malignant
+MB-3277,29.92,Mastectomy,2.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Pre,Left,3.0,30.0,2.0,6.0,5.06,32.93333333,Deceased,22.11,Recurred,Female,Died of Disease,malignant
+MB-3292,60.04,Breast Conserving,2.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,18.0,1.0,5.0,4.0360000000000005,217.7666667,Living,214.9,Not Recurred,Female,Living,malignant
+MB-3295,60.42,Mastectomy,2.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,25.0,1.0,5.0,4.05,158.5333333,Deceased,156.45,Not Recurred,Female,Died of Other Causes,malignant
+MB-3297,42.72,Mastectomy,2.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Pre,Left,1.0,25.0,2.0,14.0,5.05,236.0666667,Living,232.96,Not Recurred,Female,Living,malignant
+MB-3298,48.75,Mastectomy,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Pre,Right,0.0,15.0,1.0,6.0,3.03,242.5666667,Living,239.38,Not Recurred,Female,Living,malignant
+MB-3300,64.99,Mastectomy,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Post,Left,0.0,19.0,1.0,3.0,3.0380000000000003,247.0,Living,243.75,Not Recurred,Female,Living,malignant
+MB-3303,63.96,Mastectomy,2.0,Positve,Positive,3.0,Neutral,Negative,Other,Yes,Post,Right,1.0,20.0,2.0,4.0,5.04,243.9,Living,240.69,Not Recurred,Female,Living,malignant
+MB-3328,69.65,Breast Conserving,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,1.0,35.0,2.0,5.0,4.07,191.1333333,Deceased,188.62,Not Recurred,Female,Died of Other Causes,malignant
+MB-3329,56.03,Mastectomy,2.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,No,Post,Right,0.0,20.0,1.0,5.0,4.04,37.96666667,Deceased,24.01,Recurred,Female,Died of Disease,malignant
+MB-3341,62.96,Mastectomy,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,30.0,1.0,4.0,3.06,148.7666667,Deceased,95.82,Recurred,Female,Died of Disease,malignant
+MB-3350,62.62,Mastectomy,2.0,Positve,Positive,2.0,Neutral,Negative,Mixed,Yes,Post,Left,0.0,30.0,1.0,6.0,3.06,227.8,Deceased,178.36,Recurred,Female,Died of Other Causes,malignant
+MB-3351,39.4,Mastectomy,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Pre,Right,0.0,17.0,1.0,5.0,3.034,241.8666667,Living,238.68,Not Recurred,Female,Living,malignant
+MB-3355,48.53,Mastectomy,2.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,No,Pre,Right,4.0,27.0,3.0,5.0,6.053999999999999,109.0,Living,107.57,Not Recurred,Female,Living,malignant
+MB-3357,47.75,Breast Conserving,2.0,Positve,Positive,3.0,Gain,Negative,Mixed,Yes,Pre,Left,0.0,25.0,1.0,8.0,4.05,38.03333333,Deceased,36.97,Recurred,Female,Died of Disease,malignant
+MB-3360,48.48,Breast Conserving,2.0,Positve,Positive,3.0,Gain,Positive,Ductal/NST,Yes,Pre,Right,0.0,28.0,1.0,8.0,4.056,26.76666667,Deceased,25.07,Recurred,Female,Died of Disease,malignant
+MB-3361,57.31,Breast Conserving,2.0,Positve,Positive,3.0,Gain,Positive,Ductal/NST,Yes,Post,Right,0.0,16.0,1.0,8.0,4.032,68.2,Deceased,45.33,Recurred,Female,Died of Disease,malignant
+MB-3363,56.42,Breast Conserving,2.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,No,Post,Right,0.0,20.0,1.0,23.0,4.04,10.86666667,Deceased,5.03,Recurred,Female,Died of Disease,malignant
+MB-3365,51.18,Breast Conserving,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,1.0,27.0,2.0,3.0,4.053999999999999,241.6,Living,238.42,Not Recurred,Female,Living,malignant
+MB-3367,65.62,Mastectomy,2.0,Negative,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,23.0,1.0,9.0,4.046,179.43333330000002,Living,177.07,Not Recurred,Female,Living,malignant
+MB-3371,66.15,Breast Conserving,2.0,Positve,Positive,2.0,Gain,Negative,Ductal/NST,No,Post,Left,0.0,16.0,1.0,3.0,3.032,241.2666667,Living,238.09,Not Recurred,Female,Living,malignant
+MB-3378,65.5,Mastectomy,2.0,Positve,Positive,2.0,Neutral,Negative,Lobular,No,Post,Right,0.0,18.0,1.0,4.0,3.036,87.53333333,Deceased,86.38,Not Recurred,Female,Died of Other Causes,malignant
+MB-3379,60.99,Mastectomy,2.0,Positve,Positive,3.0,Gain,Positive,Lobular,Yes,Post,Right,0.0,20.0,1.0,5.0,4.04,113.8333333,Deceased,112.34,Not Recurred,Female,Died of Other Causes,malignant
+MB-3381,53.36,Mastectomy,2.0,Positve,Positive,3.0,Gain,Negative,Ductal/NST,Yes,Post,Right,3.0,20.0,2.0,3.0,5.04,236.6333333,Living,233.52,Not Recurred,Female,Living,malignant
+MB-3386,40.06,Mastectomy,2.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,No,Pre,Left,3.0,35.0,2.0,6.0,5.07,55.63333333,Deceased,47.04,Recurred,Female,Died of Disease,malignant
+MB-3388,59.3,Mastectomy,2.0,Positve,Positive,3.0,Gain,Negative,Ductal/NST,Yes,Post,Left,1.0,20.0,2.0,5.0,5.04,228.6,Deceased,225.59,Not Recurred,Female,Died of Other Causes,malignant
+MB-3389,63.34,Breast Conserving,2.0,Positve,Positive,3.0,Gain,Negative,Lobular,Yes,Post,Left,0.0,20.0,1.0,2.0,4.04,240.7,Living,237.53,Not Recurred,Female,Living,malignant
+MB-3395,52.45,Mastectomy,2.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,15.0,1.0,6.0,4.03,243.7666667,Living,240.56,Not Recurred,Female,Living,malignant
+MB-3396,59.29,Mastectomy,2.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Post,Right,3.0,25.0,2.0,12.0,5.05,226.7333333,Living,223.75,Not Recurred,Female,Living,malignant
+MB-3402,41.17,Mastectomy,2.0,Negative,Positive,3.0,Gain,Negative,Ductal/NST,No,Pre,Right,3.0,28.0,2.0,4.0,5.056,50.03333333,Deceased,38.06,Recurred,Female,Died of Disease,malignant
+MB-3403,50.92,Breast Conserving,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,1.0,17.0,2.0,4.0,4.034,138.33333330000002,Living,136.51,Not Recurred,Female,Living,malignant
+MB-3412,55.28,Breast Conserving,2.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,7.0,26.0,3.0,6.0,6.0520000000000005,228.8,Living,225.79,Not Recurred,Female,Living,malignant
+MB-3429,49.08,Mastectomy,2.0,Positve,Positive,2.0,Neutral,Negative,Lobular,Yes,Pre,Right,1.0,26.0,2.0,3.0,4.052,243.5,Living,240.3,Not Recurred,Female,Living,malignant
+MB-3430,68.86,Breast Conserving,2.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,1.0,25.0,2.0,7.0,5.05,219.7666667,Deceased,216.88,Not Recurred,Female,Died of Other Causes,malignant
+MB-3435,37.05,Mastectomy,2.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,No,Pre,Left,1.0,30.0,2.0,9.0,5.06,25.43333333,Deceased,12.73,Recurred,Female,Died of Disease,malignant
+MB-3437,70.52,Mastectomy,2.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,21.0,1.0,2.0,4.042,108.76666670000002,Living,107.34,Not Recurred,Female,Living,malignant
+MB-3439,43.67,Mastectomy,2.0,Positve,Positive,2.0,Neutral,Negative,Mixed,Yes,Pre,Right,1.0,17.0,2.0,16.0,4.034,188.7333333,Living,57.96,Recurred,Female,Living,malignant
+MB-3450,51.52,Breast Conserving,2.0,Positve,Positive,2.0,Loss,Negative,Ductal/NST,No,Post,Right,0.0,17.0,1.0,3.0,3.034,240.4666667,Living,146.91,Recurred,Female,Living,malignant
+MB-3452,64.04,Mastectomy,2.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,30.0,1.0,7.0,4.06,119.8666667,Deceased,117.73,Recurred,Female,Died of Disease,malignant
+MB-3453,51.36,Mastectomy,2.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Post,Right,1.0,35.0,2.0,14.0,5.07,32.83333333,Deceased,19.54,Recurred,Female,Died of Disease,malignant
+MB-3459,57.66,Mastectomy,2.0,Positve,Positive,2.0,Gain,Negative,Ductal/NST,No,Post,Right,0.0,20.0,1.0,5.0,3.04,241.4,Living,238.22,Not Recurred,Female,Living,malignant
+MB-3462,40.92,Mastectomy,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Pre,Left,2.0,16.0,2.0,7.0,4.032,234.2333333,Living,172.3,Recurred,Female,Living,malignant
+MB-3466,55.3,Breast Conserving,2.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,0.0,15.0,1.0,8.0,4.03,234.1333333,Deceased,231.05,Not Recurred,Female,Died of Other Causes,malignant
+MB-3467,21.93,Mastectomy,2.0,Negative,Negative,2.0,Gain,Positive,Mixed,No,Pre,Right,6.0,35.0,3.0,5.0,5.07,38.8,Deceased,33.06,Recurred,Female,Died of Disease,malignant
+MB-3476,68.59,Breast Conserving,2.0,Negative,Negative,3.0,Neutral,Negative,Medullary,No,Post,Left,0.0,17.0,1.0,4.0,4.034,159.06666669999998,Deceased,156.97,Not Recurred,Female,Died of Other Causes,malignant
+MB-3479,60.3,Mastectomy,2.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,1.0,22.0,2.0,1.0,5.044,231.6666667,Living,228.62,Not Recurred,Female,Living,malignant
+MB-3487,43.58,Mastectomy,2.0,Positve,Positive,3.0,Gain,Negative,Ductal/NST,Yes,Pre,Left,0.0,27.0,1.0,6.0,4.053999999999999,237.1333333,Living,14.41,Recurred,Female,Living,malignant
+MB-3488,41.1,Mastectomy,2.0,Negative,Positive,3.0,Gain,Positive,Ductal/NST,No,Pre,Left,0.0,50.0,2.0,2.0,4.1,27.46666667,Deceased,20.59,Recurred,Female,Died of Disease,malignant
+MB-3490,45.74,Breast Conserving,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Pre,Right,0.0,20.0,1.0,18.0,3.04,102.4,Deceased,7.99,Recurred,Female,Died of Disease,malignant
+MB-3492,62.09,Breast Conserving,2.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,1.0,20.0,2.0,8.0,5.04,118.1333333,Deceased,105.0,Recurred,Female,Died of Disease,malignant
+MB-3497,53.5,Mastectomy,2.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,No,Post,Left,5.0,31.0,3.0,7.0,6.062,15.5,Deceased,15.13,Recurred,Female,Died of Disease,malignant
+MB-3500,66.91,Mastectomy,2.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Post,Right,0.0,30.0,1.0,12.0,4.06,239.3,Living,236.15,Not Recurred,Female,Living,malignant
+MB-3502,50.79,Mastectomy,2.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Post,Left,3.0,27.0,2.0,4.0,5.053999999999999,229.3333333,Living,226.32,Not Recurred,Female,Living,malignant
+MB-3506,39.28,Mastectomy,2.0,Positve,Positive,3.0,Loss,Negative,Other,Yes,Pre,Right,1.0,16.0,2.0,6.0,5.032,240.8333333,Living,161.61,Recurred,Female,Living,malignant
+MB-3510,67.6,Breast Conserving,2.0,Positve,Positive,1.0,Neutral,Negative,Mixed,Yes,Post,Left,1.0,20.0,2.0,8.0,3.04,59.6,Deceased,58.82,Not Recurred,Female,Died of Other Causes,malignant
+MB-3525,65.56,Breast Conserving,2.0,Positve,Positive,3.0,Gain,Negative,Ductal/NST,Yes,Post,Left,5.0,27.0,3.0,26.0,6.053999999999999,236.7,Living,233.59,Not Recurred,Female,Living,malignant
+MB-3526,60.3,Mastectomy,2.0,Positve,Positive,3.0,Gain,Negative,Ductal/NST,Yes,Post,Right,3.0,22.0,2.0,3.0,5.044,86.06666667,Deceased,64.44,Recurred,Female,Died of Disease,malignant
+MB-3545,49.84,Mastectomy,2.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Pre,Left,0.0,21.0,1.0,5.0,4.042,232.7333333,Deceased,203.78,Recurred,Female,Died of Disease,malignant
+MB-3548,66.85,Mastectomy,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,1.0,20.0,2.0,4.0,4.04,234.5333333,Deceased,231.45,Not Recurred,Female,Died of Other Causes,malignant
+MB-3556,51.76,Mastectomy,2.0,Negative,Negative,3.0,Gain,Positive,Medullary,No,Post,Right,2.0,80.0,2.0,8.0,5.16,38.03333333,Deceased,32.83,Recurred,Female,Died of Disease,malignant
+MB-3567,55.95,Mastectomy,2.0,Negative,Negative,3.0,Neutral,Negative,Mixed,Yes,Post,Left,0.0,25.0,2.0,4.0,4.05,236.0333333,Living,232.93,Not Recurred,Female,Living,malignant
+MB-3576,53.04,Mastectomy,2.0,Positve,Positive,3.0,Neutral,Negative,Mixed,Yes,Post,Left,0.0,37.0,1.0,8.0,4.074,24.86666667,Deceased,10.0,Recurred,Female,Died of Disease,malignant
+MB-3600,60.15,Breast Conserving,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,1.0,12.0,2.0,9.0,4.024,214.7,Living,211.88,Not Recurred,Female,Living,malignant
+MB-3606,68.61,Mastectomy,2.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,No,Post,Left,0.0,40.0,1.0,8.0,4.08,110.6333333,Living,109.18,Not Recurred,Female,Living,malignant
+MB-3614,63.95,Mastectomy,2.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,3.0,34.0,2.0,4.0,5.0680000000000005,235.4,Living,232.3,Not Recurred,Female,Living,malignant
+MB-3702,37.16,Mastectomy,2.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Pre,Right,1.0,5.5,2.0,5.0,5.011,230.4666667,Living,227.43,Not Recurred,Female,Living,malignant
+MB-3706,55.71,Breast Conserving,2.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Post,Right,0.0,18.0,1.0,4.0,4.0360000000000005,38.8,Deceased,28.52,Recurred,Female,Died of Disease,malignant
+MB-3707,70.77,Mastectomy,2.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,1.0,25.0,2.0,2.0,5.05,228.7666667,Deceased,187.47,Recurred,Female,Died of Disease,malignant
+MB-3711,41.52,Mastectomy,2.0,Positve,Positive,1.0,Gain,Negative,Ductal/NST,No,Pre,Left,0.0,20.0,1.0,7.0,2.04,222.1,Living,219.18,Not Recurred,Female,Living,malignant
+MB-3748,51.01,Mastectomy,2.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,15.0,1.0,6.0,4.03,228.0,Living,225.0,Not Recurred,Female,Living,malignant
+MB-3752,49.98,Breast Conserving,2.0,Negative,Negative,3.0,Loss,Negative,Medullary,No,Pre,Left,0.0,15.0,1.0,4.0,4.03,75.33333333,Deceased,64.05,Recurred,Female,Died of Disease,malignant
+MB-3754,57.01,Mastectomy,2.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,25.0,1.0,6.0,4.05,92.73333333,Deceased,42.99,Recurred,Female,Died of Disease,malignant
+MB-3781,48.16,Breast Conserving,2.0,Positve,Positive,2.0,Neutral,Negative,Mixed,No,Pre,Right,0.0,18.0,1.0,5.0,3.036,224.5666667,Living,162.8,Recurred,Female,Living,malignant
+MB-3824,49.45,Mastectomy,2.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Pre,Right,0.0,22.0,1.0,8.0,4.044,126.46666670000002,Deceased,99.31,Recurred,Female,Died of Disease,malignant
+MB-3838,60.45,Breast Conserving,2.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,23.0,1.0,5.0,4.046,134.4666667,Deceased,35.76,Recurred,Female,Died of Disease,malignant
+MB-3840,53.89,Breast Conserving,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Post,Left,0.0,16.0,1.0,5.0,3.032,287.2333333,Living,283.45,Not Recurred,Female,Living,malignant
+MB-3842,54.6,Breast Conserving,2.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,1.0,24.0,2.0,8.0,5.048,226.0666667,Living,223.09,Not Recurred,Female,Living,malignant
+MB-3850,65.89,Mastectomy,2.0,Positve,Positive,2.0,Gain,Positive,Mixed,No,Post,Left,0.0,20.0,1.0,8.0,3.04,72.3,Living,71.35,Not Recurred,Female,Living,malignant
+MB-3852,43.56,Breast Conserving,2.0,Positve,Positive,3.0,Gain,Positive,Ductal/NST,Yes,Pre,Right,0.0,23.0,1.0,4.0,4.046,225.5,Living,222.53,Not Recurred,Female,Living,malignant
+MB-3854,63.82,Breast Conserving,2.0,Negative,Positive,1.0,Neutral,Negative,Mixed,No,Post,Right,0.0,12.0,1.0,8.0,2.024,99.23333333,Living,97.93,Not Recurred,Female,Living,malignant
+MB-3865,49.37,Breast Conserving,2.0,Positve,Positive,1.0,Neutral,Negative,Tubular/ cribriform,Yes,Pre,Right,0.0,15.0,1.0,4.0,2.03,199.9666667,Living,197.34,Not Recurred,Female,Living,malignant
+MB-3866,54.29,Breast Conserving,2.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,No,Post,Right,0.0,12.0,1.0,9.0,4.024,225.5,Living,222.53,Not Recurred,Female,Living,malignant
+MB-3871,62.03,Mastectomy,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,1.0,26.0,2.0,6.0,4.052,172.8,Deceased,170.53,Not Recurred,Female,Died of Other Causes,malignant
+MB-3874,35.5,Breast Conserving,2.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Pre,Right,0.0,15.0,1.0,6.0,3.03,186.4333333,Living,183.98,Not Recurred,Female,Living,malignant
+MB-4000,76.96,Breast Conserving,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Post,Left,0.0,20.0,1.0,3.0,3.04,28.06666667,Deceased,27.7,Not Recurred,Female,Died of Other Causes,malignant
+MB-4001,74.51,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,0.0,40.0,2.0,9.0,3.08,49.66666667,Deceased,28.72,Recurred,Female,Died of Disease,malignant
+MB-4003,70.31,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Post,Right,0.0,20.0,1.0,6.0,3.04,106.5666667,Deceased,26.45,Recurred,Female,Died of Disease,malignant
+MB-4004,61.16,Breast Conserving,3.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,15.0,1.0,8.0,4.03,256.8666667,Deceased,253.49,Recurred,Female,Died of Disease,malignant
+MB-4017,76.17,Mastectomy,3.0,Positve,Positive,3.0,Neutral,Negative,Mixed,Yes,Post,Left,3.0,40.0,2.0,6.0,5.08,139.3,Deceased,137.47,Not Recurred,Female,Died of Other Causes,malignant
+MB-4046,59.24,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Mixed,No,Post,Left,0.0,13.0,1.0,8.0,3.026,298.03333330000004,Deceased,294.11,Not Recurred,Female,Died of Other Causes,malignant
+MB-4127,54.35,Mastectomy,3.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,Yes,Post,Right,6.0,40.0,3.0,8.0,6.08,258.1666667,Deceased,254.77,Not Recurred,Female,Died of Other Causes,malignant
+MB-4140,71.17,Mastectomy,3.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,No,Post,Left,0.0,23.0,2.0,13.0,4.046,114.5,Deceased,112.99,Not Recurred,Female,Died of Other Causes,malignant
+MB-4146,43.06,Mastectomy,3.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Pre,Left,13.0,20.0,2.0,5.0,6.04,15.63333333,Deceased,8.36,Recurred,Female,Died of Disease,malignant
+MB-4154,54.22,Mastectomy,3.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,No,Post,Left,0.0,30.0,2.0,6.0,4.06,49.56666667,Deceased,48.91,Not Recurred,Female,Died of Other Causes,malignant
+MB-4171,64.21,Mastectomy,3.0,Positve,Positive,3.0,Gain,Negative,Mixed,No,Post,Right,0.0,43.0,2.0,5.0,4.086,184.7,Deceased,111.09,Recurred,Female,Died of Disease,malignant
+MB-4173,74.31,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,2.0,10.0,2.0,3.0,4.02,160.33333330000002,Deceased,158.22,Not Recurred,Female,Died of Other Causes,malignant
+MB-4230,75.87,Breast Conserving,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,0.0,50.0,2.0,5.0,3.1,115.6,Deceased,114.08,Not Recurred,Female,Died of Other Causes,malignant
+MB-4233,54.01,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,5.0,30.0,2.0,11.0,5.06,36.36666667,Deceased,16.64,Recurred,Female,Died of Disease,malignant
+MB-4236,73.91,Mastectomy,3.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,1.0,18.0,2.0,7.0,5.0360000000000005,203.7,Deceased,201.02,Not Recurred,Female,Died of Other Causes,malignant
+MB-4266,28.04,Mastectomy,3.0,Negative,Positive,3.0,Neutral,Negative,Ductal/NST,No,Pre,Right,0.0,45.0,2.0,1.0,4.09,33.9,Deceased,17.24,Recurred,Female,Died of Disease,malignant
+MB-4274,74.32,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,3.0,20.0,2.0,7.0,4.04,59.93333333,Deceased,47.17,Recurred,Female,Died of Disease,malignant
+MB-4276,55.07,Mastectomy,3.0,Positve,Positive,2.0,Gain,Positive,Ductal/NST,Yes,Post,Left,1.0,35.0,2.0,7.0,4.07,132.2,Deceased,130.23,Recurred,Female,Died of Disease,malignant
+MB-4281,60.0,Mastectomy,3.0,Positve,Positive,3.0,Gain,Negative,Ductal/NST,Yes,Post,Left,1.0,23.0,2.0,8.0,5.046,260.03333330000004,Deceased,256.61,Not Recurred,Female,Died of Other Causes,malignant
+MB-4283,55.62,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,2.0,40.0,2.0,7.0,4.08,174.83333330000002,Living,172.53,Not Recurred,Female,Living,malignant
+MB-4289,65.49,Mastectomy,3.0,Positve,Positive,1.0,Gain,Positive,Lobular,Yes,Post,Left,0.0,20.0,1.0,5.0,2.04,96.83333333,Deceased,79.93,Recurred,Female,Died of Disease,malignant
+MB-4293,54.16,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Mixed,No,Post,Left,0.0,30.0,2.0,6.0,3.06,219.1666667,Deceased,216.28,Not Recurred,Female,Died of Other Causes,malignant
+MB-4421,69.01,Mastectomy,3.0,Positve,Positive,2.0,Gain,Negative,Ductal/NST,No,Post,Left,0.0,10.0,1.0,10.0,3.02,264.7666667,Deceased,261.28,Not Recurred,Female,Died of Other Causes,malignant
+MB-4529,61.21,Breast Conserving,3.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,15.0,1.0,6.0,2.03,126.46666670000002,Deceased,124.8,Not Recurred,Female,Died of Other Causes,malignant
+MB-4599,63.83,Mastectomy,3.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,3.0,40.0,2.0,8.0,5.08,191.1666667,Living,188.65,Not Recurred,Female,Living,malignant
+MB-4616,71.47,Breast Conserving,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Post,Left,0.0,20.0,1.0,5.0,3.04,90.13333333,Deceased,81.71,Recurred,Female,Died of Disease,malignant
+MB-4618,40.05,Breast Conserving,3.0,Positve,Positive,2.0,Gain,Negative,Mixed,No,Pre,Right,0.0,12.0,1.0,4.0,3.024,267.4,Living,263.88,Not Recurred,Female,Living,malignant
+MB-4621,39.51,Mastectomy,3.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Pre,Right,6.0,53.0,3.0,5.0,6.106,271.8666667,Living,68.42,Recurred,Female,Living,malignant
+MB-4622,40.83,Mastectomy,3.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Pre,Right,2.0,50.0,2.0,4.0,5.1,282.8333333,Deceased,279.11,Not Recurred,Female,Died of Other Causes,malignant
+MB-4623,61.88,Breast Conserving,3.0,Positve,Positive,2.0,Neutral,Negative,Mixed,Yes,Post,Left,4.0,10.0,2.0,5.0,5.02,292.03333330000004,Deceased,288.19,Not Recurred,Female,Died of Other Causes,malignant
+MB-4627,55.65,Mastectomy,3.0,Positve,Positive,3.0,Neutral,Negative,Mixed,Yes,Post,Left,9.0,20.0,2.0,8.0,6.04,186.6333333,Deceased,184.18,Not Recurred,Female,Died of Other Causes,malignant
+MB-4633,67.03,Breast Conserving,3.0,Positve,Positive,3.0,Neutral,Negative,Mixed,Yes,Post,Right,2.0,25.0,2.0,4.0,5.05,318.2,Living,298.88,Recurred,Female,Living,malignant
+MB-4634,66.37,Mastectomy,3.0,Positve,Positive,3.0,Neutral,Negative,Mixed,Yes,Post,Left,2.0,15.0,2.0,6.0,5.03,109.6,Deceased,74.64,Recurred,Female,Died of Disease,malignant
+MB-4639,71.17,Breast Conserving,3.0,Positve,Positive,3.0,Loss,Negative,Ductal/NST,No,Post,Left,0.0,30.0,2.0,3.0,4.06,119.0,Deceased,115.03,Recurred,Female,Died of Disease,malignant
+MB-4640,61.59,Breast Conserving,3.0,Negative,Negative,3.0,Gain,Negative,Ductal/NST,No,Post,Right,0.0,25.0,2.0,6.0,4.05,200.6,Living,197.96,Not Recurred,Female,Living,malignant
+MB-4641,64.93,Mastectomy,3.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,2.0,15.0,2.0,6.0,5.03,148.56666669999998,Deceased,43.72,Recurred,Female,Died of Other Causes,malignant
+MB-4642,66.27,Breast Conserving,3.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,1.0,35.0,2.0,6.0,5.07,285.7,Deceased,281.94,Recurred,Female,Died of Disease,malignant
+MB-4643,78.21,Mastectomy,3.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,No,Post,Left,0.0,15.0,1.0,6.0,4.03,41.46666667,Deceased,24.74,Recurred,Female,Died of Disease,malignant
+MB-4648,75.19,Mastectomy,3.0,Positve,Positive,3.0,Gain,Negative,Ductal/NST,No,Post,Left,0.0,20.0,1.0,1.0,4.04,168.5333333,Deceased,166.32,Not Recurred,Female,Died of Other Causes,malignant
+MB-4649,61.67,Breast Conserving,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Post,Right,0.0,25.0,2.0,15.0,3.05,16.83333333,Deceased,16.61,Not Recurred,Female,Died of Other Causes,malignant
+MB-4651,69.96,Breast Conserving,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Post,Left,0.0,35.0,2.0,4.0,3.07,30.3,Deceased,17.86,Recurred,Female,Died of Disease,malignant
+MB-4653,44.5,Mastectomy,3.0,Positve,Positive,3.0,Gain,Negative,Ductal/NST,No,Pre,Left,0.0,31.0,2.0,7.0,4.062,48.13333333,Deceased,20.0,Recurred,Female,Died of Disease,malignant
+MB-4655,64.01,Mastectomy,3.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,1.0,16.0,2.0,6.0,5.032,99.0,Deceased,97.7,Not Recurred,Female,Died of Other Causes,malignant
+MB-4661,81.11,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Post,Right,0.0,25.0,2.0,9.0,3.05,234.2333333,Living,231.15,Not Recurred,Female,Living,malignant
+MB-4663,61.97,Mastectomy,3.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,No,Post,Left,0.0,40.0,2.0,5.0,4.08,239.3333333,Living,236.18,Not Recurred,Female,Living,malignant
+MB-4665,54.27,Mastectomy,3.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,No,Post,Right,0.0,18.0,1.0,3.0,4.0360000000000005,260.2,Living,256.78,Not Recurred,Female,Living,malignant
+MB-4666,57.98,Mastectomy,3.0,Positve,Positive,3.0,Loss,Negative,Ductal/NST,Yes,Post,Right,9.0,15.0,2.0,5.0,6.03,111.5666667,Deceased,78.88,Recurred,Female,Died of Disease,malignant
+MB-4667,65.58,Breast Conserving,3.0,Negative,Negative,3.0,Neutral,Negative,Lobular,No,Post,Left,0.0,20.0,1.0,40.0,4.04,295.3333333,Deceased,291.45,Not Recurred,Female,Died of Other Causes,malignant
+MB-4669,68.82,Breast Conserving,3.0,Positve,Positive,3.0,Loss,Negative,Ductal/NST,Yes,Post,Right,0.0,20.0,1.0,6.0,4.04,119.46666670000002,Deceased,117.89,Not Recurred,Female,Died of Other Causes,malignant
+MB-4670,61.0,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Post,Right,0.0,20.0,1.0,7.0,3.04,67.8,Deceased,42.83,Recurred,Female,Died of Disease,malignant
+MB-4671,72.48,Breast Conserving,3.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,No,Post,Left,0.0,30.0,2.0,2.0,4.06,34.7,Deceased,8.52,Recurred,Female,Died of Disease,malignant
+MB-4673,63.27,Mastectomy,3.0,Positve,Positive,2.0,Gain,Negative,Ductal/NST,Yes,Post,Right,2.0,20.0,3.0,1.0,4.04,87.0,Deceased,53.42,Recurred,Female,Died of Disease,malignant
+MB-4674,75.26,Mastectomy,3.0,Positve,Positive,2.0,Loss,Negative,Ductal/NST,Yes,Post,Right,3.0,40.0,2.0,9.0,4.08,81.06666667,Deceased,64.97,Recurred,Female,Died of Disease,malignant
+MB-4675,59.23,Breast Conserving,3.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,No,Post,Left,0.0,18.0,1.0,7.0,4.0360000000000005,263.03333330000004,Living,259.57,Not Recurred,Female,Living,malignant
+MB-4679,64.11,Mastectomy,3.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Post,Left,0.0,15.0,1.0,4.0,4.03,292.6666667,Deceased,288.82,Not Recurred,Female,Died of Other Causes,malignant
+MB-4685,73.6,Mastectomy,3.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,8.0,50.0,2.0,2.0,6.1,43.3,Deceased,42.73,Not Recurred,Female,Died of Other Causes,malignant
+MB-4686,53.03,Mastectomy,3.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,3.0,35.0,2.0,2.0,5.07,48.43333333,Deceased,42.24,Recurred,Female,Died of Disease,malignant
+MB-4687,81.98,Mastectomy,3.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,1.0,20.0,2.0,4.0,5.04,74.1,Deceased,73.13,Not Recurred,Female,Died of Other Causes,malignant
+MB-4688,71.17,Mastectomy,3.0,Positve,Positive,2.0,Gain,Positive,Ductal/NST,Yes,Post,Left,9.0,45.0,3.0,7.0,5.09,85.3,Deceased,36.97,Recurred,Female,Died of Disease,malignant
+MB-4691,49.76,Mastectomy,3.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,No,Pre,Left,0.0,10.0,1.0,16.0,4.02,282.5666667,Deceased,273.29,Recurred,Female,Died of Disease,malignant
+MB-4694,76.06,Breast Conserving,3.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,No,Post,Right,0.0,20.0,1.0,5.0,4.04,198.3,Living,195.69,Not Recurred,Female,Living,malignant
+MB-4695,61.12,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Lobular,Yes,Post,Left,2.0,50.0,2.0,6.0,4.1,21.3,Deceased,21.02,Not Recurred,Female,Died of Other Causes,malignant
+MB-4698,59.18,Mastectomy,3.0,Positve,Positive,3.0,Neutral,Negative,Lobular,Yes,Post,Left,1.0,20.0,2.0,6.0,5.04,170.66666669999998,Deceased,127.47,Recurred,Female,Died of Disease,malignant
+MB-4701,47.62,Breast Conserving,3.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,No,Pre,Left,0.0,25.0,2.0,8.0,4.05,127.53333329999998,Living,125.86,Not Recurred,Female,Living,malignant
+MB-4702,52.13,Mastectomy,3.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,0.0,35.0,2.0,6.0,4.07,300.8666667,Living,296.91,Not Recurred,Female,Living,malignant
+MB-4704,67.79,Mastectomy,3.0,Positve,Positive,3.0,Gain,Negative,Mixed,No,Post,Right,0.0,49.0,2.0,3.0,4.098,64.0,Deceased,63.16,Recurred,Female,Died of Disease,malignant
+MB-4705,63.58,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Post,Left,0.0,27.0,2.0,4.0,3.054,213.1,Deceased,102.66,Recurred,Female,Died of Other Causes,malignant
+MB-4706,75.48,Breast Conserving,3.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,No,Post,Left,0.0,15.0,1.0,3.0,4.03,55.66666667,Deceased,54.93,Not Recurred,Female,Died of Other Causes,malignant
+MB-4707,59.85,Breast Conserving,3.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Post,Right,0.0,27.0,2.0,12.0,4.053999999999999,221.2,Living,218.29,Not Recurred,Female,Living,malignant
+MB-4708,63.03,Mastectomy,3.0,Positve,Positive,3.0,Neutral,Negative,Lobular,No,Post,Right,0.0,18.0,1.0,11.0,4.0360000000000005,227.9,Deceased,18.45,Recurred,Female,Died of Other Causes,malignant
+MB-4709,49.02,Breast Conserving,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Pre,Left,0.0,20.0,1.0,4.0,3.04,146.7666667,Living,144.84,Not Recurred,Female,Living,malignant
+MB-4710,77.12,Mastectomy,3.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,19.0,1.0,12.0,4.038,57.66666667,Living,56.91,Not Recurred,Female,Living,malignant
+MB-4711,56.07,Mastectomy,3.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,No,Post,Left,11.0,99.0,3.0,4.0,6.198,31.46666667,Deceased,13.55,Recurred,Female,Died of Disease,malignant
+MB-4712,46.59,Mastectomy,3.0,Negative,Positive,3.0,Neutral,Negative,Ductal/NST,No,Pre,Right,0.0,50.0,2.0,4.0,4.1,249.5333333,Deceased,246.25,Not Recurred,Female,Died of Other Causes,malignant
+MB-4714,64.68,Mastectomy,3.0,Negative,Negative,3.0,Neutral,Negative,Medullary,Yes,Post,Right,11.0,1.0,2.0,7.0,6.002000000000001,83.66666667,Deceased,82.57,Not Recurred,Female,Died of Other Causes,malignant
+MB-4715,67.8,Mastectomy,3.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Post,Right,1.0,45.0,2.0,7.0,5.09,35.23333333,Deceased,23.52,Recurred,Female,Died of Disease,malignant
+MB-4716,52.98,Breast Conserving,3.0,Positve,Positive,3.0,Neutral,Negative,Lobular,No,Post,Left,0.0,28.0,2.0,7.0,4.056,76.13333333,Deceased,22.34,Recurred,Female,Died of Disease,malignant
+MB-4717,43.51,Mastectomy,3.0,Negative,Negative,3.0,Loss,Negative,Ductal/NST,No,Pre,Right,0.0,25.0,2.0,3.0,4.05,42.9,Deceased,26.02,Recurred,Female,Died of Disease,malignant
+MB-4718,44.27,Mastectomy,3.0,Positve,Positive,1.0,Neutral,Negative,Lobular,Yes,Pre,Right,0.0,99.0,2.0,4.0,2.198,198.3333333,Deceased,49.21,Recurred,Female,Died of Disease,malignant
+MB-4719,67.27,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,4.0,22.0,2.0,9.0,5.044,81.56666667,Deceased,80.49,Not Recurred,Female,Died of Other Causes,malignant
+MB-4721,66.39,Mastectomy,3.0,Positve,Positive,1.0,Neutral,Negative,Lobular,Yes,Post,Left,5.0,60.0,3.0,7.0,4.12,23.73333333,Deceased,20.26,Recurred,Female,Died of Disease,normal
+MB-4723,64.76,Mastectomy,3.0,Positve,Positive,3.0,Gain,Negative,Ductal/NST,No,Post,Left,0.0,15.0,1.0,4.0,4.03,211.9666667,Living,209.18,Not Recurred,Female,Living,normal
+MB-4724,60.44,Breast Conserving,3.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,No,Post,Left,0.0,20.0,1.0,6.0,4.04,146.06666669999998,Living,144.14,Not Recurred,Female,Living,normal
+MB-4725,65.83,Mastectomy,3.0,Positve,Positive,3.0,Gain,Positive,Ductal/NST,Yes,Post,Left,1.0,26.0,2.0,7.0,5.052,98.76666667,Deceased,73.06,Recurred,Female,Died of Disease,normal
+MB-4730,51.29,Mastectomy,3.0,Positve,Positive,3.0,Neutral,Negative,Mixed,No,Post,Right,0.0,68.0,2.0,10.0,4.136,131.3,Deceased,129.57,Not Recurred,Female,Died of Other Causes,normal
+MB-4732,26.72,Breast Conserving,3.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Pre,Left,3.0,45.0,2.0,3.0,5.09,149.8666667,Living,147.89,Not Recurred,Female,Living,normal
+MB-4733,56.27,Breast Conserving,3.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,4.0,18.0,2.0,6.0,6.0360000000000005,19.73333333,Deceased,10.13,Recurred,Female,Died of Disease,normal
+MB-4735,54.18,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Post,Left,0.0,40.0,2.0,3.0,3.08,297.8,Living,131.71,Recurred,Female,Living,normal
+MB-4737,52.29,Mastectomy,3.0,Positve,Positive,3.0,Loss,Negative,Ductal/NST,Yes,Post,Left,1.0,46.0,2.0,6.0,5.092,122.2,Living,120.59,Not Recurred,Female,Living,normal
+MB-4738,42.27,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Mixed,No,Pre,Left,0.0,20.0,1.0,5.0,3.04,176.06666669999998,Living,173.75,Not Recurred,Female,Living,normal
+MB-4739,56.08,Breast Conserving,3.0,Positve,Positive,2.0,Neutral,Negative,Mixed,No,Post,Right,0.0,15.0,1.0,9.0,3.03,161.66666669999998,Deceased,32.11,Recurred,Female,Died of Other Causes,normal
+MB-4741,53.02,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Lobular,Yes,Post,Left,1.0,20.0,2.0,6.0,4.04,56.5,Deceased,21.91,Recurred,Female,Died of Disease,normal
+MB-4743,52.61,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Mixed,No,Post,Left,0.0,15.0,1.0,7.0,3.03,230.1666667,Living,143.68,Recurred,Female,Living,normal
+MB-4745,50.08,Breast Conserving,3.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,No,Post,Right,1.0,37.0,2.0,15.0,5.074,42.66666667,Deceased,29.67,Recurred,Female,Died of Disease,normal
+MB-4749,70.57,Mastectomy,3.0,Positve,Positive,3.0,Neutral,Negative,Mixed,No,Post,Left,0.0,22.0,2.0,14.0,4.044,51.46666667,Deceased,50.79,Not Recurred,Female,Died of Other Causes,normal
+MB-4750,73.21,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,1.0,25.0,2.0,6.0,4.05,37.73333333,Deceased,36.58,Recurred,Female,Died of Disease,normal
+MB-4752,63.7,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,1.0,60.0,3.0,3.0,4.12,125.26666670000002,Deceased,73.68,Recurred,Female,Died of Disease,normal
+MB-4762,67.82,Breast Conserving,3.0,Positve,Positive,2.0,Neutral,Negative,Tubular/ cribriform,No,Post,Right,0.0,15.0,1.0,6.0,3.03,252.1,Living,248.78,Not Recurred,Female,Living,normal
+MB-4763,44.07,Breast Conserving,3.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,No,Pre,Right,1.0,30.0,2.0,4.0,5.06,102.1,Living,100.76,Not Recurred,Female,Living,normal
+MB-4764,57.95,Mastectomy,3.0,Positve,Positive,3.0,Neutral,Negative,Lobular,Yes,Post,Left,0.0,50.0,2.0,4.0,4.1,245.5,Living,242.27,Not Recurred,Female,Living,normal
+MB-4767,74.86,Mastectomy,3.0,Positve,Positive,3.0,Loss,Negative,Ductal/NST,Yes,Post,Left,1.0,40.0,2.0,4.0,5.08,47.13333333,Deceased,41.22,Recurred,Female,Died of Disease,normal
+MB-4769,65.86,Breast Conserving,3.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Post,Left,0.0,35.0,2.0,11.0,4.07,21.7,Deceased,7.57,Recurred,Female,Died of Disease,normal
+MB-4770,70.22,Mastectomy,3.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,No,Post,Left,0.0,13.0,1.0,10.0,4.026,152.06666669999998,Deceased,150.07,Not Recurred,Female,Died of Other Causes,normal
+MB-4771,47.86,Breast Conserving,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Pre,Left,0.0,30.0,2.0,3.0,3.06,297.2333333,Living,293.32,Not Recurred,Female,Living,normal
+MB-4778,78.62,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Mixed,No,Post,Left,0.0,25.0,2.0,11.0,3.05,206.1333333,Deceased,203.42,Not Recurred,Female,Died of Other Causes,normal
+MB-4779,53.39,Breast Conserving,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,2.0,13.0,2.0,7.0,4.026,101.5666667,Living,100.23,Not Recurred,Female,Living,normal
+MB-4785,75.46,Breast Conserving,3.0,Positve,Positive,2.0,Loss,Negative,Ductal/NST,No,Post,Left,0.0,28.0,2.0,5.0,3.056,121.6666667,Deceased,64.47,Recurred,Female,Died of Disease,normal
+MB-4787,68.85,Mastectomy,3.0,Positve,Positive,2.0,Gain,Negative,Ductal/NST,No,Post,Right,0.0,30.0,2.0,8.0,3.06,81.06666667,Deceased,80.0,Not Recurred,Female,Died of Other Causes,normal
+MB-4790,43.73,Mastectomy,3.0,Positve,Positive,2.0,Gain,Negative,Ductal/NST,No,Pre,Left,0.0,28.0,2.0,6.0,3.056,70.46666667,Deceased,28.91,Recurred,Female,Died of Disease,normal
+MB-4791,83.49,Mastectomy,3.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,No,Post,Left,0.0,20.0,1.0,46.0,2.04,173.83333330000002,Deceased,171.55,Not Recurred,Female,Died of Other Causes,normal
+MB-4792,49.92,Breast Conserving,3.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Pre,Right,2.0,20.0,2.0,6.0,5.04,40.63333333,Deceased,35.1,Recurred,Female,Died of Disease,normal
+MB-4796,53.18,Mastectomy,3.0,Positve,Positive,2.0,Gain,Positive,Ductal/NST,No,Post,Right,0.0,25.0,2.0,4.0,3.05,128.2666667,Living,8.95,Recurred,Female,Living,normal
+MB-4797,81.06,Mastectomy,3.0,Positve,Positive,2.0,Gain,Negative,Lobular,Yes,Post,Right,0.0,20.0,1.0,2.0,3.04,99.36666667,Deceased,98.06,Not Recurred,Female,Died of Other Causes,normal
+MB-4800,61.3,Mastectomy,3.0,Positve,Positive,3.0,Gain,Negative,Ductal/NST,No,Post,Right,0.0,25.0,2.0,8.0,4.05,110.9333333,Deceased,26.84,Recurred,Female,Died of Disease,normal
+MB-4801,65.83,Mastectomy,3.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,7.0,35.0,2.0,12.0,6.07,130.36666670000002,Deceased,128.65,Not Recurred,Female,Died of Other Causes,normal
+MB-4805,45.39,Mastectomy,3.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Pre,Left,0.0,35.0,2.0,6.0,4.07,129.8,Deceased,48.36,Recurred,Female,Died of Disease,normal
+MB-4806,49.77,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Pre,Left,1.0,10.0,2.0,4.0,4.02,201.7666667,Deceased,199.11,Not Recurred,Female,Died of Other Causes,normal
+MB-4809,43.77,Mastectomy,3.0,Negative,Positive,3.0,Gain,Negative,Ductal/NST,No,Pre,Left,0.0,14.0,1.0,4.0,4.0280000000000005,286.0666667,Living,282.3,Not Recurred,Female,Living,normal
+MB-4814,39.92,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Pre,Right,0.0,50.0,2.0,3.0,3.1,73.46666667,Deceased,53.06,Recurred,Female,Died of Disease,normal
+MB-4818,75.74,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Mixed,Yes,Post,Left,1.0,57.0,3.0,5.0,4.114,76.23333333,Deceased,75.23,Not Recurred,Female,Died of Other Causes,normal
+MB-4822,76.88,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Mixed,No,Post,Left,0.0,10.0,1.0,4.0,3.02,91.63333333,Deceased,89.44,Recurred,Female,Died of Disease,normal
+MB-4825,65.93,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Post,Left,0.0,10.0,1.0,6.0,3.02,214.4333333,Deceased,211.61,Not Recurred,Female,Died of Other Causes,normal
+MB-4827,78.54,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Tubular/ cribriform,Yes,Post,Left,0.0,22.0,2.0,5.0,3.044,45.7,Deceased,45.1,Not Recurred,Female,Died of Other Causes,normal
+MB-4828,78.87,Mastectomy,3.0,Positve,Positive,3.0,Neutral,Negative,Lobular,Yes,Post,Left,2.0,80.0,3.0,8.0,5.16,42.5,Deceased,22.04,Recurred,Female,Died of Disease,normal
+MB-4832,45.44,Breast Conserving,3.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,No,Pre,Left,0.0,11.0,1.0,4.0,2.022,141.7333333,Deceased,125.86,Recurred,Female,Died of Disease,normal
+MB-4846,63.07,Breast Conserving,3.0,Positve,Positive,2.0,Gain,Positive,Lobular,Yes,Post,Right,0.0,25.0,2.0,6.0,3.05,101.6333333,Deceased,25.82,Recurred,Female,Died of Disease,normal
+MB-4849,81.52,Mastectomy,3.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,30.0,2.0,5.0,4.06,45.33333333,Deceased,10.86,Recurred,Female,Died of Disease,normal
+MB-4851,73.95,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,1.0,25.0,2.0,7.0,4.05,90.26666667,Deceased,85.43,Recurred,Female,Died of Disease,normal
+MB-4859,74.29,Breast Conserving,3.0,Positve,Negative,2.0,Neutral,Negative,Ductal/NST,No,Post,Right,0.0,17.0,1.0,4.0,3.034,157.8,Deceased,155.72,Not Recurred,Female,Died of Other Causes,normal
+MB-4860,44.95,Breast Conserving,3.0,Positve,Positive,2.0,Neutral,Negative,Lobular,No,Pre,Right,0.0,10.0,1.0,6.0,3.02,234.6,Living,37.07,Recurred,Female,Living,normal
+MB-4862,64.32,Breast Conserving,3.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,23.0,2.0,10.0,4.046,187.3,Living,184.84,Not Recurred,Female,Living,normal
+MB-4865,50.7,Mastectomy,3.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Post,Right,0.0,35.0,2.0,8.0,4.07,229.9,Living,226.88,Not Recurred,Female,Living,normal
+MB-4866,43.86,Mastectomy,3.0,Positve,Positive,1.0,Gain,Negative,Ductal/NST,No,Pre,Right,0.0,20.0,1.0,2.0,2.04,224.3,Living,221.35,Not Recurred,Female,Living,normal
+MB-4867,47.03,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Pre,Left,0.0,25.0,2.0,5.0,3.05,221.9,Living,218.98,Not Recurred,Female,Living,normal
+MB-4869,67.12,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,2.0,30.0,2.0,6.0,4.06,29.3,Deceased,27.66,Recurred,Female,Died of Disease,normal
+MB-4870,57.33,Breast Conserving,3.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,No,Post,Right,0.0,25.0,2.0,4.0,2.05,229.0666667,Living,225.23,Recurred,Female,Living,normal
+MB-4871,74.53,Mastectomy,3.0,Negative,Negative,2.0,Gain,Positive,Ductal/NST,No,Post,Left,0.0,40.0,2.0,8.0,3.08,39.8,Deceased,36.61,Recurred,Female,Died of Disease,normal
+MB-4876,42.45,Breast Conserving,3.0,Positve,Positive,2.0,Neutral,Negative,Lobular,No,Pre,Left,0.0,28.0,2.0,5.0,3.056,150.6,Deceased,123.88,Recurred,Female,Died of Disease,normal
+MB-4878,79.35,Mastectomy,3.0,Positve,Positive,2.0,Gain,Positive,Ductal/NST,No,Post,Left,0.0,25.0,2.0,5.0,3.05,22.46666667,Deceased,18.13,Recurred,Female,Died of Disease,normal
+MB-4886,43.42,Mastectomy,3.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,No,Pre,Right,1.0,45.0,2.0,13.0,5.09,48.16666667,Deceased,31.09,Recurred,Female,Died of Disease,normal
+MB-4887,52.09,Mastectomy,3.0,Positve,Positive,3.0,Gain,Negative,Ductal/NST,Yes,Post,Right,3.0,33.0,2.0,11.0,5.066,35.4,Deceased,9.05,Recurred,Female,Died of Disease,normal
+MB-4888,63.95,Breast Conserving,3.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Post,Right,0.0,16.0,1.0,8.0,4.032,230.5,Living,227.47,Not Recurred,Female,Living,normal
+MB-4893,33.04,Mastectomy,3.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Pre,Left,3.0,20.0,2.0,6.0,5.04,176.7,Living,174.38,Not Recurred,Female,Living,normal
+MB-4894,47.71,Mastectomy,3.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,No,Pre,Left,0.0,35.0,2.0,4.0,4.07,232.4,Living,229.34,Not Recurred,Female,Living,normal
+MB-4896,41.53,Mastectomy,3.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,No,Pre,Left,0.0,30.0,2.0,5.0,4.06,64.86666667,Deceased,16.58,Recurred,Female,Died of Disease,normal
+MB-4897,40.04,Mastectomy,3.0,Positve,Positive,1.0,Neutral,Negative,Mixed,No,Pre,Left,0.0,1.0,1.0,5.0,2.002,197.4333333,Living,194.84,Not Recurred,Female,Living,normal
+MB-4899,40.25,Breast Conserving,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Pre,Left,0.0,20.0,1.0,8.0,3.04,275.7333333,Living,123.91,Recurred,Female,Living,normal
+MB-4900,47.61,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Pre,Left,0.0,18.0,1.0,5.0,3.036,224.6,Living,221.64,Not Recurred,Female,Living,normal
+MB-4906,73.03,Mastectomy,3.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,2.0,26.0,2.0,3.0,3.052,233.8666667,Deceased,230.79,Not Recurred,Female,Died of Other Causes,normal
+MB-4908,69.87,Mastectomy,3.0,Positve,Positive,3.0,Gain,Positive,Ductal/NST,Yes,Post,Left,3.0,40.0,2.0,9.0,5.08,47.9,Deceased,40.43,Recurred,Female,Died of Disease,normal
+MB-4911,43.51,Mastectomy,3.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Pre,Left,2.0,15.0,2.0,4.0,5.03,31.43333333,Deceased,23.09,Recurred,Female,Died of Disease,normal
+MB-4912,78.19,Breast Conserving,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,3.0,28.0,2.0,3.0,4.056,50.0,Deceased,22.96,Recurred,Female,Died of Disease,normal
+MB-4929,59.49,Mastectomy,3.0,Positve,Negative,3.0,Gain,Positive,Ductal/NST,Yes,Post,Right,6.0,26.0,2.0,10.0,6.0520000000000005,40.0,Deceased,12.53,Recurred,Female,Died of Disease,normal
+MB-4930,62.43,Mastectomy,3.0,Positve,Positive,3.0,Gain,Positive,Ductal/NST,Yes,Post,Left,2.0,30.0,2.0,6.0,5.06,58.43333333,Living,57.66,Not Recurred,Female,Living,normal
+MB-4933,50.78,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Post,Right,0.0,30.0,2.0,2.0,3.06,272.9,Living,21.55,Recurred,Female,Living,normal
+MB-4934,74.85,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,4.0,28.0,2.0,10.0,5.056,70.23333333,Living,69.31,Not Recurred,Female,Living,normal
+MB-4935,36.35,Mastectomy,3.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,Yes,Pre,Left,3.0,23.0,2.0,4.0,5.046,194.2,Living,191.64,Not Recurred,Female,Living,normal
+MB-4937,41.09,Mastectomy,3.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,No,Pre,Right,0.0,20.0,1.0,5.0,4.04,77.23333333,Deceased,32.14,Recurred,Female,Died of Disease,normal
+MB-4938,33.92,Breast Conserving,3.0,Negative,Negative,2.0,Neutral,Negative,Ductal/NST,No,Pre,Left,1.0,25.0,2.0,30.0,4.05,70.6,Deceased,27.96,Recurred,Female,Died of Disease,normal
+MB-4941,57.32,Breast Conserving,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Post,Left,0.0,20.0,1.0,3.0,3.04,58.63333333,Deceased,53.78,Recurred,Female,Died of Disease,normal
+MB-4942,60.31,Breast Conserving,3.0,Negative,Negative,3.0,Gain,Negative,Ductal/NST,No,Post,Right,0.0,27.0,2.0,6.0,4.053999999999999,124.1333333,Deceased,122.5,Not Recurred,Female,Died of Other Causes,normal
+MB-4944,77.77,Breast Conserving,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Post,Left,0.0,18.0,1.0,5.0,3.036,237.2666667,Deceased,234.14,Not Recurred,Female,Died of Other Causes,normal
+MB-4950,69.99,Mastectomy,3.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,12.0,30.0,2.0,5.0,6.06,150.6,Deceased,148.62,Recurred,Female,Died of Disease,normal
+MB-4952,67.15,Breast Conserving,3.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,No,Post,Left,0.0,21.0,2.0,10.0,4.042,184.4,Living,181.97,Not Recurred,Female,Living,normal
+MB-4956,69.31,Mastectomy,3.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,4.0,60.0,3.0,2.0,6.12,69.3,Deceased,36.97,Recurred,Female,Died of Disease,normal
+MB-4959,76.93,Breast Conserving,3.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,13.0,1.0,8.0,2.026,117.5666667,Deceased,115.26,Recurred,Female,Died of Disease,normal
+MB-4961,56.94,Breast Conserving,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Post,Right,0.0,25.0,2.0,10.0,3.05,219.4666667,Living,216.58,Not Recurred,Female,Living,normal
+MB-4965,69.93,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Mixed,Yes,Post,Left,0.0,30.0,2.0,7.0,3.06,263.6,Deceased,260.13,Not Recurred,Female,Died of Other Causes,normal
+MB-4966,55.83,Mastectomy,3.0,Positve,Positive,1.0,Neutral,Negative,Mixed,Yes,Post,Left,6.0,50.0,2.0,5.0,4.1,49.3,Deceased,46.68,Recurred,Female,Died of Disease,normal
+MB-4967,61.16,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,1.0,15.0,2.0,6.0,4.03,130.7,Deceased,128.98,Not Recurred,Female,Died of Other Causes,normal
+MB-4968,56.03,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Lobular,Yes,Post,Left,5.0,25.0,2.0,7.0,5.05,78.7,Living,77.66,Not Recurred,Female,Living,normal
+MB-4969,76.81,Breast Conserving,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Post,Right,0.0,25.0,2.0,17.0,3.05,198.1,Deceased,195.49,Not Recurred,Female,Died of Other Causes,normal
+MB-4974,65.16,Breast Conserving,3.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Post,Left,0.0,18.0,1.0,5.0,4.0360000000000005,176.1,Deceased,173.78,Not Recurred,Female,Died of Other Causes,normal
+MB-4986,41.0,Breast Conserving,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Pre,Right,0.0,50.0,2.0,8.0,3.1,79.8,Deceased,9.11,Recurred,Female,Died of Disease,normal
+MB-4987,76.37,Mastectomy,3.0,Negative,Positive,2.0,Neutral,Negative,Ductal/NST,No,Post,Right,0.0,20.0,1.0,7.0,3.04,221.7666667,Deceased,218.85,Not Recurred,Female,Died of Other Causes,normal
+MB-4991,77.13,Mastectomy,3.0,Positve,Positive,3.0,Gain,Negative,Ductal/NST,Yes,Post,Right,1.0,40.0,2.0,4.0,5.08,126.8666667,Living,125.2,Not Recurred,Female,Living,normal
+MB-4992,66.47,Mastectomy,3.0,Negative,Negative,2.0,Neutral,Negative,Lobular,No,Post,Left,0.0,33.0,2.0,9.0,3.0660000000000003,165.3666667,Living,163.19,Not Recurred,Female,Living,normal
+MB-4993,33.55,Breast Conserving,3.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Pre,Left,4.0,50.0,2.0,15.0,6.1,75.23333333,Deceased,63.55,Recurred,Female,Died of Disease,normal
+MB-4994,77.54,Breast Conserving,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Post,Left,0.0,22.0,2.0,6.0,3.044,174.1333333,Deceased,171.84,Not Recurred,Female,Died of Other Causes,normal
+MB-4996,69.65,Mastectomy,3.0,Positve,Positive,1.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,1.0,18.0,2.0,11.0,3.036,99.76666667,Deceased,98.45,Not Recurred,Female,Died of Other Causes,normal
+MB-4998,75.27,Mastectomy,3.0,Positve,Positive,3.0,Neutral,Negative,Lobular,Yes,Post,Left,6.0,32.0,2.0,10.0,6.064,65.56666667,Deceased,17.34,Recurred,Female,Died of Disease,normal
+MB-4999,44.84,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Pre,Right,0.0,30.0,2.0,6.0,3.06,187.9333333,Living,185.46,Not Recurred,Female,Living,normal
+MB-5001,71.61,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,1.0,21.0,2.0,9.0,4.042,81.8,Deceased,17.86,Recurred,Female,Died of Disease,normal
+MB-5004,42.84,Mastectomy,3.0,Negative,Positive,3.0,Neutral,Negative,Ductal/NST,No,Pre,Left,2.0,37.0,2.0,17.0,5.074,216.7333333,Living,213.88,Not Recurred,Female,Living,normal
+MB-5008,65.76,Breast Conserving,3.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Post,Left,2.0,60.0,3.0,4.0,5.12,223.3,Living,220.36,Not Recurred,Female,Living,normal
+MB-5011,67.68,Breast Conserving,3.0,Positve,Positive,2.0,Neutral,Negative,Mixed,No,Post,Right,0.0,23.0,2.0,4.0,3.0460000000000003,80.5,Deceased,79.44,Not Recurred,Female,Died of Other Causes,normal
+MB-5013,68.56,Breast Conserving,3.0,Positve,Positive,2.0,Neutral,Negative,Tubular/ cribriform,Yes,Post,Left,1.0,20.0,2.0,3.0,4.04,251.2,Deceased,247.89,Not Recurred,Female,Died of Other Causes,normal
+MB-5015,44.36,Breast Conserving,3.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,No,Pre,Right,0.0,22.0,2.0,5.0,4.044,252.3,Deceased,248.98,Not Recurred,Female,Died of Other Causes,normal
+MB-5017,65.86,Mastectomy,3.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,6.0,14.0,2.0,4.0,6.028,144.93333330000002,Living,143.03,Not Recurred,Female,Living,normal
+MB-5018,72.12,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,3.0,30.0,2.0,3.0,4.06,108.6,Deceased,107.17,Not Recurred,Female,Died of Other Causes,normal
+MB-5019,49.88,Breast Conserving,3.0,Negative,Negative,3.0,Gain,Negative,Ductal/NST,No,Pre,Right,0.0,12.0,1.0,4.0,4.024,37.8,Deceased,28.75,Recurred,Female,Died of Disease,normal
+MB-5020,62.68,Breast Conserving,3.0,Positve,Positive,3.0,Loss,Negative,Mixed,Yes,Post,Left,4.0,17.0,2.0,8.0,6.034,84.83333333,Deceased,24.84,Recurred,Female,Died of Disease,normal
+MB-5027,46.95,Breast Conserving,3.0,Positve,Positive,3.0,Neutral,Negative,Mixed,No,Pre,Right,0.0,25.0,2.0,5.0,4.05,189.8666667,Living,187.37,Not Recurred,Female,Living,normal
+MB-5033,63.92,Breast Conserving,3.0,Positve,Positive,1.0,Neutral,Negative,Mucinous,No,Post,Right,0.0,43.0,2.0,8.0,2.086,52.73333333,Deceased,15.66,Recurred,Female,Died of Disease,normal
+MB-5035,56.47,Mastectomy,3.0,Positve,Positive,3.0,Neutral,Negative,Mixed,No,Post,Left,0.0,55.0,2.0,19.0,4.11,213.2,Deceased,210.39,Recurred,Female,Died of Disease,normal
+MB-5039,67.7,Mastectomy,3.0,Positve,Positive,3.0,Gain,Positive,Ductal/NST,Yes,Post,Left,1.0,55.0,3.0,2.0,5.11,62.13333333,Deceased,40.56,Recurred,Female,Died of Disease,normal
+MB-5040,72.73,Mastectomy,3.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,0.0,40.0,2.0,4.0,4.08,79.16666667,Deceased,78.13,Not Recurred,Female,Died of Other Causes,normal
+MB-5041,45.4,Breast Conserving,3.0,Positve,Negative,3.0,Neutral,Negative,Ductal/NST,No,Pre,Left,0.0,20.0,1.0,2.0,4.04,173.93333330000002,Living,171.64,Recurred,Female,Living,normal
+MB-5043,70.42,Breast Conserving,3.0,Positve,Positive,3.0,Neutral,Negative,Mixed,Yes,Post,Right,6.0,40.0,3.0,5.0,6.08,128.36666670000002,Deceased,117.04,Recurred,Female,Died of Disease,normal
+MB-5044,55.56,Breast Conserving,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Post,Left,0.0,17.0,1.0,2.0,3.034,139.43333330000002,Living,137.6,Not Recurred,Female,Living,normal
+MB-5045,70.11,Breast Conserving,3.0,Positve,Positive,3.0,Neutral,Negative,Ductal/NST,No,Post,Left,0.0,25.0,2.0,13.0,4.05,168.3,Deceased,166.09,Not Recurred,Female,Died of Other Causes,normal
+MB-5048,44.12,Breast Conserving,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,No,Pre,Left,0.0,16.0,1.0,8.0,3.032,86.36666667,Deceased,42.27,Recurred,Female,Died of Disease,normal
+MB-5049,61.76,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Mixed,No,Post,Left,0.0,17.0,1.0,3.0,3.034,255.3,Living,251.94,Not Recurred,Female,Living,normal
+MB-5050,55.04,Breast Conserving,3.0,Positve,Positive,2.0,Neutral,Negative,Mixed,Yes,Post,Right,0.0,15.0,1.0,9.0,3.03,184.3333333,Living,181.91,Not Recurred,Female,Living,normal
+MB-5052,76.66,Mastectomy,3.0,Positve,Negative,3.0,Gain,Negative,Ductal/NST,Yes,Post,Left,2.0,35.0,2.0,3.0,5.07,34.56666667,Deceased,34.11,Not Recurred,Female,Died of Other Causes,normal
+MB-5054,52.57,Mastectomy,3.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,No,Post,Left,0.0,1.0,1.0,4.0,4.002,187.7,Living,185.23,Not Recurred,Female,Living,normal
+MB-5057,39.25,Breast Conserving,3.0,Negative,Negative,3.0,Neutral,Negative,Ductal/NST,No,Pre,Right,0.0,15.0,1.0,12.0,4.03,56.33333333,Deceased,3.91,Recurred,Female,Died of Disease,normal
+MB-5058,61.04,Mastectomy,3.0,Negative,Negative,3.0,Neutral,Negative,Mixed,Yes,Post,Right,16.0,15.0,2.0,6.0,6.03,178.7333333,Deceased,169.61,Recurred,Female,Died of Disease,normal
+MB-5059,53.69,Mastectomy,3.0,Positve,Positive,2.0,Neutral,Negative,Mixed,No,Post,Left,0.0,17.0,1.0,8.0,3.034,257.6333333,Living,254.24,Not Recurred,Female,Living,normal
+MB-5060,75.01,Breast Conserving,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Right,1.0,25.0,2.0,6.0,4.05,150.1,Deceased,148.13,Not Recurred,Female,Died of Other Causes,normal
+MB-5061,71.05,Breast Conserving,3.0,Positve,Positive,2.0,Neutral,Negative,Ductal/NST,Yes,Post,Left,2.0,25.0,2.0,1.0,4.05,39.43333333,Living,38.91,Not Recurred,Female,Living,normal
+MB-5062,75.55,Breast Conserving,3.0,Positve,Positive,3.0,Gain,Positive,Ductal/NST,Yes,Post,Right,1.0,20.0,2.0,7.0,5.04,168.2666667,Living,74.18,Recurred,Female,Living,normal
+MB-5063,41.54,Mastectomy,3.0,Negative,Negative,3.0,Gain,Positive,Ductal/NST,No,Pre,Right,1.0,20.0,2.0,6.0,5.04,215.1666667,Living,212.34,Not Recurred,Female,Living,normal
