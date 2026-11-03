@@ -1,0 +1,45 @@
+case,image,view,density,abnormality,truth,expected_priority,model,malignant,benign,priority,pass,latency_s
+C01,IMG471,MLOLT,G,SPIC,M,HIGH or MEDIUM (flag for early read),"Mock v1.2 (random, Milestone 2)",0.4103,0.4282,HIGH,True,0.04
+C02,IMG458,CCLT,-,CIRC,M,HIGH or MEDIUM (flag for early read),"Mock v1.2 (random, Milestone 2)",0.8047,0.257,HIGH,True,0.02
+C03,IMG161,CCRT,G,ARCH+CALC+CALC,M,HIGH or MEDIUM (flag for early read),"Mock v1.2 (random, Milestone 2)",0.9458,0.1566,HIGH,True,0.02
+C04,IMG491,MLOLT,G,SPIC+CALC,M,HIGH or MEDIUM (flag for early read),"Mock v1.2 (random, Milestone 2)",0.3254,0.7288,HIGH,True,0.02
+C05,IMG287,MLOLT,G,MISC + CALC,M,HIGH or MEDIUM (flag for early read),"Mock v1.2 (random, Milestone 2)",0.9193,0.4277,HIGH,True,0.02
+C06,IMG370,MLORT,G,CIRC+CALC,M,HIGH or MEDIUM (flag for early read),"Mock v1.2 (random, Milestone 2)",0.3492,0.77,HIGH,True,0.02
+C07,IMG445,CCRT,G,CIRC+SPIC,M,HIGH or MEDIUM (flag for early read),"Mock v1.2 (random, Milestone 2)",0.2773,0.1534,HIGH,True,0.02
+C08,IMG355,CCLT,G,CALC,B,MEDIUM or LOW (not urgent),"Mock v1.2 (random, Milestone 2)",0.5373,0.2764,HIGH,False,0.02
+C09,IMG219,CCLT,G,CIRC,B,MEDIUM or LOW (not urgent),"Mock v1.2 (random, Milestone 2)",0.0955,0.5673,MEDIUM,True,0.02
+C10,IMG158,MLORT,G,CIRC,B,MEDIUM or LOW (not urgent),"Mock v1.2 (random, Milestone 2)",0.672,0.7962,HIGH,False,0.02
+C11,IMG286,CCRT,G,CALC,B,MEDIUM or LOW (not urgent),"Mock v1.2 (random, Milestone 2)",0.7774,0.0992,HIGH,False,0.02
+C12,IMG432,CCRT,D,CIRC,B,MEDIUM or LOW (not urgent),"Mock v1.2 (random, Milestone 2)",0.8535,0.2997,HIGH,False,0.02
+C13,IMG272,CCRT,G,CIRC,B,MEDIUM or LOW (not urgent),"Mock v1.2 (random, Milestone 2)",0.8387,0.1054,HIGH,False,0.02
+C14,IMG426,MLOLT,G,CIRC,B,MEDIUM or LOW (not urgent),"Mock v1.2 (random, Milestone 2)",0.7066,0.0661,HIGH,False,0.02
+C15,IMG177,MLORT,G,NORM,NORM,LOW (likely normal),"Mock v1.2 (random, Milestone 2)",0.7129,0.1497,HIGH,False,0.02
+C16,IMG152,CCRT,G,NORM,NORM,LOW (likely normal),"Mock v1.2 (random, Milestone 2)",0.6632,0.1888,HIGH,False,0.02
+C17,IMG123,CCLT,G,NORM,NORM,LOW (likely normal),"Mock v1.2 (random, Milestone 2)",0.128,0.4067,HIGH,False,0.02
+C18,IMG240,CCRT,G,NORM,NORM,LOW (likely normal),"Mock v1.2 (random, Milestone 2)",0.4224,0.2093,HIGH,False,0.02
+C19,IMG397,MLOLT,G,NORM,NORM,LOW (likely normal),"Mock v1.2 (random, Milestone 2)",0.3967,0.7014,HIGH,False,0.02
+C20,IMG509,CCLT,F,NORM,NORM,LOW (likely normal),"Mock v1.2 (random, Milestone 2)",0.6812,0.2984,HIGH,False,0.02
+C21,IMG229,MLOLT,G,NORM,NORM,LOW (likely normal),"Mock v1.2 (random, Milestone 2)",0.8308,0.3678,HIGH,False,0.02
+C22,IMG006,MLORT,F,NORM,NORM,LOW (likely normal),"Mock v1.2 (random, Milestone 2)",0.5664,0.1915,HIGH,False,0.02
+C01,IMG471,MLOLT,G,SPIC,M,HIGH or MEDIUM (flag for early read),GMIC (NYU) ensemble of 5,0.0368,0.266,MEDIUM,True,6.19
+C02,IMG458,CCLT,-,CIRC,M,HIGH or MEDIUM (flag for early read),GMIC (NYU) ensemble of 5,0.0086,0.0956,LOW,False,6.28
+C03,IMG161,CCRT,G,ARCH+CALC+CALC,M,HIGH or MEDIUM (flag for early read),GMIC (NYU) ensemble of 5,0.0228,0.1523,LOW,False,6.15
+C04,IMG491,MLOLT,G,SPIC+CALC,M,HIGH or MEDIUM (flag for early read),GMIC (NYU) ensemble of 5,0.2021,0.5653,HIGH,True,6.66
+C05,IMG287,MLOLT,G,MISC + CALC,M,HIGH or MEDIUM (flag for early read),GMIC (NYU) ensemble of 5,0.0401,0.4956,MEDIUM,True,6.81
+C06,IMG370,MLORT,G,CIRC+CALC,M,HIGH or MEDIUM (flag for early read),GMIC (NYU) ensemble of 5,0.0198,0.1222,LOW,False,6.65
+C07,IMG445,CCRT,G,CIRC+SPIC,M,HIGH or MEDIUM (flag for early read),GMIC (NYU) ensemble of 5,0.0233,0.2351,LOW,False,6.02
+C08,IMG355,CCLT,G,CALC,B,MEDIUM or LOW (not urgent),GMIC (NYU) ensemble of 5,0.0121,0.185,LOW,True,6.32
+C09,IMG219,CCLT,G,CIRC,B,MEDIUM or LOW (not urgent),GMIC (NYU) ensemble of 5,0.0132,0.1235,LOW,True,6.81
+C10,IMG158,MLORT,G,CIRC,B,MEDIUM or LOW (not urgent),GMIC (NYU) ensemble of 5,0.0207,0.3001,LOW,True,6.65
+C11,IMG286,CCRT,G,CALC,B,MEDIUM or LOW (not urgent),GMIC (NYU) ensemble of 5,0.1324,0.5365,HIGH,False,6.48
+C12,IMG432,CCRT,D,CIRC,B,MEDIUM or LOW (not urgent),GMIC (NYU) ensemble of 5,0.0252,0.2894,LOW,True,6.79
+C13,IMG272,CCRT,G,CIRC,B,MEDIUM or LOW (not urgent),GMIC (NYU) ensemble of 5,0.042,0.3416,MEDIUM,True,6.71
+C14,IMG426,MLOLT,G,CIRC,B,MEDIUM or LOW (not urgent),GMIC (NYU) ensemble of 5,0.0417,0.4503,MEDIUM,True,6.62
+C15,IMG177,MLORT,G,NORM,NORM,LOW (likely normal),GMIC (NYU) ensemble of 5,0.0081,0.0907,LOW,True,6.78
+C16,IMG152,CCRT,G,NORM,NORM,LOW (likely normal),GMIC (NYU) ensemble of 5,0.0178,0.2269,LOW,True,6.84
+C17,IMG123,CCLT,G,NORM,NORM,LOW (likely normal),GMIC (NYU) ensemble of 5,0.0343,0.2065,MEDIUM,False,6.29
+C18,IMG240,CCRT,G,NORM,NORM,LOW (likely normal),GMIC (NYU) ensemble of 5,0.0151,0.191,LOW,True,7.07
+C19,IMG397,MLOLT,G,NORM,NORM,LOW (likely normal),GMIC (NYU) ensemble of 5,0.0207,0.1872,LOW,True,6.88
+C20,IMG509,CCLT,F,NORM,NORM,LOW (likely normal),GMIC (NYU) ensemble of 5,0.0089,0.1127,LOW,True,6.83
+C21,IMG229,MLOLT,G,NORM,NORM,LOW (likely normal),GMIC (NYU) ensemble of 5,0.0277,0.2266,LOW,True,7.3
+C22,IMG006,MLORT,F,NORM,NORM,LOW (likely normal),GMIC (NYU) ensemble of 5,0.01,0.0555,LOW,True,6.39
