@@ -1,3 +1,5 @@
+https://www.kaggle.com/datasets/bajcsiadel96/romanian-dense-breast-mammography-collection
+
 Total Malignant Patients: 191
 Target = 1.0 (Metastasis / Axillary Adenopathy): 53
 Target = 0.0 (Otherwise / Localized): 138
