@@ -1,0 +1,47 @@
+Total Malignant Patients: 191
+Target = 1.0 (Metastasis / Axillary Adenopathy): 53
+Target = 0.0 (Otherwise / Localized): 138
+
+
+Classification
+benign       248
+malignant    191
+healthy      130
+
+Cancer type
+NaN           411
+primary       133
+satellite      24
+metastasis      1
+
+Mass_Associated features
+NaN                                                              454
+Calcifications                                                    34
+Axillary adenopathy                                               32
+Calcifications, Axillary adenopathy                               15
+Architectural distorsion                                           9
+Architectural distorsion, Axillary adenopathy                      5
+Architectural distorsion, Calcifications                           5
+Nipple retraction                                                  4
+Nipple retraction, Axillary adenopathy                             3
+Calcifications, Architectural distorsion                           1
+Skin retraction                                                    1
+Axillary adenopathy, Nipple retraction                             1
+Calcifications, Nipple retraction                                  1
+Skin retraction, Architectural distorsion, Calcifications          1
+Skin retraction, Nipple retraction                                 1
+Architectural distorsion, Calcifications, Axillary adenopathy      1
+Calcifications, Architectural distorsion, Axillary adenopathy      1
+
+
+ --- Epoch 1/3 ---
+Train Loss: 0.7446
+Test Loss: 0.6455 | Test Accuracy: 64.10%
+
+--- Epoch 2/3 --
+Train Loss: 0.5974
+Test Loss: 0.6747 | Test Accuracy: 64.10%
+
+--- Epoch 3/3 ---
+Train Loss: 0.5379
+Test Loss: 0.6757 | Test Accuracy: 64.10%
