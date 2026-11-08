@@ -242,3 +242,80 @@ riguroasă, s-a potrivit în acest context destul de bine. Totuși am vrut
 să testăm și implementarea unui Multi-Layer Perceptron (MLP), soluție
 care în teorie ar trebui să ofere un rezultat mai bun, dar care va
 consuma mai multe resurse.
+
+In continuare, pentru a testa cat de bun este algoritmul ales pentru
+problema prezentata, s-a folosit un set de date reale [@mamoRO], care
+ofera tipuri diverse de mamografii (CC, MLO). Ceea ce este diferit fata
+de setul precedent este ca, pe langa raportul medical, exista date deja
+extrase (precum daca exista sau nu calficari, unde sunt localizate,
+forma acestora, etc.) care pot fi folosite pentru antrenarea modelului.
+Astfel, au fost abordate 2 metode de rezolvare. Prima inlocuieste
+ClinicalBERT cu un MLP obisnuit, urmand ca acesta sa proceseze direct
+datele preluate din fisierul csv. Cea de-a doua pastreaza ClinicalBERT
+si utilizeaza fisa medicala curatata de cuvinte \"indiciu\" precum:
+scorul BI-RADS, tumoare, malign, biopsie, stare avansata, etc.
+
+In tabelul urmator este prezentata performanta modelului in ambele
+cazuri (pentru clasificatorul final s-a folosit MLP in ambele cazuri)
+(de aceasta data exista 3 clase: Healthy, Benign, Malignant).
+
+::: {#tab:rezultate_clasificatoare}
+  Clasa        Precizie   Recall   F1 Score  
+  ----------- ---------- -------- ---------- --
+  Healthy        0.67      0.59      0.63    
+  Benign         0.43      0.40      0.41    
+  Malignant      0.61      0.73      0.66    
+
+  : Rezultatele abordarii care utilizeaza MLP
+:::
+
+::: {#tab:rezultate_clasificatoare}
+  Clasa        Precizie   Recall   F1 Score  
+  ----------- ---------- -------- ---------- --
+  Healthy        0.80      0.71      0.75    
+  Benign         0.54      0.47      0.50    
+  Malignant      0.68      0.87      0.76    
+
+  : Rezultatele abordarii care utilizeaza ClinicalBERT
+:::
+
+In cazul in care au fost folosite datele din fisierul metadata.csv, s-au
+preluat urmatoarele masuratori:
+
+- Age
+
+- Breast
+
+- Breast Composition
+
+- Mass_Present
+
+- Calcifications_Present
+
+- Calcifications_Type
+
+- Mass_Shape
+
+- Mass_Margin
+
+- Mass_Location
+
+- Calcifications_Distribution
+
+De asemenea, procesarea mamografiei a contat 66.666% la analiza finala,
+iar datele extrase din tabel 33.333%.
+
+In cazul in care am folosit intreaga fisa medicala, din care au fost
+extrase datele care ar fi dat indicii despre starea pacientului,
+procesarea mamografiei a contat 50%, iar informatiile extrase din fisa
+medicala 50% la analiza finala.
+
+Desi am utilizat tehnici prin care se obtine, in general, performanta
+mai buna, precum: utilizarea unor ponderi pentru clase pentru a sublinia
+ca este mai important sa detecteze corect situatiile in care pacientii
+au o tumoare maligna, drop-out pentru prevenire overfitting-ului, rata
+de invatare variabila, rezultatele obtinute pe acest set de date nu sunt
+excelente. Diferenta fata de setul anterior este ca, de data aceasta
+lucram cu mamografiile unor sani mai densi, din care se disting mai greu
+detaliile precum aparitia calcificarilor, acestea ajungand sa se piarda
+la redimensionarea imaginii.
