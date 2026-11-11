@@ -1,0 +1,9 @@
+torch>=2.1
+torchvision>=0.16
+numpy
+opencv-python
+PyQt5>=5.15
+pydicom
+pandas
+openpyxl
+openai>=1.0

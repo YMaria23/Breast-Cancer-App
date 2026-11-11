@@ -2,3 +2,9 @@
 __pycache__/
 *.pyc
 .idea/"*.pth" 
+
+software-solution/third_party/
+software-solution/logs/
+__pycache__/
+.env
+software-solution/.env
